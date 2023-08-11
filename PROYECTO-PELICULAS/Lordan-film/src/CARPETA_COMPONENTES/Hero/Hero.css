@@ -1,0 +1,39 @@
+.carousel-item-hero img {
+  height: 550px !important;
+  object-fit: cover;
+  filter: brightness(0.4);
+  z-index: 999;
+}
+.carousel-caption {
+  right: 0 !important;
+  left: 10px !important;
+}
+
+.carousel .carousel-indicators button {
+  display: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  background: none !important;
+}
+
+.btn-hero {
+  background-color: #e70a52 !important;
+  border: 1px solid #e70a52 !important;
+  transition: 500ms ease-in-out;
+}
+
+.btn-trailer {
+  border: 1px solid #e70a52 !important;
+  background-color: #000 !important;
+  transition: 500ms ease-in-out;
+}
+
+.btn-hero:hover,
+.btn-trailer:hover {
+  transform: translateY(-5px);
+}

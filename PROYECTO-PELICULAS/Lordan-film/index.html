@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="./src/CARPETA_COMPONENTES/Navbar/icons8-documentary-64.png"
+      type="image/x-icon" />
+    <title>Lordan Film</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
+      rel="stylesheet" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+      function controlarCarousel(
+        cantidad,
+        identificador,
+        velocidad,
+        autoplay,
+        xs,
+        md
+      ) {
+        if (cantidad == null) {
+          cantidad = 8;
+        }
+
+        var owl = $("#" + identificador + " .owl-carousel");
+        // $("#categorias .owl-carousel");
+        // $("#novedades .owl-carousel");
+        // document.querySelector("#categorias .owl-carousel")
+        // document.querySelector("#novedades .owl-carousel")
+
+        owl.owlCarousel({
+          autoplay: autoplay,
+          loop: true,
+          dots: false,
+          nav: true,
+          margin: 10,
+          responsive: {
+            0: {
+              items: xs,
+            },
+            600: {
+              items: md,
+            },
+            1000: {
+              items: cantidad,
+            },
+          },
+          autoplayTimeout: 2000,
+          autoplayHoverPause: true,
+          smartSpeed: velocidad,
+        });
+        $(".play").on("click", function () {
+          owl.trigger("play.owl.autoplay", [1000]);
+        });
+        $(".stop").on("click", function () {
+          owl.trigger("stop.owl.autoplay");
+        });
+      }
+    </script>
+  </head>
+  <body class="esconder">
+    <!-- <div class="loading" id="page-loading">
+      <div class="spinner">
+        <div class="ring"></div>
+        <div class="ring"></div>
+        <div class="ring"></div>
+        <span>Loading...</span>
+      </div>
+    </div> -->
+    <div class="container-fluid px-0">
+      <section id="loader" class="loading">
+        <video src="smoke.mp4" type="video/mp4" autoplay muted></video>
+        <h1 class="titulo">
+          <span class="crimson">L</span>
+          <span class="crimson">O</span>
+          <span class="crimson">R</span>
+          <span class="crimson">D</span>
+          <span class="crimson">A</span>
+          <span class="crimson">N</span>
+          <span class="film d-block d-md-inline-block"
+            ><i class="fa-solid fa-video"></i
+          ></span>
+          <span>F</span>
+          <span>I</span>
+          <span>L</span>
+          <span>M</span>
+        </h1>
+      </section>
+    </div>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+    <script>
+      controlarSpinner();
+      function controlarSpinner() {
+        $("#root").addClass("d-none");
+
+        setTimeout(function () {
+          $("#loader").fadeOut();
+          $("body").removeClass("esconder");
+          $("#root").removeClass("d-none");
+        }, 9450);
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,80 @@
+[
+  {
+    "titulo": "Dune",
+    "director": "Denis Villeneuve",
+    "anio": 2021,
+    "portada": "https://cdn.superaficionados.com/imagenes/mejores-peliculas-ciencia-ficcion-og.jpg",
+    "descripcion": "Coproducción internacional de Estados Unidos, Reino Unido, Canadá y Hungría.",
+    "interval": 3000
+  },
+  {
+    "titulo": "Al filo del mañana",
+    "director": "Doug Liman",
+    "anio": 2014,
+    "portada": "https://sm.ign.com/t/ign_es/screenshot/default/1366-2000-25_yqc4.1280.jpg",
+    "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra.",
+    "interval": 3000
+  },
+  {
+    "titulo": "Turno de día",
+    "director": "J.J. Perry",
+    "anio": 2022,
+    "portada": "https://okdiario.com/img/2022/09/02/turno-de-dia-netflix-655x368.jpg",
+    "descripcion": "Un padre que trabaja duro para mantener a su hija usa su anodino empleo como limpiador de piscinas.",
+    "interval": 3000
+  },
+
+  {
+    "titulo": "Misión De Rescate 2",
+    "director": "Sam Hargrave",
+    "anio": 2023,
+    "portada": "https://www.techgames.com.mx/wp-content/uploads/2023/05/Mision-de-Rescate-2-jpg.webp",
+    "descripcion": "El agente altamente entrenado, Tyler Rake, regresa del umbral de la muerte con otra peligrosa misión: rescatar a la familia de un mafioso despiadado.",
+    "interval": 3000
+  },
+
+  {
+    "titulo": "Misión Imposible",
+    "director": "Christopher McQuarrie",
+    "anio": 2023,
+    "portada": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/07/1317575-scaled.jpeg?fit=1200%2C675&quality=50&strip=all&ssl=1",
+    "descripcion": "Ethan debe detener a una inteligencia artificial que todas las potencias mundiales codician, la cual se ha vuelto tan poderosa que se rebeló contra sus creadores y ahora es una amenaza en sí misma.",
+    "interval": 3000
+  },
+
+  {
+    "titulo": "Boksoon debe morir",
+    "director": "Byun Sung-hyun",
+    "anio": 2023,
+    "portada": "https://pasundan.jabarekspres.com/wp-content/uploads/2023/03/p_headline_bakal-tayang-akhir-maret-2023-netflix-k-48c149.jpg",
+    "descripcion": "En el trabajo, es una asesina famosa. En casa, es madre soltera de una adolescente. Matar es fácil. Lo difícil es ser madre.",
+    "interval": 3000
+  },
+
+  {
+    "titulo": "White Chics",
+    "director": "Keenen Ivory Wayans",
+    "anio": 2004,
+    "portada": "https://m.media-amazon.com/images/M/MV5BNTM2MTQxNDA0MF5BMl5BanBnXkFtZTgwMDg5MjgxMDI@._V1_.jpg",
+    "descripcion": "Dos torpes agentes del FBI se hacen pasar por dos chicas de la alta sociedad para investigar una serie de secuestros.",
+    "interval": 3000
+  },
+
+  {
+    "titulo": "Virgen A Los 40",
+    "director": "Judd Apatow",
+    "anio": 2005,
+    "portada": "https://backend.fueradefoco.com.mx/wp-content/uploads/2020/08/virgen-a-los-40.jpg",
+    "descripcion": "Tres compañeros de trabajo emprenden una misión de ayuda para que un nuevo amigo pierda la virginidad.",
+    "interval": 3000
+  },
+
+  {
+    "titulo": "Ted",
+    "director": "Seth MacFarlane",
+    "anio": 2012,
+    "portada": "https://i.ytimg.com/vi/bWcVNC6bcE0/maxresdefault.jpg",
+    "descripcion": "Cuando John Bennett era un niño pequeño, pidió el deseo de que Ted, su querido oso de peluche, cobrara vida. Treinta años más tarde, Ted continúa siendo el compañero de John, ante el disgusto de Lori, la novia de John.",
+    "interval": 3000
+  }
+]

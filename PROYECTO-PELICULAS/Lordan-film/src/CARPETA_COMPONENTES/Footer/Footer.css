@@ -1,0 +1,28 @@
+.footer {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+}
+
+.footer span {
+  border-right: 1px solid #e70a52;
+  padding-right: 3px;
+}
+
+.border-left {
+  border: none !important;
+}
+
+.contenedor-redes {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background-color: #e70a52;
+}
+
+.redes-sociales .fs-4 {
+  text-decoration: none;
+  color: white;
+}

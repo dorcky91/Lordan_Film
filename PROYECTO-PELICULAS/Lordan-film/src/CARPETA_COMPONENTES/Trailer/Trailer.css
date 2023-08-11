@@ -1,0 +1,38 @@
+.btn-ver-pelicula {
+  background-color: #e70a52;
+  border: 1px solid #e70a52 !important;
+  transition: 500ms ease-in-out;
+}
+
+.btn-ver-pelicula:hover {
+  background: #e70a52;
+  transform: translateY(-5px);
+}
+
+.btn-modal-cerrar {
+  background-color: black;
+  border: 1px solid #e70a52 !important;
+  transition: 500ms ease-in-out;
+}
+
+.btn-modal-cerrar:hover {
+  transform: translateY(-5px);
+  background: none;
+}
+
+.closeButton {
+  color: white !important;
+  background-color: #e70a52 !important;
+}
+
+@media (max-width: 575.98px) {
+  iframe {
+    height: 210px !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1199.98px) {
+  iframe {
+    height: 280px !important;
+  }
+}

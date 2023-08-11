@@ -1,0 +1,183 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Ubuntu:wght@300;400;500&display=swap");
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  /* font-family: "DM Serif Display", sans-serif; */
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  color: white;
+  background: radial-gradient(
+      139.54% 12.02% at 50.18% 100%,
+      rgb(1, 1, 59) 50%,
+      rgb(0, 0, 0) 100%
+    )
+    fixed;
+}
+
+.owl-carousel {
+  position: relative;
+}
+
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel .owl-nav button.owl-next {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  opacity: 0;
+  font-size: 100px !important;
+  transition: 300ms ease-in-out;
+  padding: 4px 12px !important;
+  margin: initial;
+}
+
+.owl-carousel .owl-nav button.owl-prev:hover,
+.owl-carousel .owl-nav button.owl-next:hover {
+  opacity: 1;
+  backdrop-filter: blur(20px);
+  background: rgb(0, 0, 0, 0.3);
+}
+
+.owl-theme .owl-nav {
+  margin-top: 0;
+}
+
+.owl-nav .owl-prev {
+  left: 0;
+}
+.owl-nav .owl-next {
+  right: 0;
+}
+
+.esconder {
+  overflow: hidden;
+}
+
+#loader {
+  position: relative;
+  height: 100vh;
+  background-color: #000;
+}
+
+video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#loader .titulo {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  text-align: center;
+  color: #dddddd;
+  font-size: 3em;
+  font-family: sans-serif;
+  letter-spacing: 0.2em;
+}
+
+.titulo span {
+  opacity: 0;
+  display: inline-block;
+  animation: animate 1s linear infinite;
+}
+
+.film {
+  opacity: 0;
+  display: inline-block;
+  animation: film 1s linear infinite;
+}
+
+@keyframes animate {
+  0% {
+    opacity: 0;
+    transform: rotateY(90deg);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0deg);
+    filter: blur(0);
+  }
+}
+
+.titulo span:nth-child(1) {
+  animation-delay: 1s;
+}
+
+.titulo span:nth-child(2) {
+  animation-delay: 1.5s;
+}
+
+.titulo span:nth-child(3) {
+  animation-delay: 2s;
+}
+
+.titulo span:nth-child(4) {
+  animation-delay: 2.5s;
+}
+
+.titulo span:nth-child(5) {
+  animation-delay: 3s;
+}
+
+.titulo span:nth-child(6) {
+  animation-delay: 3.5s;
+}
+
+.titulo span:nth-child(7) {
+  animation-delay: 4s;
+}
+
+.titulo span:nth-child(8) {
+  animation-delay: 4.5s;
+}
+
+.titulo span:nth-child(9) {
+  animation-delay: 5s;
+}
+
+.titulo span:nth-child(10) {
+  animation-delay: 5.5s;
+}
+
+.titulo span:nth-child(11) {
+  animation-delay: 6s;
+}
+
+.crimson {
+  color: #e70a52;
+}
+
+.film {
+  color: green;
+}
+
+@media (max-width: 576px) {
+  #loader .titulo {
+    font-size: 2em;
+    letter-spacing: 0.1em;
+  }
+
+  .film {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 992px) {
+  #loader .titulo {
+    font-size: 2.7em;
+    letter-spacing: 0.15em;
+  }
+}

@@ -1,0 +1,1363 @@
+{
+  "Accion": [
+    {
+      "titulo": "Boksoon debe morir",
+      "director": " Byun Sung-hyun",
+      "anio": 2023,
+      "portada": "https://i.blogs.es/b398a1/cartel-de-boksoon-debe-morir/450_1000.jpeg"
+    },
+    {
+      "titulo": "BAC Nord",
+      "director": "Cédric Jimenez",
+      "anio": 2020,
+      "portada": " https://media.revistagq.com/photos/6363be31bb13eee9d9ad0928/master/w_1280,h_720,c_limit/bac-nord.jpeg",
+      "descripcion": "Coproducción internacional de Estados Unidos, Reino Unido, Canadá y Hungría."
+    },
+    {
+      "titulo": "Dune",
+      "director": "Denis Villeneuve",
+      "anio": 2021,
+      "portada": "https://cdn.superaficionados.com/imagenes/mejores-peliculas-ciencia-ficcion-og.jpg",
+      "descripcion": "Coproducción internacional de Estados Unidos, Reino Unido, Canadá y Hungría."
+    },
+    {
+      "titulo": "Assassin Club",
+      "director": "Camille Delamarre",
+      "anio": 2023,
+      "portada": "https://image.tmdb.org/t/p/original/q5CGqAt5Dn6fRBFQIDPqcxdVAf8.jpg",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "El proyecto Adam",
+      "director": " Shawn Levy",
+      "anio": 2022,
+      "portada": "https://i.blogs.es/d87f39/el-proyecto-adam-cartel-netflix/450_1000.jpeg",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "Corazones de hierro",
+      "director": " David Ayer",
+      "anio": 2014,
+      "portada": "https://occ-0-38-64.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZ_t9tMDn-H95jTlVeB5wsIk_QGuoMuUEe9qdMmPCElAlpcX_pWnxPP4wQImwokagkR88wkTEOL4PKDYmistFhfdp5mfj0Q49oP8.jpg?r=a8f",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "Misión de rescate",
+      "director": " Sam Hargrave",
+      "anio": 2020,
+      "portada": "https://occ-0-420-999.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVqcLQpf6mxvyIfcaadFQhph_iN1tmNUjmHziE4hXp6HsNL0ViweqrNA3JUqdX_ukwGIWZzli2G4cry-1PYBFRk22_a8C2LG86Cj.jpg?r=1ef",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "Homefront",
+      "director": " Gary Fleder",
+      "anio": 2014,
+      "portada": "https://hiramnoriega.com/wp-content/uploads/2022/07/Linea-de-fuego-2.jpg",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "Alerta roja",
+      "director": " Rawson Marshall Thurber",
+      "anio": 2021,
+      "portada": "https://i.blogs.es/9e78f8/alerta-roja-cartel/450_1000.jpeg",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "Sin remordimientos",
+      "director": " Stefano Sollima",
+      "anio": 2021,
+      "portada": "https://sm.ign.com/ign_es/screenshot/default/qv7hoozvblynjqpswivl7mqiajx_n4cg.jpg",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "The Ice Road",
+      "director": " Jonathan Hensleigh",
+      "anio": 2022,
+      "portada": "https://media.revistagq.com/photos/61289c0f8a49f53b4b9cfe3d/16:9/pass/ice-road.jpg",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "Escuadrón 6",
+      "director": " Michael Bay",
+      "anio": 2022,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/6-en-la-sombra-2-1585813193.jpg",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "Me llamo Venganza",
+      "director": "Cosimo Gomez",
+      "anio": 2022,
+      "portada": "https://indiehoy.com/wp-content/uploads/2022/12/me-llamo-venganza.jpg",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "Misión de rescate",
+      "director": "Sam Hargrave",
+      "anio": 2023,
+      "portada": "https://occ-0-2164-586.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQBtP-e_2N6t6RGIod71YiF3dv-RBLW-LpEcxbj7270dgekx0UOMBvCTgrT4eREU0Wn3MYbJYakOpcFO5QuVvk0sGbfBtfOYIG2OF5OdcpHA7EeUkBlMJ1dXbAU7SQax3Zzz7A.jpg?r=fe5",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "Mile 22",
+      "director": "Peter Berg",
+      "anio": 2018,
+      "portada": "https://www.clarin.com/img/2022/11/14/ilj9-354S_720x0__1.jpg",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "Sream 6",
+      "director": "Tyler Gillett",
+      "anio": 2023,
+      "portada": "https://d500.epimg.net/cincodias/imagenes/2023/07/27/smarttv/1690471272_208783_1690471523_noticia_normal.jpg",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "Mision imposible",
+      "director": "Christopher McQuarrie",
+      "anio": 2023,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mision-imposible-8-64aeaa9e5040c.jpg",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "Al filo del mañana",
+      "director": "Doug Liman",
+      "anio": 2014,
+      "portada": "https://sm.ign.com/t/ign_es/screenshot/default/1366-2000-25_yqc4.1280.jpg",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "The Marksman",
+      "director": " Robert Lorenz",
+      "anio": 2021,
+      "portada": "https://i.ytimg.com/vi/PVjFgrBwn0g/maxresdefault.jpg",
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+    },
+    {
+      "titulo": "Turno de día",
+      "director": "J.J. Perry",
+      "anio": 2022,
+      "portada": "https://okdiario.com/img/2022/09/02/turno-de-dia-netflix-655x368.jpg",
+      "descripcion": "Un padre que trabaja duro para mantener a su hija usa su anodino empleo como limpiador de piscinas."
+    }
+  ],
+  "Comedia": [
+    {
+      "titulo": "Los amantes pasajeros",
+      "director": " Pedro Almodóvar",
+      "anio": 2013,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-los-amantes-pasajeros-1632310415.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Unbreakable Kimmy Schmidt",
+      "director": "  Claire Scanlon",
+      "anio": 2020,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-kimmy-smitch-1632304772.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "El bar",
+      "director": " Álex de la Iglesia",
+      "anio": 2017,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-el-bar-1632310092.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Moxie",
+      "director": " Amy Poehler",
+      "anio": 2021,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-moxie-1632304184.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Ted",
+      "director": "Seth MacFarlane",
+      "anio": 2012,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-ted-1632312354.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Toc Toc",
+      "director": " Vicente Villanueva",
+      "anio": 2017,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-toc-toc-1632307847.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Fuerza Trueno",
+      "director": " Ben Falcone",
+      "anio": 2021,
+      "portada": "https://i.blogs.es/bd5685/patrulla-trueno-cartel/1366_2000.png"
+    },
+    {
+      "titulo": "Virgen a los 40",
+      "director": " Judd Apatow",
+      "anio": 2005,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-virgen-a-los-40-1632313351.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Good On Paper ",
+      "director": " Kimmy Gatewood",
+      "anio": 2021,
+      "portada": "https://occ-0-1723-1001.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTj8zDdm0yhFK1T0etrKzHSyvpTOSIfv8TDMo6D_JAG27VlW8U0jVwdzVFoKeSN1PuR9Zv8-YfY4I7EI8OpyqSsvW9Si5DAZ7ZPF.jpg?r=cda"
+    },
+    {
+      "titulo": "Loco por ella",
+      "director": " Dani de la Orden",
+      "anio": 2021,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-loco-por-ella-1632304281.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Puñales por la espalda",
+      "director": " Rian Johnson",
+      "anio": 2019,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-punales-por-la-espalda-1632307602.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "BOOKSMART",
+      "director": " Olivia Wilde",
+      "anio": 2019,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-super-empollonas-1632312130.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "No mires arriba",
+      "director": " Adam McKay",
+      "anio": 2021,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/no-mires-arriba-portada-1637680853.jpeg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Ted 2",
+      "director": " Seth MacFarlane",
+      "anio": 2015,
+      "portada": "https://media.vandal.net/i/620x310/2-2021/202121815425056_4.jpg"
+    },
+    {
+      "titulo": "Ocho apellidos vascos ",
+      "director": "Emilio Martínez-Lázaro",
+      "anio": 2014,
+      "portada": "https://media.vandalsports.com/i/620x349/1-2022/2022124181249_1.jpg"
+    },
+    {
+      "titulo": "Cazafantasmas ",
+      "director": "Paul Feig",
+      "anio": 2016,
+      "portada": "https://media.vandalsports.com/master/1-2022/2022124183658_1.jpg"
+    },
+    {
+      "titulo": "Son Como Niños ",
+      "director": "Dennis Dugan",
+      "anio": 2010,
+      "portada": "https://cl.buscafs.com/www.sandiegored.com/public/uploads/images/189516.jpg"
+    },
+    {
+      "titulo": "White Chicks",
+      "director": "Keenen Ivory Wayans",
+      "anio": 2004,
+      "portada": "https://ds-images.bolavip.com/news/image/800/800/?src=https://images.bolavip.com/webp/spo/full/SPO_20230524_SPO_928_MV5BNTM2MTQxNDA0MF5BMl5BanBnXkFtZTgwMDg5MjgxMDI@._V1_-scaled-e1684958184567.webp"
+    },
+    {
+      "titulo": "Little Man",
+      "director": "Keenen Ivory Wayans",
+      "anio": 2006,
+      "portada": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2006/8/w1280/9SfvB8ZO2mpy5dhB2IetK3ygXdr.jpg"
+    },
+    {
+      "titulo": "Masterminds",
+      "director": "Jared Hess",
+      "anio": 2016,
+      "portada": "https://poluxweb.com/Polux3/cache/Mentes_maestras_23_images_data_cine_resenas_2016_octubre_MentesMaestras_thumb_medium800_550.jpg"
+    }
+  ],
+  "Drama": [
+    {
+      "titulo": "Violet y Finch",
+      "director": "Brett Haley",
+      "anio": 2020,
+      "portada": "https://cdn.culturagenial.com/es/imagenes/violet-finch-pelicula.jpg"
+    },
+    {
+      "titulo": "18 Presents",
+      "director": "Francesco Amato",
+      "anio": 2020,
+      "portada": "https://cdn.culturagenial.com/es/imagenes/dieciocho-regalos.jpg"
+    },
+    {
+      "titulo": "Fragmentos de una mujer",
+      "director": "Kornél Mundruczó",
+      "anio": 2020,
+      "portada": "https://i.blogs.es/7f87b1/cartel-fragmentos-de-una-mujer/1366_2000.jpeg"
+    },
+    {
+      "titulo": "Blonde",
+      "director": "Andrew Dominik",
+      "anio": 2022,
+      "portada": "https://cdn.culturagenial.com/es/imagenes/blonde-pelicula.jpg"
+    },
+    {
+      "titulo": "Sin novedad en el frente",
+      "director": "Edward Berger",
+      "anio": 2022,
+      "portada": "https://img11.tokyvideo.com/videos/180/180952/previews/previews_0006_custom_1667462402.9731.jpg"
+    },
+    {
+      "titulo": "Hannah Arendt",
+      "director": "Margarethe von Trotta",
+      "anio": 2012,
+      "portada": "https://www.aceprensa.com/wp-content/uploads/2013/05/121873-0-683x1024.jpg"
+    },
+    {
+      "titulo": "The Finest Hours ",
+      "director": "Craig Gillespie",
+      "anio": 2016,
+      "portada": "https://i.ytimg.com/vi/JFvYi5LQpYI/sddefault.jpg"
+    },
+    {
+      "titulo": "The Wave",
+      "director": "Roar Uthaug",
+      "anio": 2015,
+      "portada": "https://cineuropa.org/Galleries/298/137/poster1_big.jpg?1443523533345"
+    },
+    {
+      "titulo": "Contagio",
+      "director": "Steven Soderbergh",
+      "anio": 2011,
+      "portada": "https://m.media-amazon.com/images/S/pv-target-images/4ac6c71fe0bdeed4b4c06f3ddd1fb65174acf21199da5d8cf00091319486fde8._SX780_.jpg"
+    },
+    {
+      "titulo": "Skyfire",
+      "director": "Simon West",
+      "anio": 2019,
+      "portada": "https://moviehaku.com/thumbs/films/400x590/Skyfire.jpg"
+    },
+    {
+      "titulo": "Thirteen Lives",
+      "director": "Ron Howard",
+      "anio": 2022,
+      "portada": "https://dims.apnews.com/dims4/default/4581537/2147483647/strip/true/crop/3000x1688+0+0/resize/599x337!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fd655dda34e3d48faa9f1798adf51c856%2F3000.jpeg"
+    },
+    {
+      "titulo": "The Immigrant ",
+      "director": "James Gray",
+      "anio": 2014,
+      "portada": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/68852e6e123a66d29b1ec2a9b42b6c33614adb452c27410414ce86859ceb2282._RI_TTW_.jpg"
+    },
+    {
+      "titulo": "Gloria",
+      "director": "Sebastián Lelio",
+      "anio": 2013,
+      "portada": "https://images.justwatch.com/poster/241728556/s718/gloria-2013.%7Bformat%7D"
+    },
+    {
+      "titulo": "Phoenix",
+      "director": "Christian Petzold",
+      "anio": 2014,
+      "portada": "https://images.justwatch.com/poster/283488837/s592/phoenix"
+    },
+    {
+      "titulo": "Mommy",
+      "director": "Xavier Dolan",
+      "anio": 2014,
+      "portada": "https://www.brightwalldarkroom.com/wp-content/uploads/2021/03/mommy-dolan.jpg"
+    },
+    {
+      "titulo": "Night Comes On",
+      "director": " Jordana Spiro",
+      "anio": 2018,
+      "portada": "https://static01.nyt.com/images/2018/08/03/arts/03night1/merlin_141821532_d3e09c58-f95d-428b-84e3-4e0a36e190a2-superJumbo.jpg"
+    },
+    {
+      "titulo": "The Nest ",
+      "director": "Sean Durkin",
+      "anio": 2020,
+      "portada": "https://imagenes.20minutos.es/files/og_thumbnail_1900/uploads/imagenes/2020/06/16/The-Nest-CM.jpg"
+    },
+    {
+      "titulo": "The Assistant",
+      "director": "Kitty Green",
+      "anio": 2019,
+      "portada": "https://static.filmin.es/images/media/32205/5/still_0_3_790x398.webp"
+    },
+    {
+      "titulo": "The Lost Daughter",
+      "director": " Maggie Gyllenhaal",
+      "anio": 2021,
+      "portada": "https://occ-0-1432-1348.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABanEIyHx35LyDk84e5ptRJTwiyHOsAdofeyuh0CXG8pwF-uaAAB-BXFhfS9rfHsk-MlH3mVdU5Q_YM8vIgv37YOmMiyKqiLmP2_o.jpg?r=45a"
+    },
+    {
+      "titulo": "The Almond and the Seahorse",
+      "director": " Celyn Jones, Tom Stern",
+      "anio": 2022,
+      "portada": "https://m.media-amazon.com/images/M/MV5BMmExNGFjOTUtMmY2MC00ZWZmLWE4MGItNDNiNTk3Mjk4YzQxXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_.jpg"
+    }
+  ],
+  "Romance": [
+    {
+      "titulo": "Historia de un matrimonio",
+      "director": "Noah Baumbach",
+      "anio": 2019,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/historia-de-un-matrimonio-1675345454.jpg?resize=980:*"
+    },
+    {
+      "titulo": "El sueño de mi vida",
+      "director": "Gary Winick",
+      "anio": 2004,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/el-sueno-de-mi-vida-642698a24394d.jpg?resize=980:*"
+    },
+    {
+      "titulo": "Cuatro bodas y un funeral",
+      "director": "Mike Newell",
+      "anio": 1994,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-cuatro-bodas-y-un-funeral-1537346371.jpg?crop=1.00xw:0.902xh;0,0.0319xh&resize=980:*"
+    },
+    {
+      "titulo": "El secreto de Adaline",
+      "director": "Lee Toland Krieger",
+      "anio": 2015,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-el-secreto-de-adaline-1537349235.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "La La Land",
+      "director": "Damien Chazelle",
+      "anio": 2016,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-la-la-land-1537351384.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Expiación, más allá de la pasión",
+      "director": "Joe Wright",
+      "anio": 2007,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-expiacion-1537349238.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Cold War",
+      "director": "Pawel Pawlikowski",
+      "anio": 2018,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/cold-war-1534244237.jpg?crop=1.00xw:0.891xh;0,0.109xh&resize=980:*"
+    },
+    {
+      "titulo": "Crazy Stupid Love",
+      "director": "Glenn Ficarra y John Requa",
+      "anio": 2011,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/elle-crazy-stupid-love2-1563174724.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Match Point",
+      "director": "Woody Allen",
+      "anio": 2005,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-match-point-1537349238.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Love Actually",
+      "director": "Richard Curtis",
+      "anio": 2003,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-love-actually-1537351963.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Embriagado de amor",
+      "director": "Paul Thomas Anderson",
+      "anio": 2002,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/still-3-3-1360x765-1652213197.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Jerry Maguire",
+      "director": "Cameron Crowe",
+      "anio": 1996,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/52-jerry-maguire-tom-cruise-renee-zellweger-1656497160.jpeg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "¡Olvídate de mí!",
+      "director": "Michel Gondry",
+      "anio": 2004,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-olvidate-de-mi-1537352048.jpg?crop=1.00xw:0.954xh;0,0.0215xh&resize=980:*"
+    },
+    {
+      "titulo": "Moulin Rouge",
+      "director": "Baz Luhrmann",
+      "anio": 2001,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-moulin-rouge-1537345118.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Una cuestión de tiempo",
+      "director": "Richard Curtis",
+      "anio": 2013,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-una-cuestion-de-tiempo-1537351386.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Retrato de una mujer en llamas",
+      "director": "Céline Sciamma",
+      "anio": 2019,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/ret1-1568821915.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Antes del amanecer",
+      "director": "Richard Linklater",
+      "anio": 1995,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-antes-del-amanecer-1537345450.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "La princesa prometida",
+      "director": "Rob Reiner",
+      "anio": 1987,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-la-princesa-prometida-1537346376.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "El diario de Noa",
+      "director": "Nick Cassavetes",
+      "anio": 2004,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-el-diario-de-noa-1537345118.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "Pride & Prejudice",
+      "director": "Joe Wright",
+      "anio": 2005,
+      "portada": "https://discordiamag.com/wp-content/uploads/2021/02/Portada-e1676814355157.jpg"
+    }
+  ],
+  "CienciaFiccion": [
+    {
+      "titulo": "Infinite",
+      "director": "Antoine Fuqua",
+      "anio": 2021,
+      "portada": "https://www.cinepremiere.com.mx/wp-content/uploads/2021/08/maxresdefault-900x506.jpg"
+    },
+    {
+      "titulo": "Oxygen ",
+      "director": "  Alexandre Aja",
+      "anio": 2021,
+      "portada": "https://es.web.img2.acsta.net/videothumbnails/21/04/28/11/27/4872350.png"
+    },
+    {
+      "titulo": "Moonfall ",
+      "director": "  Roland Emmerich",
+      "anio": 2022,
+      "portada": "https://i.blogs.es/e54a58/16435651899742/1366_2000.jpg"
+    },
+    {
+      "titulo": "M3GAN",
+      "director": "Gerard Johnstone",
+      "anio": 2023,
+      "portada": "https://media.glamour.mx/photos/63bda26abdf0f60b3c1a4515/4:3/w_2664,h_1998,c_limit/megan-la-aterradora-pelicula-que-llega-a-los-cines.jpg"
+    },
+    {
+      "titulo": "Rebel Moon",
+      "director": "Zack Snyder",
+      "anio": 2023,
+      "portada": "https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_56691.jpg"
+    },
+    {
+      "titulo": "Saga Alien",
+      "director": "Ridley Scott, James Cameron",
+      "anio": 2017,
+      "portada": "https://cdn.superaficionados.com/imagenes/42-alien-peliculas-ciencia-ficcion-cke.jpg"
+    },
+    {
+      "titulo": "Donnie Darko: The Director’s Cut",
+      "director": "Richard Kelly",
+      "anio": 2004,
+      "portada": "https://cdn.superaficionados.com/imagenes/41-donnie-darko-peliculas-ciencia-ficcion-cke.jpg"
+    },
+    {
+      "titulo": "The Host",
+      "director": "Bong Joon-ho",
+      "anio": 2006,
+      "portada": "https://cdn.superaficionados.com/imagenes/35-the-host-peliculas-ciencia-ficcion-0-cke.jpg"
+    },
+    {
+      "titulo": "Mr. Nobody",
+      "director": "Jaco Van Dormael",
+      "anio": 2009,
+      "portada": "https://cdn.superaficionados.com/imagenes/62-mr-nobody-peliculas-ciencia-ficcion-cke.jpg"
+    },
+    {
+      "titulo": "District 9",
+      "director": "Neill Blomkamp",
+      "anio": 2009,
+      "portada": "https://cdn.superaficionados.com/imagenes/1-district-9-peliculas-ciencia-ficcion-0-cke.jpg"
+    },
+    {
+      "titulo": "Looper",
+      "director": "Rian Johnson",
+      "anio": 2012,
+      "portada": "https://cdn.superaficionados.com/imagenes/25-looper-peliculas-ciencia-ficcion-cke.jpg"
+    },
+    {
+      "titulo": "Her",
+      "director": "Spike Jonze",
+      "anio": 2013,
+      "portada": "https://cdn.superaficionados.com/imagenes/50-her-peliculas-ciencia-ficcion-cke.jpg"
+    },
+    {
+      "titulo": "Gravity",
+      "director": "Alfonso Cuarón",
+      "anio": 2013,
+      "portada": "https://cdn.superaficionados.com/imagenes/59-gravity-peliculas-ciencia-ficcion-cke.jpg"
+    },
+    {
+      "titulo": "Mad Max: Fury Road",
+      "director": "George Miller",
+      "anio": 2015,
+      "portada": "https://cdn.superaficionados.com/imagenes/45-mad-max-fury-road-peliculas-ciencia-ficcion-cke.jpg"
+    },
+    {
+      "titulo": "Arrival",
+      "director": "Denis Villeneuve",
+      "anio": 2016,
+      "portada": "https://cdn.superaficionados.com/imagenes/7-arrival-peliculas-ciencia-ficcion-cke.jpg"
+    },
+    {
+      "titulo": "Last and First Men",
+      "director": "Jóhann Jóhannsson",
+      "anio": 2017,
+      "portada": "https://cdn.superaficionados.com/imagenes/53-last-and-first-men-peliculas-ciencia-ficcion-cke.jpg"
+    },
+    {
+      "titulo": "Marjorie Prime",
+      "director": "Michael Almereyda",
+      "anio": 2017,
+      "portada": "https://cdn.superaficionados.com/imagenes/11-marjorie-prime-peliculas-ciencia-ficcion-cke.jpg"
+    },
+    {
+      "titulo": "The Discovery",
+      "director": "Charlie McDowell",
+      "anio": 2017,
+      "portada": "https://cdn.superaficionados.com/imagenes/61-the-discovery-peliculas-ciencia-ficcion-cke.jpg"
+    },
+    {
+      "titulo": "Swan Song",
+      "director": "Todd Stephens",
+      "anio": 2021,
+      "portada": "https://cdn.superaficionados.com/imagenes/1-peliculas-de-ciencia-ficcion-swan-song.jpg"
+    },
+    {
+      "titulo": "Nope",
+      "director": "Jordan Peele",
+      "anio": 2022,
+      "portada": "https://cdn.superaficionados.com/imagenes/1-peliculas-de-ciencia-ficcion-nope.jpg"
+    }
+  ],
+  "Terror": [
+    {
+      "titulo": "The Odds",
+      "director": "Bob Giordano",
+      "anio": 2018,
+      "portada": "https://m.media-amazon.com/images/M/MV5BNWYxNTI5NzctNzRmZC00YTE5LWIyYmItOTg5OTE1YmZmOGNmXkEyXkFqcGdeQXVyNzczNzUxNTI@._V1_.jpg"
+    },
+    {
+      "titulo": "The Lighthouse",
+      "director": "Robert Eggers",
+      "anio": 2019,
+      "portada": "https://d135u4jtzauizi.cloudfront.net/LIGOS_105_M3.1V2.1.jpg"
+    },
+    {
+      "titulo": "Midsommar",
+      "director": "Ari Aster",
+      "anio": 2019,
+      "portada": "https://cdn.kinocheck.com/i/7yfvl6grz2.jpg"
+    },
+    {
+      "titulo": "Ready or Not",
+      "director": "Matt Bettinelli-Olpin, Tyler Gillett",
+      "anio": 2019,
+      "portada": "https://cineoculto.com/wp-content/uploads/2019/10/ReadyNot-19-490x380.jpg"
+    },
+    {
+      "titulo": "The Lodge",
+      "director": "Severin Fiala, Veronika Franz",
+      "anio": 2019,
+      "portada": "https://resizing.flixster.com/ntJiibYPBKvGFySYOi4oA1NABhc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RhZDM2MzYxLTYyNDYtNDIyYy04NmEzLTkzYjAyZWNjYzVlMi53ZWJw"
+    },
+    {
+      "titulo": "En la hierba alta",
+      "director": "Vincenzo Natali",
+      "anio": 2019,
+      "portada": "https://es.web.img2.acsta.net/pictures/19/09/13/16/04/5686155.jpg"
+    },
+    {
+      "titulo": "Antebellum",
+      "director": "Gerard Bush, Christopher Renz",
+      "anio": 2020,
+      "portada": "https://m.media-amazon.com/images/M/MV5BOTQzYWU3NzktOGQyOC00NGNiLWE3NjAtNzQ0YzRkOTc5ODUzXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg"
+    },
+    {
+      "titulo": "Spiral: From The Book of Saw",
+      "director": "Darren Lynn Bousman",
+      "anio": 2021,
+      "portada": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/10/spiral-saw-2109351.jpg"
+    },
+    {
+      "titulo": "Possessor",
+      "director": "Brandon Cronenberg",
+      "anio": 2020,
+      "portada": "https://m.media-amazon.com/images/I/61c+jw2wmQL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "Malignant",
+      "director": "James Wan",
+      "anio": 2021,
+      "portada": "https://m.media-amazon.com/images/M/MV5BOWQ5YTRmY2QtY2MyYy00YzI4LTliZjMtNzdmNDQ2MjcxNWY3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
+    },
+    {
+      "titulo": "Halloween Ends",
+      "director": "David Gordon Green",
+      "anio": 2022,
+      "portada": "https://www.merkur.de/bilder/2022/10/20/91862840/30101853-das-letzte-zusammentreffen-steht-bevor-wird-laurie-strode-ihren-ewigen-verfolger-michael-myers-endgueltig-zur-strecke-bringen-2Rfe.jpg"
+    },
+    {
+      "titulo": "Texas Chainsaw Massacre",
+      "director": "David Blue Garcia",
+      "anio": 2022,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/NetflixTCMPoster.jpg/220px-NetflixTCMPoster.jpg"
+    },
+    {
+      "titulo": "Dark Harvest",
+      "director": "David Slade",
+      "anio": 2022,
+      "portada": "https://m.media-amazon.com/images/M/MV5BMTgyMzc2ODgtYmVjZi00OTAyLWE1NTQtOGVmZWM4MzhmNjdkXkEyXkFqcGdeQXVyNTk5NTQzNDI@._V1_.jpg"
+    },
+    {
+      "titulo": "The Menu",
+      "director": "Mark Mylod",
+      "anio": 2022,
+      "portada": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/D8D262915F8A245B674DDBE49AB851358C4662D561A1192223115B52D13D42E9/scale?width=506&aspectRatio=2.00&format=jpeg"
+    },
+    {
+      "titulo": "Nocebo",
+      "director": "Lorcan Finnegan",
+      "anio": 2022,
+      "portada": "https://www.saltypopcorn.co.uk/film-images/nocebo.jpg"
+    },
+    {
+      "titulo": "Posesión infernal: El Despertar",
+      "director": "Lee Cronin",
+      "anio": 2023,
+      "portada": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/07f8ecdf-0f7e-4819-938c-2c9c1ecc741f/dfx2w4m-66db36b8-be77-4b5b-baf4-0e815cdf07bc.png/v1/fill/w_512,h_512/posesion_infernal_el_despertar__2023__by_darth_longinus_dfx2w4m-fullview.png"
+    },
+    {
+      "titulo": "El Exorcista",
+      "director": "David Gordon Green",
+      "anio": 2023,
+      "portada": "https://imagenes.20minutos.es/files/article_default_content/uploads/imagenes/2023/07/20/poster-de-el-exorcista-creyente-1.jpeg"
+    },
+    {
+      "titulo": "Beau Is Afraid",
+      "director": "Ari Aster",
+      "anio": 2023,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/index-beau-1673369170.jpg?crop=0.888888888888889xw:1xh;center,top"
+    },
+    {
+      "titulo": "Enys Men",
+      "director": "Mark Jenkin",
+      "anio": 2022,
+      "portada": "https://i.guim.co.uk/img/media/69a9b8f7e829d3e0f057ff643d87c523d9cd2032/0_214_3764_2259/master/3764.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=1b6e720f3590afe1c27d966b47dac917"
+    },
+    {
+      "titulo": "Shelby Oaks",
+      "director": "Chris Stuckmann",
+      "anio": 2022,
+      "portada": "https://ksr-ugc.imgix.net/assets/036/482/032/0be799f6f3bb98a3b9f840f7c834c63b_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1645906680&auto=format&frame=1&q=92&s=c2db64d0ff97d90dda0924d98a337fdc"
+    }
+  ],
+  "Fantasia": [
+    {
+      "titulo": "La Sirenita",
+      "director": "Rob Marshall",
+      "anio": 2023,
+      "portada": "https://i.blogs.es/7de7de/230525-little-mermaid-halle-bailey-ew-243p-fa7baa/1366_2000.jpeg"
+    },
+    {
+      "titulo": "The King's Daughter",
+      "director": "Sean McNamara",
+      "anio": 2023,
+      "portada": "https://www.tvguide.com/a/img/catalog/provider/1/2/1-11273895704.jpg"
+    },
+    {
+      "titulo": "The Green Knight",
+      "director": "David Lowery",
+      "anio": 2021,
+      "portada": "https://bleedingcool.com/wp-content/uploads/2021/05/green_knight_ver7_xxlg-900x900.jpg"
+    },
+    {
+      "titulo": "Wendy",
+      "director": "Benh Zeitlin",
+      "anio": 2020,
+      "portada": "https://m.media-amazon.com/images/I/71SSjpalGoL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "The Secret Garden",
+      "director": "Marc Munden",
+      "anio": 2020,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/2/2e/The_Secret_Garden_2020_film_poster.jpg"
+    },
+    {
+      "titulo": "Han Solo",
+      "director": "Ron Howard",
+      "anio": 2018,
+      "portada": "https://pixeldigitalcinema.com/wp-content/uploads/2018/05/DYRfjuzUQAAoET_.jpg"
+    },
+    {
+      "titulo": "Un pliegue en el tiempo",
+      "director": "Ava DuVernay",
+      "anio": 2018,
+      "portada": "https://es.web.img3.acsta.net/pictures/17/12/27/16/42/3189842.jpg"
+    },
+    {
+      "titulo": "Valerian y la ciudad de los mil planetas",
+      "director": "Luc Besson",
+      "anio": 2017,
+      "portada": "https://es.web.img3.acsta.net/pictures/17/05/30/13/05/186898.jpg"
+    },
+    {
+      "titulo": "La Torre Oscura",
+      "director": "Nikolaj Arcel",
+      "anio": 2017,
+      "portada": "https://images.justwatch.com/poster/14085139/s718/la-torre-oscura.%7Bformat%7D"
+    },
+    {
+      "titulo": "Fantastic Beasts: The Crimes of Grindelwald",
+      "director": "David Yates",
+      "anio": 2018,
+      "portada": "https://m.media-amazon.com/images/I/91GPd+AayCL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "Ant-Man and the Wasp: Quantumania",
+      "director": "Peyton Reed",
+      "anio": 2023,
+      "portada": "https://super-ficcion.com/wp-content/uploads/2021/05/Ant-Man-and-The-Wasp.png"
+    },
+    {
+      "titulo": "Aquaman and the Lost Kingdom",
+      "director": "James Wan",
+      "anio": 2023,
+      "portada": "https://movie-spoiler.com/posters/s-l1200.webp"
+    },
+    {
+      "titulo": "Guardians of the Galaxy Vol. 3",
+      "director": "James Gunn",
+      "anio": 2023,
+      "portada": "https://www.themoviedb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
+    },
+    {
+      "titulo": "Shazam! Fury of the Gods",
+      "director": "David F. Sandberg",
+      "anio": 2023,
+      "portada": "https://m.media-amazon.com/images/I/71pLALJmwxL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "Transformers: El despertar de las bestias",
+      "director": "Steven Caple Jr.",
+      "anio": 2023,
+      "portada": "https://www.cinedot.com.mx/CDN/media/entity/get/FilmPosterGraphic/A000000395?referenceScheme=Global&allowPlaceHolder=true"
+    },
+    {
+      "titulo": "Adele y el misterio de la momia",
+      "director": "Luc Besson",
+      "anio": 2010,
+      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-75-mejor-peliculas-de-fantasia-segun-rotten-tomatoes/75.-adele-y-el-misterio-de-la-momia-2010/136709835-1-esl-ES/75.-Adele-y-el-misterio-de-la-momia-2010.jpg?resize=980:*"
+    },
+    {
+      "titulo": "Into the Woods",
+      "director": "Rob Marshall",
+      "anio": 2014,
+      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-75-mejor-peliculas-de-fantasia-segun-rotten-tomatoes/57.-into-the-woods-2014/136709709-1-esl-ES/57.-Into-the-woods-2014.jpg?resize=980:*"
+    },
+    {
+      "titulo": "Stardust",
+      "director": "Matthew Vaughn",
+      "anio": 2007,
+      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-75-mejor-peliculas-de-fantasia-segun-rotten-tomatoes/53.-stardust-2007/136709485-1-esl-ES/53.-Stardust-2007.jpg?resize=980:*"
+    },
+    {
+      "titulo": "La bella y la bestia",
+      "director": "Bill Condon",
+      "anio": 2017,
+      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-75-mejor-peliculas-de-fantasia-segun-rotten-tomatoes/46.-la-bella-y-la-bestia-2017/136709541-1-esl-ES/46.-La-bella-y-la-bestia-2017.jpg?resize=980:*"
+    },
+    {
+      "titulo": "Mi amigo el gigante",
+      "director": "Steven Spielberg",
+      "anio": 2016,
+      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-75-mejor-peliculas-de-fantasia-segun-rotten-tomatoes/45.-mi-amigo-el-gigante-2016/136709828-1-esl-ES/45.-Mi-amigo-el-gigante-2016.jpg?resize=980:*"
+    }
+  ],
+  "Aventura": [
+    {
+      "titulo": "Big Fish",
+      "director": "Tim Burton",
+      "anio": 2003,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/ewan-mcgregor-big-fish-fotogramas-1617109200.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "King Kong",
+      "director": "Peter Jackson",
+      "anio": 2005,
+      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/15-peliculas-interminablemente-largas/king-kong-peter-jackson-2005/108825515-1-esl-ES/King-Kong-Peter-Jackson-2005.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "titulo": "El renacido",
+      "director": "Alejandro G. Iñárritu",
+      "anio": 2015,
+      "portada": "https://m.media-amazon.com/images/I/81BaBFbGo-L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "Jumanji: Bienvenidos a la jungla",
+      "director": "Jake Kasdan",
+      "anio": 2017,
+      "portada": "https://musicart.xboxlive.com/7/049e5000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
+    },
+    {
+      "titulo": "Okja",
+      "director": "Bong Joon-ho",
+      "anio": 2017,
+      "portada": "https://www.indiewire.com/wp-content/uploads/2018/01/okja-ff2-006-e1514999381172.jpeg"
+    },
+    {
+      "titulo": "Robin Hood",
+      "director": "Ridley Scott",
+      "anio": 2010,
+      "portada": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/bf63592905567.56018ab22925b.jpg"
+    },
+    {
+      "titulo": "La búsqueda",
+      "director": "Jon Turteltaub",
+      "anio": 2004,
+      "portada": "https://decine21.com/img/upload/obras/la-busqueda-525/la-busqueda-525-c.jpg"
+    },
+    {
+      "titulo": "Lord Of The Rings",
+      "director": "Peter Jackson",
+      "anio": 2001,
+      "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/89/67/45/20061512.jpg"
+    },
+    {
+      "titulo": "Harry Potter",
+      "director": "David Yates, Alfonso Cuarón",
+      "anio": 2001,
+      "portada": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "titulo": "Master and Commander: Al otro lado del mundo",
+      "director": "Peter Weir",
+      "anio": 2003,
+      "portada": "https://m.media-amazon.com/images/I/719D1NRkV7L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "Las Crónicas de Narnia",
+      "director": "Andrew Adamson, Michael Apted",
+      "anio": 2005,
+      "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/81/93/80/19586030.jpg"
+    },
+    {
+      "titulo": "Back to the Future",
+      "director": "Robert Zemeckis",
+      "anio": 1990,
+      "portada": "https://www.themoviedb.org/t/p/w500/yXYGmfy5EDikS4O25H2WViTkXa.jpg"
+    },
+    {
+      "titulo": "The Water Man",
+      "director": "David Oyelowo",
+      "anio": 2020,
+      "portada": "https://1.bp.blogspot.com/-UHUisFQHnn8/YHmUWJPLEgI/AAAAAAABVps/fwuzzxEa07QSQ-xyzevjWaeu7Ci7uRlqwCLcBGAsYHQ/w432-h640/THE%2BWATER%2BMAN%2B1.jpg"
+    },
+    {
+      "titulo": "La Gran Aventura",
+      "director": "Jalmari Helander",
+      "anio": 2014,
+      "portada": "https://play-lh.googleusercontent.com/VK84E3MIBuTW2m50zo6hIgpsogUFLZdIDRW6imFWTUKx4RPzBGcvc8BDVUXKy7TagQAh"
+    },
+    {
+      "titulo": "La ciudad perdida",
+      "director": " Aaron Nee, Adam Nee",
+      "anio": 2022,
+      "portada": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/38826-102563-20220317062938.jpg"
+    },
+    {
+      "titulo": "Jungle Cruise",
+      "director": "Jaume Collet-Serra",
+      "anio": 2021,
+      "portada": "https://m.media-amazon.com/images/M/MV5BYmM5Y2UzNGEtNzFmMS00MWVmLWEwZWQtNDJhMWFhYzAxN2YxXkEyXkFqcGdeQWpnYW1i._V1_.jpg"
+    },
+    {
+      "titulo": "Dolittle",
+      "director": "Stephen Gaghan",
+      "anio": 2020,
+      "portada": "https://m.media-amazon.com/images/I/81IxWjEI2UL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "Jurasic World",
+      "director": "Colin Trevorrow",
+      "anio": 2015,
+      "portada": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_.jpg"
+    },
+    {
+      "titulo": "Jurasic World",
+      "director": "Guy Ritchie",
+      "anio": 2019,
+      "portada": "https://lumiere-a.akamaihd.net/v1/images/eu_aladdin-movie_hero-v2_m_56f82451.jpeg?region=0,0,750,668"
+    },
+    {
+      "titulo": "Journey to the Center of the Earth",
+      "director": "Eric Brevig",
+      "anio": 2008,
+      "portada": "https://fusion.molotov.tv/arts/i/446x588/Ch8SHQoUOxdGfq2ZYOH3025b6MzOY9lR34sSA2pwZxgBCh8IARIbChT1jNT6Slgc1kYMrrEg0YvDnahlvBIDcG5n/jpg"
+    }
+  ],
+  "Deporte": [
+    {
+      "titulo": "Money Ball: Rompiendo las reglas",
+      "director": "Bennett Miller",
+      "anio": 2011,
+      "portada": "https://play-lh.googleusercontent.com/24bXy0xS1_hSd3iutnHYueQimymcMYZmohiobu1a-eiSntMrNHaOZG5a5ISbIZXd1PsS"
+    },
+    {
+      "titulo": "Rush",
+      "director": "Ron Howard",
+      "anio": 2013,
+      "portada": "https://img.remediosdigitales.com/ddc940/pelicula-rush-2/1366_2000.jpg"
+    },
+    {
+      "titulo": "Foxcatcher",
+      "director": "Bennett Miller",
+      "anio": 2015,
+      "portada": "https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs2.abcstatics.com%2Fmedia%2Fpeliculas%2F000%2F037%2F154%2Ffoxcatcher-1.jpg&nuevoancho=683&medio=abc"
+    },
+    {
+      "titulo": "THE WRESTLER",
+      "director": "Darren Aronofsky",
+      "anio": 2009,
+      "portada": "https://www.gstatic.com/tv/thumb/movieposters/188884/p188884_p_v8_ai.jpg"
+    },
+    {
+      "titulo": "El entrenador Carter",
+      "director": "Thomas Carter",
+      "anio": 2005,
+      "portada": "https://i.etsystatic.com/27062086/r/il/80ac7f/4153745869/il_fullxfull.4153745869_2n6p.jpg"
+    },
+    {
+      "titulo": "Space Jam: Nuevas leyendas",
+      "director": "Malcolm D. Lee",
+      "anio": 2021,
+      "portada": "https://images-eu.ssl-images-amazon.com/images/I/811UllRyFoL._AC_UL600_SR600,600_.jpg"
+    },
+    {
+      "titulo": "Back of the Net",
+      "director": "Louise Alston",
+      "anio": 2019,
+      "portada": "https://i.imgur.com/zNB24II.png"
+    },
+    {
+      "titulo": "Double Teamed",
+      "director": "Duwayne Dunham",
+      "anio": 2002,
+      "portada": "https://www.lavanguardia.com/peliculas-series/images/movie/backdrop/2002/1/w1280/yXii0oBKIrDo8DR29SPvOD8VEJk.jpg"
+    },
+    {
+      "titulo": "The Miracle Season",
+      "director": "Sean McNamara",
+      "anio": 2018,
+      "portada": "https://www.ecured.cu/images/thumb/b/b9/A_ganar.jpg/260px-A_ganar.jpg"
+    },
+    {
+      "titulo": "Cloud 9",
+      "director": "Paul Hoen",
+      "anio": 2014,
+      "portada": "https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/162/956/162956922_6df854.jpg"
+    },
+    {
+      "titulo": "Bring It On",
+      "director": "Peyton Reed",
+      "anio": 2000,
+      "portada": "https://pics.filmaffinity.com/A_por_todas_de_nuevo_una_vez_maas-147489221-large.jpg"
+    },
+    {
+      "titulo": "Le Mans '66 (Ford v Ferrari)",
+      "director": "James Mangold",
+      "anio": 2019,
+      "portada": "https://www.matichon.co.th/wp-content/uploads/2019/12/ford-v-ferrari.jpg"
+    },
+    {
+      "titulo": "Any Given Sunday",
+      "director": "Oliver Stone",
+      "anio": 1999,
+      "portada": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1999/12/w1280/A1qe4eqVHZwzXMrhi79r4yU4ytf.jpg"
+    },
+    {
+      "titulo": "King Richard",
+      "director": "Reinaldo Marcus Green",
+      "anio": 2021,
+      "portada": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9e53bd727e43bc44ce9821f685a9cb032492718ad3c1682360d51a050fc3d1e5._RI_TTW_.jpg"
+    },
+    {
+      "titulo": "Remember The Titans",
+      "director": "Boaz Yakin",
+      "anio": 2001,
+      "portada": "https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL5QX4/image?locale=en-us&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg"
+    },
+    {
+      "titulo": "The Blind Side",
+      "director": "John Lee Hancock",
+      "anio": 2009,
+      "portada": "https://play-lh.googleusercontent.com/aEVKlbFZ9wPxp1ur9vYx1KLBR8UKZidOp4baQAzkRoMNwvvZ93kNOHUWSpQacu-dmXM"
+    },
+    {
+      "titulo": "Invictus",
+      "director": "Clint Eastwood",
+      "anio": 2010,
+      "portada": "https://pics.filmaffinity.com/Invictus-582873614-large.jpg"
+    },
+    {
+      "titulo": "ALI",
+      "director": "Michael Mann",
+      "anio": 2001,
+      "portada": "https://i.pinimg.com/originals/74/fb/78/74fb787553ab1ea68a76918e08928418.jpg"
+    },
+    {
+      "titulo": "Little Giants",
+      "director": "Duwayne Dunham",
+      "anio": 1994,
+      "portada": "https://m.media-amazon.com/images/I/61ZNnYpQfRL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "Little Giants",
+      "director": "Duwayne Dunham",
+      "anio": 1994,
+      "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZqsMVsFVo34m7YirqpqyquZbZ23ACQ463jJ3FnIiAllWtkuBDj8Xjj7TR10dn-nfhsQ&usqp=CAU"
+    }
+  ],
+  "Musical": [
+    {
+      "titulo": "grease",
+      "director": "Randal Kleiser, Patricia Birch",
+      "anio": 1978,
+      "portada": "https://play-lh.googleusercontent.com/mBj-Cl8YK_PxHhowlbhcofIqEowepscvg6S9KtKrtpllJZKyFJYn9eEnXvl-WFWKaeY"
+    },
+    {
+      "titulo": "Moulin Rouge",
+      "director": "Baz Luhrmann",
+      "anio": 2001,
+      "portada": "https://m.media-amazon.com/images/I/71BXEu7NmyL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "Los miserables",
+      "director": "Tom Hooper",
+      "anio": 2013,
+      "portada": "https://www.educaciontrespuntocero.com/wp-content/uploads/2016/05/los-miserables.jpg.webp"
+    },
+    {
+      "titulo": "La La Land",
+      "director": "Damien Chazelle",
+      "anio": 2016,
+      "portada": "https://cdn.cinencuentro.com/wp-content/uploads/2017/01/la-la-land-poster.jpeg"
+    },
+    {
+      "titulo": "Copying Beethoven",
+      "director": "Agnieszka Holland",
+      "anio": 2007,
+      "portada": "https://http2.mlstatic.com/D_NQ_NP_666445-MLM25988608529_092017-O.webp"
+    },
+    {
+      "titulo": "The Boat That Rocked",
+      "director": "Richard Curtis",
+      "anio": 2009,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/e/e3/The_boat_that_rocked_poster.jpg"
+    },
+    {
+      "titulo": "High School Musical",
+      "director": "Eduardo Ripari, Michael Lembeck",
+      "anio": 2006,
+      "portada": "https://www.cine.com/peliculas/3479/cartel/3479_cartel_orig.jpg"
+    },
+    {
+      "titulo": "August Rush",
+      "director": "Kirsten Sheridan",
+      "anio": 2008,
+      "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/67/28/55/20250703.jpg"
+    },
+    {
+      "titulo": "School Of Rock",
+      "director": "Richard Linklater",
+      "anio": 2004,
+      "portada": "https://w0.peakpx.com/wallpaper/9/121/HD-wallpaper-movie-school-of-rock-jack-black.jpg"
+    },
+    {
+      "titulo": "El concierto",
+      "director": "Radu Mihăileanu",
+      "anio": 2009,
+      "portada": "https://http2.mlstatic.com/D_NQ_NP_841968-MLM31956868402_082019-O.webp"
+    },
+    {
+      "titulo": "Amadeus",
+      "director": "Milos Forman",
+      "anio": 1985,
+      "portada": "https://proopera.org.mx/wp-content/uploads/2020/09/Amadeus.jpg"
+    },
+    {
+      "titulo": "El pianista",
+      "director": "Roman Polanski",
+      "anio": 2003,
+      "portada": "https://http2.mlstatic.com/D_NQ_NP_986627-MLM44134746858_112020-W.jpg"
+    },
+    {
+      "titulo": "Bird",
+      "director": "Clint Eastwood",
+      "anio": 1988,
+      "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/68/46/28/20531256.jpg"
+    },
+    {
+      "titulo": "Straight Outta Compton",
+      "director": "F. Gary Gray",
+      "anio": 2015,
+      "portada": "https://e1.pxfuel.com/desktop-wallpaper/821/851/desktop-wallpaper-straight-outta-compton-cube-xxxtentacion.jpg"
+    },
+    {
+      "titulo": "Los chicos del coro",
+      "director": "Christophe Barratier",
+      "anio": 2015,
+      "portada": "https://assets.isu.pub/document-structure/220319195731-b2ca84ab804392836c9676467dea2110/v1/88a92b7c4b23d9ad273db7e925df8ea3.jpeg"
+    },
+    {
+      "titulo": "Bohemian Rhapsody",
+      "director": "Bryan Singer, Dexter Fletcher",
+      "anio": 2018,
+      "portada": "https://pics.filmaffinity.com/Bohemian_Rhapsody-748186150-large.jpg"
+    },
+    {
+      "titulo": "Ha nacido una estrella",
+      "director": "Bradley Cooper",
+      "anio": 2018,
+      "portada": "https://m.media-amazon.com/images/I/71Z7EU5yZhL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "Mamma Mia!",
+      "director": "Phyllida Lloyd, Ol Parker",
+      "anio": 2008,
+      "portada": "https://m.media-amazon.com/images/I/71+ztXtpmEL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "The Greatest Showman",
+      "director": "Michael Gracey",
+      "anio": 2017,
+      "portada": "https://www.educaciontrespuntocero.com/wp-content/uploads/2020/03/87f915eb64fea2eebdbe52cd1c21f82b.png.webp"
+    },
+    {
+      "titulo": "Ray",
+      "director": "Taylor Hackford",
+      "anio": 2004,
+      "portada": "https://m.media-amazon.com/images/I/51jrHAu37KL._AC_UF894,1000_QL80_.jpg"
+    }
+  ],
+  "Documental": [
+    {
+      "titulo": "Amateur",
+      "director": "Ryan Koo",
+      "anio": 2018,
+      "portada": "https://i.blogs.es/14dbba/escena-amateur/450_1000.jpg"
+    },
+    {
+      "titulo": "Sintiéndolo mucho",
+      "director": "Fernando León de Aranoa",
+      "anio": 2022,
+      "portada": "https://www.unotv.com/uploads/2022/10/sintiendolo-mucho-sabina-documental-125146.jpg"
+    },
+    {
+      "titulo": "Fire Of Love",
+      "director": "Sara Dosa",
+      "anio": 2022,
+      "portada": "https://docsbarcelona.com/cache/containers/images/movies/Poster-fire-of-love.jpg/faf3bc11959004eab67e99e7e3030d4e.jpg"
+    },
+    {
+      "titulo": "Jane Por Charlotte",
+      "director": "Charlotte Gainsbourg",
+      "anio": 2021,
+      "portada": "https://es.web.img3.acsta.net/pictures/22/04/27/14/48/5852744.jpg"
+    },
+    {
+      "titulo": "Moonage Daydream",
+      "director": "Brett Morgen",
+      "anio": 2022,
+      "portada": "https://es.web.img2.acsta.net/pictures/22/08/12/16/37/4047446.jpg"
+    },
+    {
+      "titulo": "The Janes",
+      "director": "Emma Pildes, Tia Lessin",
+      "anio": 2022,
+      "portada": "https://pics.filmaffinity.com/The_Janes-678219532-large.jpg"
+    },
+    {
+      "titulo": "El Misterio De Marilyn Monroe",
+      "director": "Emma Cooper",
+      "anio": 2022,
+      "portada": "https://mx.web.img3.acsta.net/pictures/22/03/24/09/33/0892409.jpg"
+    },
+    {
+      "titulo": "Ennio, el maestro",
+      "director": "Giuseppe Tornatore",
+      "anio": 2021,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Ennio_%282021_movie_poster%29.jpg/220px-Ennio_%282021_movie_poster%29.jpg"
+    },
+    {
+      "titulo": "100 días con la Tata",
+      "director": "Miguel Ángel Muñoz",
+      "anio": 2021,
+      "portada": "https://cineuropa.org/Galleries/414/051/poster_big.jpg?1637924139001"
+    },
+    {
+      "titulo": "The Story of Looking",
+      "director": "Mark Cousins",
+      "anio": 2021,
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/story-of-looking-mark-cousins-1636700947.jpeg?crop=0.75xw:1xh;center,top&resize=1200:*"
+    },
+    {
+      "titulo": "Sedimentos",
+      "director": "Adrián Silvestre",
+      "anio": 2021,
+      "portada": "https://static.filmin.es/images/media/38591/5/poster_0_3.webp"
+    },
+    {
+      "titulo": "Patti Smith: Electric Poet",
+      "director": "Patti Smith, Electric Poet",
+      "anio": 2022,
+      "portada": "https://www.teleprensa.com/media/teleprensa/images/2023/05/14/2023051410224834816.jpg"
+    },
+    {
+      "titulo": "Esta lluvia nunca cesará",
+      "director": "Alina Gorlova",
+      "anio": 2022,
+      "portada": "https://www.lavanguardia.com/peliculas-series/images/movie/backdrop/2022/9/w1280/u6jf7YN11kWYhHOeTZssMBatTMB.jpg"
+    },
+    {
+      "titulo": "Canto cósmico. Niño de Elche",
+      "director": "Marc Sempere-Moya, Leire Apellaniz",
+      "anio": 2021,
+      "portada": "https://assets.primaverasound.com/psweb/iusjeuuw7vnt39vdm1ym_1643903489818.jpg"
+    },
+    {
+      "titulo": "Val",
+      "director": "Ting Poo, Leo Scott",
+      "anio": 2021,
+      "portada": "https://lh3.googleusercontent.com/chfZA8aI_X5-Nr8TFSIn3WFJkNT5r36amggykyD41WH_I2YL0wPKSb4dyNQ79N1H89kgKdhODB33OHAJBaMeeoKNU3TeoRxYMLzFfRumRkmX_vbrmGXKm1U_QrDzA9LcpKxNvYdcE08=w2400"
+    },
+    {
+      "titulo": "ValYou Cannot Kill David Arquette",
+      "director": "Price James, David Darg",
+      "anio": 2020,
+      "portada": "https://media.mediatheques.fr/res/medias/album/400p/492/2942492.jpg"
+    },
+    {
+      "titulo": "Ausencia de verdad",
+      "director": "Ramona S. Diaz",
+      "anio": 2020,
+      "portada": "https://static.filmin.es/images/media/37948/4/poster_0_3_210x0.webp"
+    },
+    {
+      "titulo": "JFK Revisited: Through the Looking Glass",
+      "director": "Oliver Stone",
+      "anio": 2021,
+      "portada": "https://m.media-amazon.com/images/I/71s0y5qufwL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "titulo": "McCurry, La Búsqueda Del Color",
+      "director": "ODenis Delestrac",
+      "anio": 2022,
+      "portada": "https://www.ecartelera.com/carteles/17200/17265/001_p.jpg"
+    },
+    {
+      "titulo": "Mi adorado monster",
+      "director": "Victor Matellano",
+      "anio": 2022,
+      "portada": "https://www.academiadecine.com/wp-content/uploads/2022/01/Mi-adorado-monster_fotograma-34.jpg"
+    }
+  ]
+}

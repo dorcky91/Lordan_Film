@@ -1,0 +1,383 @@
+{
+  "Categorias": [
+    {
+      "rutaImg": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2019/02/25-mejores-peliculas-accion-historia.jpg?tf=3840x",
+      "categoria": "Acción",
+      "url": "Accion"
+    },
+
+    {
+      "rutaImg": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/12/279023-peliculas-parecidas-solo-casa.jpg?tf=3840x",
+      "categoria": "Comedia",
+      "url": "Comedia"
+    },
+    {
+      "rutaImg": "https://cdn.culturagenial.com/es/imagenes/lo-imposible-pelicula.jpg",
+      "categoria": "Drama",
+      "url": "Drama"
+    },
+    {
+      "rutaImg": "https://www.quever.news/u/fotografias/m/2022/12/23/f608x342-44118_73841_0.jpg",
+      "categoria": "Romance",
+      "url": "Romance"
+    },
+    {
+      "rutaImg": "https://sm.ign.com/ign_es/screenshot/default/valeok_j5z8.jpg",
+      "categoria": "Ciencia Ficción",
+      "url": "CienciaFiccion"
+    },
+    {
+      "rutaImg": "https://cdn-e360.s3-sa-east-1.amazonaws.com/10-peliculas-de-terror-que-se-estrenaran-en-el-2022-y-no-te-puedes-perder-large-Rdz3M2gRs5.jpg",
+      "categoria": "Terror",
+      "url": "Terror"
+    },
+    {
+      "rutaImg": "https://cinepremiere.com.mx/assets/images/noticias/2016/dummies/lista-fantasia-peliculas.jpg",
+      "categoria": "Fantasía",
+      "url": "Fantasia"
+    },
+    {
+      "rutaImg": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/04/ciudad-perdida-2672779.jpg?tf=3840x",
+      "categoria": "Aventura",
+      "url": "Aventura"
+    },
+    {
+      "rutaImg": "https://www.justwatch.com/images/backdrop/305422288/s640/white-men-cant-jump-2023",
+      "categoria": "Deporte",
+      "url": "Deporte"
+    },
+    {
+      "rutaImg": "https://yucatancultura.com/wp-content/uploads/2018/01/gran-showman_5-1024x478.jpg",
+      "categoria": "Musical",
+      "url": "Musical"
+    },
+    {
+      "rutaImg": "https://adn.celam.org/wp-content/uploads/2022/10/la-carta-copia-958x559.jpg",
+      "categoria": "Documental",
+      "url": "Documental"
+    }
+  ],
+  "Novedades": [
+    {
+      "rutaImg": "https://caracoltv.brightspotcdn.com/dims4/default/e196fe3/2147483647/strip/true/crop/1000x700+0+0/resize/1000x700!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fcd%2F11%2F50b253404eb4b6403831c16df1c4%2Fblack-panther-wakanda-forever.jpg",
+      "titulo": "Black Panther: Wakanda Forever",
+      "sinopsis": "Tras la muerte de T'Challa, la reina Ramonda, Shuri, M'Baku, Okoye y las Dora Milaje protegen Wakanda.",
+      "enlaceTrailer": "https://player.vimeo.com/video/757845758?h=181642377e&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://www.infobae.com/new-resizer/7s_uki6qXFLORClL4uBMc_MP6PM=/1200x1200/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/A33MP7GUTJC4TI5D7R4J2ZWNSU.jpeg",
+      "titulo": "Barbie",
+      "sinopsis": "Después de ser expulsada de Barbieland por no ser una muñeca de aspecto perfecto, Barbie parte hacia el mundo humano para encontrar la felicidad.",
+      "enlaceTrailer": "https://player.vimeo.com/video/848075243?h=7845cd8061&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://elcritico.com.ar/wp-content/uploads/2023/03/plane-2023.jpg",
+      "titulo": "Plane",
+      "sinopsis": "El piloto Brodie Torrance salva a los pasajeros de la aeronave de un accidente al realizar un aterrizaje forzoso en una isla en guerra.",
+      "enlaceTrailer": "https://player.vimeo.com/video/774255178?h=3eb7773885&autoplay=1&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://lumiere-a.akamaihd.net/v1/images/image_9e35a739.jpeg?region=0,0,540,810",
+      "titulo": "Aladdín",
+      "sinopsis": "Aladdin es un ladronzuelo que se enamora de la hija del Sultán, la princesa Jasmine. Para conquistarla, Aladdin acepta el desafío de Jafar:",
+      "enlaceTrailer": "https://player.vimeo.com/video/329223355?h=ffe60184e3&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://cdn.themedizine.com/2020/07/venom-2-peliculas-marvel-500x281.jpg",
+      "titulo": "Venom: Carnage liberado",
+      "sinopsis": "Después de encontrar un cuerpo anfitrión en el periodista de investigación Eddie Brock, el simbionte alienígena debe enfrentarse a un nuevo enemigo.",
+      "enlaceTrailer": "https://player.vimeo.com/video/650097230?h=de330aaf80&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/28623572-a644-4023-a6ed-51a5ab1cc024.559e097aed1dca403ce86db2cd933b8d.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "titulo": "Uncharted: Fuera del mapa",
+      "sinopsis": "El cazador de tesoros Victor Sullivan recluta a Nathan Drake para que lo ayude a recuperar una fortuna de 500 años de antigüedad.",
+      "enlaceTrailer": "https://player.vimeo.com/video/710160574?h=c6b1ec990e&autoplay=1&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/12/279023-peliculas-parecidas-solo-casa.jpg?tf=3840x",
+      "titulo": "Home Alone",
+      "sinopsis": "Un encantador niño de 8 años desafía a un torpe par de ladrones cuando, accidentalmente, sus padres lo olvidan en casa.",
+      "enlaceTrailer": "https://player.vimeo.com/video/197017311?h=a7f8d243fe&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://m.media-amazon.com/images/I/71rOfum-YDL._AC_UF894,1000_QL80_.jpg",
+      "titulo": "Free Guy",
+      "sinopsis": "Un cajero de un banco descubre que en realidad es un personaje sin papel dentro de un videojuego.",
+      "enlaceTrailer": "https://player.vimeo.com/video/561695635?h=abb57d3b44&autoplay=1&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://www.latercera.com/resizer/NQv8F6vKmD4yeEKwESDn-AXtAgA=/900x600/filters:focal(2056x558:2066x548)/cloudfront-us-east-1.images.arcpublishing.com/copesa/46JOCTARVNEWJLGZ3JFMGGVM3E.jpg",
+      "titulo": "Mortal Kombat",
+      "sinopsis": "Cole Young, luchador de MMA, desconoce su ascendencia y tampoco sabe por qué el emperador Shang Tsung ha enviado a su mejor guerrero para atraparlo.",
+      "enlaceTrailer": "https://player.vimeo.com/video/813026841?h=076939163d&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://www.spacejam.com/images/share.jpg",
+      "titulo": "Space Jam",
+      "sinopsis": "Atrapado en el espacio digital, la superestrella del baloncesto LeBron James se une a la banda de los Looney Tunes para derrotar al Goon Squad.",
+      "enlaceTrailer": "https://player.vimeo.com/video/533124907?h=904e7bea5c&autoplay=1&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://cdn.milenio.com/uploads/media/2023/07/03/mision-imposible-dead-reckoning-especial.jpg",
+      "titulo": "Mission Impossible",
+      "sinopsis": "Ethan debe detener a una inteligencia artificial que todas las potencias mundiales codician, la cual se ha vuelto tan poderosa.",
+      "enlaceTrailer": "https://player.vimeo.com/video/830476376?h=c976fea5fd&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/10/m3gan-2843373.jpg?tf=3840x",
+      "titulo": "M3GAN",
+      "sinopsis": "Gemma, diseñadora de una muñeca de inteligencia artificial extraordinaria, se convierte en la tutora legal de una niña.",
+      "enlaceTrailer": "https://player.vimeo.com/video/815842659?h=7df623605f&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://img.asmedia.epimg.net/resizer/lqFmV5NR46Zxv-ulU7bbAe1CG5Q=/1472x1104/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/6BLKGFBGZBOD7MKSGO722FSL6I.jpg",
+      "titulo": "Star Wars: The Rise of Skywalker",
+      "sinopsis": "Finn y Poe guían a la Resistencia para detener los planes de la Primera Orden para formar un nuevo imperio.",
+      "enlaceTrailer": "https://player.vimeo.com/video/373808723?h=548e3c43e7&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://i.blogs.es/ba23a9/thumb-1920-1166940/1366_2000.jpg",
+      "titulo": "Dune",
+      "sinopsis": "Arrakis, también denominado 'Dune', se ha convertido en el planeta más importante del universo.",
+      "enlaceTrailer": "https://player.vimeo.com/video/718648335?h=d44227e9a7&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://media.tycsports.com/files/2022/07/26/457253/nuevas-peliculas-y-series-de-marvel_1440x810_wmk.webp",
+      "titulo": "Avengers: Infinity War",
+      "sinopsis": "Los superhéroes se alían para vencer al poderoso Thanos, el peor enemigo al que se han enfrentado.",
+      "enlaceTrailer": "https://player.vimeo.com/video/285136642?h=3836e47dac&autoplay=1&color=ffffff&byline=0&portrait=0",
+      "enlacePelicula": ""
+    }
+  ],
+  "Populares": [
+    {
+      "rutaImg": "https://caracoltv.brightspotcdn.com/dims4/default/301b1c2/2147483647/strip/true/crop/1000x716+0+0/resize/1000x716!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F0e%2F26%2F6368daf949f9a1cc8a55d507ba09%2Fcenicienta.jpg",
+      "titulo": "La Cenicienta",
+      "sinopsis": "Madrastra convierte a la hija de su marido en su sirvienta, pero una mujer bondadosa y unos ratones provocan un cambio.",
+      "enlaceTrailer": "https://player.vimeo.com/video/290560140?h=1c3d090a74&autoplay=1&color=ffffff&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://cdn.superaficionados.com/imagenes/12-peliculas-de-accion-fast-x.jpg",
+      "titulo": "Fast & Furious X",
+      "sinopsis": "Dom Toretto y sus familias se enfrentan al peor enemigo imaginable, uno llegado desde el pasado para vengar.",
+      "enlaceTrailer": "https://player.vimeo.com/video/835429488?h=b7f07ccf39&autoplay=1&color=ffffff&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://www.nacionflix.com/__export/1674673928537/sites/debate/img/2023/01/25/lily-collins.jpg_976912859.jpg",
+      "titulo": "Inheritance",
+      "sinopsis": "El patriarca de una poderosa y adinerada familia fallece repentinamente, dejando a su esposa e hija.",
+      "enlaceTrailer": "https://player.vimeo.com/video/431997829?h=6eea788b06&autoplay=1&color=ffffff&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://i.ytimg.com/vi/npjcYEcyQms/maxresdefault.jpg",
+      "titulo": "65 - Al Borde de la Extinción",
+      "sinopsis": "Tras sufrir un accidente y caer a un planeta desconocido, los supervivientes han llegado a la Tierra.",
+      "enlaceTrailer": "https://player.vimeo.com/video/781201255?h=a56642d5af&autoplay=1&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://estaticos.elcolombiano.com/binrepository/781x781/0c40/780d565/none/11101/QEWD/343556498-263830476146749-85693217008937869-n_42242487_20230425180918.jpg",
+      "titulo": "The Flash",
+      "sinopsis": "Flash viaja a través del tiempo para evitar el asesinato de su madre.",
+      "enlaceTrailer": "https://player.vimeo.com/video/798754285?h=43d3d8b080&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://cdn-3.expansion.mx/dims4/default/05e4e5c/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fbf%2F3a%2F3c8b68374f8b94dc45e934a0c44f%2Fzendaya.jpg",
+      "titulo": "Challengers",
+      "sinopsis": "Challengers es una próxima película de comedia dramática deportiva romántica estadounidense.",
+      "enlaceTrailer": "https://player.vimeo.com/video/838087390?h=62e02b7f6a&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://media.gq.com.mx/photos/63b747efeebbd842171b2986/master/w_2560%2Cc_limit/RENFIELD.jpg",
+      "titulo": "Renfield: Asistente de Vampiro",
+      "sinopsis": "Tras siglos de servidumbre, Renfield por fin está listo para abandonar a su tóxico y narcisista jefe, Drácula.",
+      "enlaceTrailer": "https://player.vimeo.com/video/812519805?h=c294cc9e62&autoplay=1&color=bf2839&title=0&byline=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://img.asmedia.epimg.net/resizer/ndbU1MT5hdYD1yuAQupa_H-d7Dw=/1472x828/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/KRYMH7WFOBAWVEZVUJUFQKOIME.jpg",
+      "titulo": "Skydance | Ghosted",
+      "sinopsis": "Cole se enamora perdidamente de la enigmática Sadie, pero descubre que es una agente secreta.",
+      "enlaceTrailer": "https://player.vimeo.com/video/806464029?h=df8057439e&autoplay=1&color=bf2839&title=0&byline=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://cdn.clarosports.com/clarosports/2023/04/sin-titulo-1-171618-1024x576.jpg",
+      "titulo": "Quiero Tu Vida",
+      "sinopsis": "Años después de que una lesión que lo llevó al retiro de su carrera futbolística.",
+      "enlaceTrailer": "https://player.vimeo.com/video/820997084?h=7b03a72d38&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://cartelesmix.es/cartelesdecine/wp-content/uploads/2018/07/antmanylaavispa18014.jpg",
+      "titulo": "Ant-Man and The Wasp",
+      "sinopsis": "Los superhéroes se encuentran atrapados en el reino cuántico, donde conocen a nuevas criaturas.",
+      "enlaceTrailer": "https://player.vimeo.com/video/267703426?h=9caced77f2&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://www.diariodevenusville.com/wp-content/uploads/2023/07/VESPER-caratula.jpg",
+      "titulo": "Vesper",
+      "sinopsis": "Vesper, una niña de 13 años, intenta sobrevivir junto a su padre minusválido en un futuro.",
+      "enlaceTrailer": "https://player.vimeo.com/video/832298947?h=c36ff891d9&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://i.ytimg.com/vi/cktw38llaQo/maxresdefault.jpg",
+      "titulo": "xXx: Reactivated",
+      "sinopsis": "Xander Cage regresa a la acción cuando le encargan recuperar la Caja de Pandora.",
+      "enlaceTrailer": "https://player.vimeo.com/video/189201403?h=ff33e1a060&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    }
+  ],
+  "Recomendadas": [
+    {
+      "rutaImg": "https://hips.hearstapps.com/hmg-prod/images/millie-bobby-brown-damsel-1674048806.jpg?crop=1.00xw:0.847xh;0,0.150xh&resize=1200:*",
+      "titulo": "Damsel",
+      "sinopsis": "Samuel Alabaster, un acaudalado hombre de negocios, viaja hacia el salvaje Oeste para casarse con Penelope.",
+      "enlaceTrailer": "https://player.vimeo.com/video/286384715?h=efa411e247&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://i.blogs.es/3b01d0/guardianes-de-la-galaxia-gratis-youtube/450_1000.jpeg",
+      "titulo": "Guardianes de la Galaxia Vol. 3",
+      "sinopsis": "Aunque sigue afectado por la pérdida de Gamora, Peter Quill debe reunir a su equipo para defender el universo.",
+      "enlaceTrailer": "https://player.vimeo.com/video/820173463?h=bf63499894&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://i.ytimg.com/vi/T9SUCmA7dEU/maxresdefault.jpg",
+      "titulo": "Bird Box Barcelona",
+      "sinopsis": "Fuerza misteriosa aniquila a la población mundial provocando que aquellos que lo observan se quiten la vida.",
+      "enlaceTrailer": "https://player.vimeo.com/video/840919795?h=9fafd56ea3&autoplay=1&color=f80097&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/peliculas/un-espia-y-medio/90508474-2-esl-ES/Un-espia-y-medio.jpg?resize=320:*",
+      "titulo": "Un Espía Y Medio",
+      "sinopsis": "Un agente de la CIA que solía sufrir acoso escolar se reencuentra con sus compañeros en una reunión.",
+      "enlaceTrailer": "https://player.vimeo.com/video/178830871?h=bb5993e02d&autoplay=1&color=f80097&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://www.cinemascomics.com/wp-content/uploads/2022/02/thor-love-and-thunder-movie-marvel-studios.jpg",
+      "titulo": "Thor: Love And Thunder",
+      "sinopsis": "Thor está buscando la paz interior, pero la irrupción de Gorr, le obliga a volver al combate.",
+      "enlaceTrailer": "https://player.vimeo.com/video/720689526?h=9b03151eaa&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://posterspy.com/wp-content/uploads/2023/03/OPPEN-15.jpg",
+      "titulo": "OPPENHEIMER",
+      "sinopsis": "El físico J Robert Oppenheimer trabaja con un equipo de científicos durante el Proyecto Manhattan.",
+      "enlaceTrailer": "https://player.vimeo.com/video/827213317?h=df69d9160b&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://gluc.mx/u/fotografias/m/2021/3/13/f608x342-47274_76997_0.jpg",
+      "titulo": "Yes Day",
+      "sinopsis": "Allison y Carlos deciden darles a sus tres hijos un día durante el cual los niños tienen 24 horas para establecer las reglas.",
+      "enlaceTrailer": "https://player.vimeo.com/video/533222258?h=16b146b7d5&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://wherever-i-look.com/wp-content/uploads/2023/07/hidden-strike-2.jpg",
+      "titulo": "Hidden Strike",
+      "sinopsis": "Dos antiguos soldados de élite deben escoltar a un grupo de civiles a través de la carretera más peligrosa del mundo.",
+      "enlaceTrailer": "https://player.vimeo.com/video/833047109?h=86fe451452&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://pbs.twimg.com/media/Ff3GSb5XkA4pC4y.jpg:large",
+      "titulo": "Indiana Jones 5",
+      "sinopsis": "En 1969, un Indiana Jones envejecido y derrotado por la vida regresa a la acción.",
+      "enlaceTrailer": "https://player.vimeo.com/video/777335992?h=ee47360cab&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://m.media-amazon.com/images/I/81yJSdl0IsL._AC_UF894,1000_QL80_.jpg",
+      "titulo": "Shazam! Fury of the Gods ",
+      "sinopsis": "Billy Batson y sus hermanos adoptivos Freddy, Mary, Pedro, Eugene y Darla.",
+      "enlaceTrailer": "https://player.vimeo.com/video/733057779?h=9e7933a4ec&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://iforum-de.c.hihonor.com/es_data/images/10000/2023/6/23/2bd4667d-fb66-49a1-ba17-5aeaea95676a.jpg",
+      "titulo": "A Través Del Mar",
+      "sinopsis": "Tras pasar un año separados, Raquel y Ares se reencuentran durante un apasionado viaje a la playa.",
+      "enlaceTrailer": "https://player.vimeo.com/video/839128538?h=61d3d333c1&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://m.media-amazon.com/images/I/71KsssoeaPL._AC_UF894,1000_QL80_.jpg",
+      "titulo": "Interstellar",
+      "sinopsis": "Gracias a un descubrimiento, un grupo de científicos y exploradores, encabezados por Cooper...",
+      "enlaceTrailer": "https://player.vimeo.com/video/145183714?h=bd742126b3&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    },
+
+    {
+      "rutaImg": "https://www.lahiguera.net/cinemania/pelicula/9403/tenet-cartel-9523.jpg",
+      "titulo": "Interstellar",
+      "sinopsis": "Un agente secreto emprende una misión que se desarrolla más allá del tiempo real.",
+      "enlaceTrailer": "https://player.vimeo.com/video/497604838?h=3c562ed9ac&autoplay=1&title=0&byline=0&portrait=0",
+      "enlacePelicula": ""
+    }
+  ]
+}

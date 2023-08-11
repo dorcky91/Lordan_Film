@@ -1,0 +1,54 @@
+.pelicula-genero {
+  display: inline-block;
+  padding-right: 8px;
+  border-right: 2px solid #e70a52;
+}
+
+.card-peliculas {
+  position: relative;
+  overflow: hidden;
+  transition: 1s ease-in-out;
+}
+
+.container-pelicula {
+  position: absolute;
+  top: auto;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  opacity: 0;
+  color: white;
+  transform: translateY(100%);
+  transition: 700ms ease-in-out;
+}
+
+.card-peliculas img {
+  transition: 500ms ease-in-out;
+}
+
+.card-peliculas:hover .container-pelicula {
+  opacity: 1;
+  transform: translateY(0);
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.card-peliculas:hover {
+  transform: translateY(-10px) scale(1.15);
+}
+
+/* .card-peliculas:hover img {
+  transform: translateY(-15px) scale(1.14);
+  filter: brightness(0.3);
+} */
+
+@media (max-width: 576px) {
+  .card-peliculas:hover {
+    transform: translateY(-10px) scale(1.02);
+  }
+}
+
+@media (max-width: 992px) {
+  .card-peliculas:hover {
+    transform: translateY(-10px) scale(1.05);
+  }
+}
