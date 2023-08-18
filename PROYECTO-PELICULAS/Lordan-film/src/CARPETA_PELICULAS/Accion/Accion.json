@@ -4,140 +4,180 @@
       "titulo": "Boksoon debe morir",
       "director": " Byun Sung-hyun",
       "anio": 2023,
-      "portada": "https://i.blogs.es/b398a1/cartel-de-boksoon-debe-morir/450_1000.jpeg"
+      "portada": "https://i.blogs.es/b398a1/cartel-de-boksoon-debe-morir/450_1000.jpeg",
+      "duracion": "2h 17m",
+      "sinopsis": "En el trabajo, es una asesina famosa. En casa, es madre soltera de una adolescente. Matar es fácil. Lo difícil es ser madre."
     },
     {
       "titulo": "BAC Nord",
       "director": "Cédric Jimenez",
       "anio": 2020,
       "portada": " https://media.revistagq.com/photos/6363be31bb13eee9d9ad0928/master/w_1280,h_720,c_limit/bac-nord.jpeg",
-      "descripcion": "Coproducción internacional de Estados Unidos, Reino Unido, Canadá y Hungría."
+      "descripcion": "Tres agentes del BAC Nord, una brigada anticrimen, buscan disminuir la criminalidad.",
+      "duracion": "1h 45m",
+      "sinopsis": "Tres agentes del BAC Nord, una brigada anticrimen, buscan disminuir la criminalidad en los distritos del norte de Marsella."
     },
     {
       "titulo": "Dune",
       "director": "Denis Villeneuve",
       "anio": 2021,
       "portada": "https://cdn.superaficionados.com/imagenes/mejores-peliculas-ciencia-ficcion-og.jpg",
-      "descripcion": "Coproducción internacional de Estados Unidos, Reino Unido, Canadá y Hungría."
+      "descripcion": "Coproducción internacional de Estados Unidos, Reino Unido, Canadá y Hungría.",
+      "duracion": "2h 35m",
+      "sinopsis": "Arrakis, también denominado 'Dune', se ha convertido en el planeta más importante del universo. A su alrededor comienza una gigantesca lucha por el poder que culmina en una guerra interestelar."
     },
     {
       "titulo": "Assassin Club",
       "director": "Camille Delamarre",
       "anio": 2023,
       "portada": "https://image.tmdb.org/t/p/original/q5CGqAt5Dn6fRBFQIDPqcxdVAf8.jpg",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "Un asesino de élite recibe su contrato final: matar a seis personas, pero descubre que los objetivos son también asesinos.",
+      "duracion": "1h 51m",
+      "sinopsis": "Un asesino de élite recibe su contrato final: matar a seis personas, pero descubre que los objetivos son también asesinos contratados para matarlo. Su única posiblidad de sobrevivir es desenmascarar a la mente maestra detrás de este plan."
     },
     {
       "titulo": "El proyecto Adam",
       "director": " Shawn Levy",
       "anio": 2022,
       "portada": "https://i.blogs.es/d87f39/el-proyecto-adam-cartel-netflix/450_1000.jpeg",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "Adam Reed, un viajero del tiempo y piloto de combate, aterriza en el año 2022.",
+      "duracion": "1h 46m",
+      "sinopsis": "Adam Reed, un viajero del tiempo y piloto de combate, aterriza en el año 2022. Allí, se encuentra con su yo de doce años y, junto a él, tratará de salvar el futuro."
     },
     {
       "titulo": "Corazones de hierro",
       "director": " David Ayer",
       "anio": 2014,
       "portada": "https://occ-0-38-64.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZ_t9tMDn-H95jTlVeB5wsIk_QGuoMuUEe9qdMmPCElAlpcX_pWnxPP4wQImwokagkR88wkTEOL4PKDYmistFhfdp5mfj0Q49oP8.jpg?r=a8f",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "Durante la Segunda Guerra Mundial, un aguerrido sargento del ejército encabeza el equipo de un tanque.",
+      "duracion": "2h 14m",
+      "sinopsis": "Durante la Segunda Guerra Mundial, un aguerrido sargento del ejército encabeza el equipo de un tanque Sherman en una misión mortal detrás de líneas enemigas para golpear el corazón de la Alemania nazi."
     },
     {
       "titulo": "Misión de rescate",
       "director": " Sam Hargrave",
       "anio": 2020,
       "portada": "https://occ-0-420-999.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVqcLQpf6mxvyIfcaadFQhph_iN1tmNUjmHziE4hXp6HsNL0ViweqrNA3JUqdX_ukwGIWZzli2G4cry-1PYBFRk22_a8C2LG86Cj.jpg?r=1ef",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "Un criminal internacional que está en prisión contrata a un mercenario para rescatar a su hijo secuestrado.",
+      "duracion": "1h 56m",
+      "sinopsis": "Un criminal internacional que está en prisión contrata a un mercenario para rescatar a su hijo secuestrado."
     },
     {
       "titulo": "Homefront",
       "director": " Gary Fleder",
       "anio": 2014,
       "portada": "https://hiramnoriega.com/wp-content/uploads/2022/07/Linea-de-fuego-2.jpg",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "Un exagente de la DEA regresa a la acción para salvar a su hija.",
+      "duracion": "1h 40m",
+      "sinopsis": "Un exagente de la DEA regresa a la acción para salvar a su hija y a su nueva ciudad de un psicópata que vende drogas."
     },
     {
       "titulo": "Alerta roja",
       "director": " Rawson Marshall Thurber",
       "anio": 2021,
       "portada": "https://i.blogs.es/9e78f8/alerta-roja-cartel/450_1000.jpeg",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "John Hartley, agente de la Interpol, no tendrá otro remedio que aliarse con el ladrón.",
+      "duracion": "1h 58m",
+      "sinopsis": "John Hartley, agente de la Interpol, no tendrá otro remedio que aliarse con el ladrón de arte más célebre de todos los tiempos, Nolan Booth, para capturar a la ladrona de arte más buscada del presente: la seductora y peligrosa Sarah Black."
     },
     {
       "titulo": "Sin remordimientos",
       "director": " Stefano Sollima",
       "anio": 2021,
       "portada": "https://sm.ign.com/ign_es/screenshot/default/qv7hoozvblynjqpswivl7mqiajx_n4cg.jpg",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "John Kelly emprende una venganza para acabar con el asesino de su esposa, un capo de la droga.",
+      "duracion": "1h 49m",
+      "sinopsis": "John Kelly emprende una venganza para acabar con el asesino de su esposa, un capo de la droga. Pero al hacerlo, descubre que ha quedado atrapado en una conspiración mucho mayor."
     },
     {
       "titulo": "The Ice Road",
       "director": " Jonathan Hensleigh",
       "anio": 2022,
       "portada": "https://media.revistagq.com/photos/61289c0f8a49f53b4b9cfe3d/16:9/pass/ice-road.jpg",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "Un conductor, especializado en terrenos helados, comanda la misión de rescate de los trabajadores.",
+      "duracion": "1h 43m",
+      "sinopsis": "Un conductor, especializado en terrenos helados, comanda la misión de rescate de los trabajadores que quedaron atrapados en una mina de diamantes al norte de Canadá. El experto camionero enfrenta un océano de hielo, el peligro del agua del deshielo y un riesgo que nadie supo prever."
     },
     {
       "titulo": "Escuadrón 6",
       "director": " Michael Bay",
       "anio": 2022,
       "portada": "https://hips.hearstapps.com/hmg-prod/images/6-en-la-sombra-2-1585813193.jpg",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "Seis de diferentes partes del mundo. Cada una de las cuales es la mejor en lo que hacen.",
+      "duracion": "2h 8m",
+      "sinopsis": "Seis de diferentes partes del mundo. Cada una de las cuales es la mejor en lo que hacen y han sido elegidas no solo por su habilidad, sino por su deseo único de dejar atrás su pasado para cambiar el futuro."
     },
     {
       "titulo": "Me llamo Venganza",
       "director": "Cosimo Gomez",
       "anio": 2022,
       "portada": "https://indiehoy.com/wp-content/uploads/2022/12/me-llamo-venganza.jpg",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "En un pueblo del norte de Italia, un antiguo sicario y su hija traman un plan de venganza.",
+      "duracion": "1h 30m",
+      "sinopsis": "En la sombra durante años en un pueblo del norte de Italia, un antiguo sicario del crimen organizado y su hija traman un plan de venganza cuando sus enemigos vuelven perseguir a su familia."
     },
     {
-      "titulo": "Misión de rescate",
+      "titulo": "Misión de rescate 2",
       "director": "Sam Hargrave",
       "anio": 2023,
       "portada": "https://occ-0-2164-586.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQBtP-e_2N6t6RGIod71YiF3dv-RBLW-LpEcxbj7270dgekx0UOMBvCTgrT4eREU0Wn3MYbJYakOpcFO5QuVvk0sGbfBtfOYIG2OF5OdcpHA7EeUkBlMJ1dXbAU7SQax3Zzz7A.jpg?r=fe5",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "El agente altamente entrenado, Tyler Rake, regresa del umbral de la muerte con otra peligrosa misión.",
+      "duracion": "2h 3m",
+      "sinopsis": "El agente altamente entrenado, Tyler Rake, regresa del umbral de la muerte con otra peligrosa misión: rescatar a la familia de un mafioso despiadado."
     },
     {
       "titulo": "Mile 22",
       "director": "Peter Berg",
       "anio": 2018,
       "portada": "https://www.clarin.com/img/2022/11/14/ilj9-354S_720x0__1.jpg",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "Agente de la unidad más preciada y menos entendida de la CIA, con la ayuda de un equipo de comando táctico.",
+      "duracion": "1h 35m",
+      "sinopsis": "Un agente de la unidad más preciada y menos entendida de la CIA, con la ayuda de un equipo de comando táctico de alto secreto, debe recuperar y transportar a una agente con información ultrasecreta, recorriendo 22 millas contrarreloj para hacer posible su extracción antes de que el enemigo se acerque."
     },
     {
       "titulo": "Sream 6",
       "director": "Tyler Gillett",
       "anio": 2023,
       "portada": "https://d500.epimg.net/cincodias/imagenes/2023/07/27/smarttv/1690471272_208783_1690471523_noticia_normal.jpg",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "Sam, Tara, Chad y Mindy, los cuatro supervivientes de la matanza de Woodsboro.",
+      "duracion": "2h 2m",
+      "sinopsis": "Sam, Tara, Chad y Mindy, los cuatro supervivientes de la matanza de Woodsboro, abandonan el pueblo para empezar de cero en Nueva York. Sin embargo, Ghostface los persigue hasta la gran ciudad para terminar con todos ellos."
     },
     {
       "titulo": "Mision imposible",
       "director": "Christopher McQuarrie",
       "anio": 2023,
       "portada": "https://hips.hearstapps.com/hmg-prod/images/mision-imposible-8-64aeaa9e5040c.jpg",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "Ethan debe detener a una inteligencia artificial que todas las potencias mundiales codician.",
+      "duracion": "2h 43m",
+      "sinopsis": "Ethan debe detener a una inteligencia artificial que todas las potencias mundiales codician, la cual se ha vuelto tan poderosa que se rebeló contra sus creadores y ahora es una amenaza en sí misma."
     },
     {
       "titulo": "Al filo del mañana",
       "director": "Doug Liman",
       "anio": 2014,
       "portada": "https://sm.ign.com/t/ign_es/screenshot/default/1366-2000-25_yqc4.1280.jpg",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra.",
+      "duracion": "1h 53m",
+      "sinopsis": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra, entra en un bucle temporal en el cual revive constantemente y vuelve a intentar salvar el planeta, mejorando sus habilidades, conociendo mejor al enemigo, y acercándose cada vez más a la victoria. Sin embargo, el tiempo corre en su contra."
     },
     {
       "titulo": "The Marksman",
       "director": " Robert Lorenz",
       "anio": 2021,
       "portada": "https://i.ytimg.com/vi/PVjFgrBwn0g/maxresdefault.jpg",
-      "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra."
+      "descripcion": "Jim, un antiguo marine reconvertido en ranchero en la frontera de Arizona.",
+      "duracion": "1h 48m",
+      "sinopsis": "Jim, un antiguo marine reconvertido en ranchero en la frontera de Arizona, trata de proteger a un niño al que persiguen los violentos integrantes de un cartel de narcotraficantes mexicanos."
     },
     {
       "titulo": "Turno de día",
       "director": "J.J. Perry",
       "anio": 2022,
       "portada": "https://okdiario.com/img/2022/09/02/turno-de-dia-netflix-655x368.jpg",
-      "descripcion": "Un padre que trabaja duro para mantener a su hija usa su anodino empleo como limpiador de piscinas."
+      "descripcion": "Un padre que trabaja duro para mantener a su hija usa su anodino empleo como limpiador de piscinas.",
+      "duracion": "1h 54m",
+      "sinopsis": "Un padre que trabaja duro para mantener a su hija usa su anodino empleo como limpiador de piscinas como fachada para su verdadero trabajo: cazar y matar vampiros."
     }
   ],
   "Comedia": [
@@ -145,121 +185,161 @@
       "titulo": "Los amantes pasajeros",
       "director": " Pedro Almodóvar",
       "anio": 2013,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-los-amantes-pasajeros-1632310415.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-los-amantes-pasajeros-1632310415.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "1h 30m",
+      "sinopsis": "Un fallo pone en peligro la vida de los pasajeros de un avión con destino a México. Su incapacidad de enfrentarse al peligro crea una especie de catarsis que acaba convirtiéndose en la mejor manera de escapar de la idea de la muerte. Los pilotos y los azafatos del avión harán todo lo posible por el bienestar de los neuróticos pasajeros."
     },
     {
       "titulo": "Unbreakable Kimmy Schmidt",
       "director": "  Claire Scanlon",
       "anio": 2020,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-kimmy-smitch-1632304772.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-kimmy-smitch-1632304772.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "1h 20m",
+      "sinopsis": "Cuando una chica es rescatada de una secta apocalíptica y aterriza en pleno Nueva York, tendrá que aprender a lidiar con un mundo que pensaba ya no existía. Ve todo lo que quieras."
     },
     {
       "titulo": "El bar",
       "director": " Álex de la Iglesia",
       "anio": 2017,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-el-bar-1632310092.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-el-bar-1632310092.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "1h 42m",
+      "sinopsis": "Son las nueve de la mañana y un grupo variado de personas desayuna en un bar en el centro de Madrid. Uno de ellos tiene prisa y abandona el bar. Al salir por la puerta, recibe un disparo en la cabeza. Sin embargo, nadie puede ir a socorrerle, pues están atrapados dentro del bar."
     },
     {
       "titulo": "Moxie",
       "director": " Amy Poehler",
       "anio": 2021,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-moxie-1632304184.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-moxie-1632304184.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "1h 51m",
+      "sinopsis": "Una tímida joven de 16 años se inspira en el pasado rebelde de su madre y hace una publicación que desencadena indignación en todo el colegio."
     },
     {
       "titulo": "Ted",
       "director": "Seth MacFarlane",
       "anio": 2012,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-ted-1632312354.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-ted-1632312354.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "1h 46m",
+      "sinopsis": "Cuando John Bennett era un niño pequeño, pidió el deseo de que Ted, su querido oso de peluche, cobrara vida. Treinta años más tarde, Ted continúa siendo el compañero de John, ante el disgusto de Lori, la novia de John. Aunque el disgusto de Lori se ve agravado por el constante consumo de la pareja de cerveza y marihuana, ella no es quien está más decepcionada con John; ya que puede necesitar la intervención del juguete de John para hacerlo madurar."
     },
     {
       "titulo": "Toc Toc",
       "director": " Vicente Villanueva",
       "anio": 2017,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-toc-toc-1632307847.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-toc-toc-1632307847.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "1h 30m",
+      "sinopsis": "Un grupo de pacientes coinciden a la misma hora en la consulta de un importante psicólogo. Todos ellos padecen Trastorno Obsesivo Compulsivo."
     },
     {
       "titulo": "Fuerza Trueno",
       "director": " Ben Falcone",
       "anio": 2021,
-      "portada": "https://i.blogs.es/bd5685/patrulla-trueno-cartel/1366_2000.png"
+      "portada": "https://i.blogs.es/bd5685/patrulla-trueno-cartel/1366_2000.png",
+      "duracion": "1h 46m",
+      "sinopsis": "Dos mejores amigas de la infancia se reúnen como un dúo de superhéroes que luchan contra el crimen después de que una de ella inventa una fórmula que otorga superpoderes a la gente común."
     },
     {
       "titulo": "Virgen a los 40",
       "director": " Judd Apatow",
       "anio": 2005,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-virgen-a-los-40-1632313351.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-virgen-a-los-40-1632313351.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "1h 56m",
+      "sinopsis": "Andy Stitzer lo tiene todo: trabajo, amigos e independencia. Sin embargo, hay algo que nunca ha logrado: mantener relaciones sexuales, por lo que a sus 40 años sigue siendo virgen."
     },
     {
       "titulo": "Good On Paper ",
       "director": " Kimmy Gatewood",
       "anio": 2021,
-      "portada": "https://occ-0-1723-1001.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTj8zDdm0yhFK1T0etrKzHSyvpTOSIfv8TDMo6D_JAG27VlW8U0jVwdzVFoKeSN1PuR9Zv8-YfY4I7EI8OpyqSsvW9Si5DAZ7ZPF.jpg?r=cda"
+      "portada": "https://occ-0-1723-1001.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTj8zDdm0yhFK1T0etrKzHSyvpTOSIfv8TDMo6D_JAG27VlW8U0jVwdzVFoKeSN1PuR9Zv8-YfY4I7EI8OpyqSsvW9Si5DAZ7ZPF.jpg?r=cda",
+      "duracion": "1h 32m",
+      "sinopsis": "Tras años de poner su carrera por delante del amor, la comediante Andrea Singer se topa con el chico perfecto. En el papel, Dennis marca todas las casillas, pero la amiga de Andrea, Margot, está convencida de que no es todo lo que parece."
     },
     {
       "titulo": "Loco por ella",
       "director": " Dani de la Orden",
       "anio": 2021,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-loco-por-ella-1632304281.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-loco-por-ella-1632304281.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "1h 42m",
+      "sinopsis": "Tras pasar una increíble noche juntos, Adri descubre que solo hay una manera de ver a Carla: deberá ingresar en el centro psiquiátrico en el que ella está internada."
     },
     {
       "titulo": "Puñales por la espalda",
       "director": " Rian Johnson",
       "anio": 2019,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-punales-por-la-espalda-1632307602.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-punales-por-la-espalda-1632307602.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "2h 10m",
+      "sinopsis": "Benoit Blanc, un detective implacable, investiga la muerte de un anciano escritor de novelas policíacas en la mansión del difunto. Benoit tendrá que sortear las trampas y mentiras que la excéntrica familia y los sirvientes del novelista han urdido."
     },
     {
       "titulo": "BOOKSMART",
       "director": " Olivia Wilde",
       "anio": 2019,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-super-empollonas-1632312130.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/mejores-comedias-netflix-super-empollonas-1632312130.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "1h 42m",
+      "sinopsis": "Amy y Molly son dos excelentes estudiantes y grandes amigas que, en la víspera de la graduación de su instituto, se dan cuenta de que podrían haberse esforzado algo menos en clase y haberse divertido más. Así que deciden hacer algo al respecto para compensar tanto estudio y tan poca diversión: recuperar los años perdidos en una noche loca."
     },
     {
       "titulo": "No mires arriba",
       "director": " Adam McKay",
       "anio": 2021,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/no-mires-arriba-portada-1637680853.jpeg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/no-mires-arriba-portada-1637680853.jpeg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "2h 25m",
+      "sinopsis": "Dos astrónomos mediocres descubren que en pocos meses un meteorito destruirá el planeta Tierra. Desde ese momento, deberán advertir a la humanidad del peligro que se avecina a través de los medios de comunicación."
     },
     {
       "titulo": "Ted 2",
       "director": " Seth MacFarlane",
       "anio": 2015,
-      "portada": "https://media.vandal.net/i/620x310/2-2021/202121815425056_4.jpg"
+      "portada": "https://media.vandal.net/i/620x310/2-2021/202121815425056_4.jpg",
+      "duracion": "1h 56m",
+      "sinopsis": "Ted y Tami-Lynn acaban de casarse y quieren tener un bebé. Sin embargo, cumplir su sueño no es fácil porque debe demostrar ante un tribunal que es una persona. Además, para fecundar a su esposa, Ted quiere que John lo ayuda a robar el esperma de un jugador de fútbol americano."
     },
     {
       "titulo": "Ocho apellidos vascos ",
       "director": "Emilio Martínez-Lázaro",
       "anio": 2014,
-      "portada": "https://media.vandalsports.com/i/620x349/1-2022/2022124181249_1.jpg"
+      "portada": "https://media.vandalsports.com/i/620x349/1-2022/2022124181249_1.jpg",
+      "duracion": "1h 38m",
+      "sinopsis": "Rafa, un señorito andaluz que nunca ha salido de Sevilla, decide dejarlo todo para conquistar a Amaia, una chica vasca. Se muda al País Vasco y allí tendrá que adaptarse a un nuevo entorno y hacerse pasar por vasco para ganarse la aprobación del padre de Amaia."
     },
     {
       "titulo": "Cazafantasmas ",
       "director": "Paul Feig",
       "anio": 2016,
-      "portada": "https://media.vandalsports.com/master/1-2022/2022124183658_1.jpg"
+      "portada": "https://media.vandalsports.com/master/1-2022/2022124183658_1.jpg",
+      "duracion": "1h 56m",
+      "sinopsis": "Tras treinta años de tranquilidad, los fantasmas y demonios han vuelto a Nueva York para aterrorizar a los ciudadanos. Esta vez, una investigadora de lo paranormal, una física, una ingeniera nuclear y una trabajadora del metro conformarán un equipo para detenerlos."
     },
     {
       "titulo": "Son Como Niños ",
       "director": "Dennis Dugan",
       "anio": 2010,
-      "portada": "https://cl.buscafs.com/www.sandiegored.com/public/uploads/images/189516.jpg"
+      "portada": "https://cl.buscafs.com/www.sandiegored.com/public/uploads/images/189516.jpg",
+      "duracion": "1h 42m",
+      "sinopsis": "La muerte de su entrenador de baloncesto durante su infancia provoca la reunión de algunos viejos amigos, quienes se ven en el lugar en el que celebraron un campeonato años atrás. Los compañeros hablan sobre sus esposas y sus hijos, y descubren que la edad no necesariamente va de la mano con la madurez."
     },
     {
       "titulo": "White Chicks",
       "director": "Keenen Ivory Wayans",
       "anio": 2004,
-      "portada": "https://ds-images.bolavip.com/news/image/800/800/?src=https://images.bolavip.com/webp/spo/full/SPO_20230524_SPO_928_MV5BNTM2MTQxNDA0MF5BMl5BanBnXkFtZTgwMDg5MjgxMDI@._V1_-scaled-e1684958184567.webp"
+      "portada": "https://ds-images.bolavip.com/news/image/800/800/?src=https://images.bolavip.com/webp/spo/full/SPO_20230524_SPO_928_MV5BNTM2MTQxNDA0MF5BMl5BanBnXkFtZTgwMDg5MjgxMDI@._V1_-scaled-e1684958184567.webp",
+      "duracion": "1h 49m",
+      "sinopsis": "Dos torpes agentes del FBI se hacen pasar por dos chicas de la alta sociedad para investigar una serie de secuestros. No obstante, mientras preparan su plan, descubren que irrumpir en la clase privilegiada es mucho más duro de lo que creían."
     },
     {
       "titulo": "Little Man",
       "director": "Keenen Ivory Wayans",
       "anio": 2006,
-      "portada": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2006/8/w1280/9SfvB8ZO2mpy5dhB2IetK3ygXdr.jpg"
+      "portada": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2006/8/w1280/9SfvB8ZO2mpy5dhB2IetK3ygXdr.jpg",
+      "duracion": "1h 38m",
+      "sinopsis": "Después de pasar varios años en la cárcel, Calvin Sims, un duro ladrón de joyas que no supera el metro de altura, decide retirarse del mundo del delito. Pero antes quiere dar un último gran golpe. De esta manera, él y su socio se preparan para robar un valioso diamante con un plan perfecto. Sin embargo, algo sale mal y deben esconder el objeto en el bolso de una desconocida."
     },
     {
       "titulo": "Masterminds",
       "director": "Jared Hess",
       "anio": 2016,
-      "portada": "https://poluxweb.com/Polux3/cache/Mentes_maestras_23_images_data_cine_resenas_2016_octubre_MentesMaestras_thumb_medium800_550.jpg"
+      "portada": "https://poluxweb.com/Polux3/cache/Mentes_maestras_23_images_data_cine_resenas_2016_octubre_MentesMaestras_thumb_medium800_550.jpg",
+      "duracion": "1h 36m",
+      "sinopsis": "David Ghanatt es un conductor de vehículos blindados que pasa sus días transportando dinero para otras personas. Cansado de la monotonía de su trabajo, lo único que le alegra es compartir la jornada con su compañera Kelly, de la cual está enamorado. Sin embargo, todo se complica cuando Kelly le propone a David robar un banco con la ayuda de sus cómplices, un equipo de inexpertos que dejarán rastros del crimen más que evidentes."
     }
   ],
   "Drama": [
@@ -267,121 +347,161 @@
       "titulo": "Violet y Finch",
       "director": "Brett Haley",
       "anio": 2020,
-      "portada": "https://cdn.culturagenial.com/es/imagenes/violet-finch-pelicula.jpg"
+      "portada": "https://cdn.culturagenial.com/es/imagenes/violet-finch-pelicula.jpg",
+      "duracion": "1h 48m",
+      "sinopsis": "Dos adolescentes luchan con las heridas emocionales y físicas de su pasado. Juntos, descubren que hasta los momentos más pequeños pueden ser relevantes."
     },
     {
       "titulo": "18 Presents",
       "director": "Francesco Amato",
       "anio": 2020,
-      "portada": "https://cdn.culturagenial.com/es/imagenes/dieciocho-regalos.jpg"
+      "portada": "https://cdn.culturagenial.com/es/imagenes/dieciocho-regalos.jpg",
+      "duracion": "1h 55m",
+      "sinopsis": "Una joven embarazada con cáncer terminal deja 18 regalos, con valor sentimental, para que su futura hija los reciba durante todos los cumpleaños hasta que alcance la madurez."
     },
     {
       "titulo": "Fragmentos de una mujer",
       "director": "Kornél Mundruczó",
       "anio": 2020,
-      "portada": "https://i.blogs.es/7f87b1/cartel-fragmentos-de-una-mujer/1366_2000.jpeg"
+      "portada": "https://i.blogs.es/7f87b1/cartel-fragmentos-de-una-mujer/1366_2000.jpeg",
+      "duracion": "2h 8m",
+      "sinopsis": "La vida de una pareja se transforma luego de perder a su bebé durante un parto en su hogar tras la negligencia cometida por una partera, quien es denunciada ante los tribunales."
     },
     {
       "titulo": "Blonde",
       "director": "Andrew Dominik",
       "anio": 2022,
-      "portada": "https://cdn.culturagenial.com/es/imagenes/blonde-pelicula.jpg"
+      "portada": "https://cdn.culturagenial.com/es/imagenes/blonde-pelicula.jpg",
+      "duracion": "2h 46m",
+      "sinopsis": "Una mirada al ascenso a la fama y la sobrecogedora muerte de la actriz Marilyn Monroe, una de las estrellas más grandes de la historia del séptimo arte."
     },
     {
       "titulo": "Sin novedad en el frente",
       "director": "Edward Berger",
       "anio": 2022,
-      "portada": "https://img11.tokyvideo.com/videos/180/180952/previews/previews_0006_custom_1667462402.9731.jpg"
+      "portada": "https://img11.tokyvideo.com/videos/180/180952/previews/previews_0006_custom_1667462402.9731.jpg",
+      "duracion": "2h 28m",
+      "sinopsis": "En la Alemania de 1917, el joven Paul Baumer miente sobre su edad para alistarse con sus amigos, todos ellos jóvenes patriotas. Sin embargo, la realidad de la guerra desmantela casi inmediatamente su exuberancia."
     },
     {
       "titulo": "Hannah Arendt",
       "director": "Margarethe von Trotta",
       "anio": 2012,
-      "portada": "https://www.aceprensa.com/wp-content/uploads/2013/05/121873-0-683x1024.jpg"
+      "portada": "https://www.aceprensa.com/wp-content/uploads/2013/05/121873-0-683x1024.jpg",
+      "duracion": "1h 53m",
+      "sinopsis": "La escritora y filósofa Hannah Arendt viaja a Israel para cubrir el juicio de Adolf Eichmann por sus crímenes de guerra. Arendt trabajará durante cuatro años en el libro 'Eichman en Jerusalén', que provoca un revuelo internacional."
     },
     {
       "titulo": "The Finest Hours ",
       "director": "Craig Gillespie",
       "anio": 2016,
-      "portada": "https://i.ytimg.com/vi/JFvYi5LQpYI/sddefault.jpg"
+      "portada": "https://i.ytimg.com/vi/JFvYi5LQpYI/sddefault.jpg",
+      "duracion": "1h 57m",
+      "sinopsis": "En febrero de 1952, en mitad de una tormenta monstruosa que se cierne sobre Nueva Inglaterra, los miembros de la Guardia Costera arriesgan sus vidas para rescatar a los trabajadores de dos petroleros que la tempestad ha destrozado."
     },
     {
       "titulo": "The Wave",
       "director": "Roar Uthaug",
       "anio": 2015,
-      "portada": "https://cineuropa.org/Galleries/298/137/poster1_big.jpg?1443523533345"
+      "portada": "https://cineuropa.org/Galleries/298/137/poster1_big.jpg?1443523533345",
+      "duracion": "1h 44m",
+      "sinopsis": "Un brutal tsunami de más de 80 metros arrasa una región de Noruega. Un geólogo se ve atrapado en medio de este desastre natural e inicia una carrera contrarreloj para salvar su vida y la de su familia."
     },
     {
       "titulo": "Contagio",
       "director": "Steven Soderbergh",
       "anio": 2011,
-      "portada": "https://m.media-amazon.com/images/S/pv-target-images/4ac6c71fe0bdeed4b4c06f3ddd1fb65174acf21199da5d8cf00091319486fde8._SX780_.jpg"
+      "portada": "https://m.media-amazon.com/images/S/pv-target-images/4ac6c71fe0bdeed4b4c06f3ddd1fb65174acf21199da5d8cf00091319486fde8._SX780_.jpg",
+      "duracion": "1h 46m",
+      "sinopsis": "Cuando Beth Emhoff regresa a Minnesota de un viaje de negocios a Hong Kong, ella le atribuye su malestar al cambio de horario. Dos días después, Beth muere y los médicos le dicen a su esposo que no saben la causa de su muerte. Pronto, otras personas empiezan a mostrar los mismos síntomas y surge una pandemia global. Los doctores intentan contener al microbio letal, pero la sociedad empieza a colapsarse cuando los fanáticos de una bloguera provocan una paranoia."
     },
     {
       "titulo": "Skyfire",
       "director": "Simon West",
       "anio": 2019,
-      "portada": "https://moviehaku.com/thumbs/films/400x590/Skyfire.jpg"
+      "portada": "https://moviehaku.com/thumbs/films/400x590/Skyfire.jpg",
+      "duracion": "1h 37m",
+      "sinopsis": "Cuando un volcán entra en erupción en una isla tropical del mar de la China Meridional, una geóloga y su padre intentan salvar la mayor cantidad de vidas posibles, pero el tiempo corre en su contra."
     },
     {
       "titulo": "Thirteen Lives",
       "director": "Ron Howard",
       "anio": 2022,
-      "portada": "https://dims.apnews.com/dims4/default/4581537/2147483647/strip/true/crop/3000x1688+0+0/resize/599x337!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fd655dda34e3d48faa9f1798adf51c856%2F3000.jpeg"
+      "portada": "https://dims.apnews.com/dims4/default/4581537/2147483647/strip/true/crop/3000x1688+0+0/resize/599x337!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fd655dda34e3d48faa9f1798adf51c856%2F3000.jpeg",
+      "duracion": "2h 27m",
+      "sinopsis": "Los equipos de rescate intentan salvar a 12 niños y a su entrenador de fútbol de un sistema de cuevas inundadas e impenetrables en Tailandia."
     },
     {
       "titulo": "The Immigrant ",
       "director": "James Gray",
       "anio": 2014,
-      "portada": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/68852e6e123a66d29b1ec2a9b42b6c33614adb452c27410414ce86859ceb2282._RI_TTW_.jpg"
+      "portada": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/68852e6e123a66d29b1ec2a9b42b6c33614adb452c27410414ce86859ceb2282._RI_TTW_.jpg",
+      "duracion": "2h",
+      "sinopsis": "En 1921, Ewa y su hermana Magda abandonan su Polonia natal para emigrar a Nueva York. Cuando llegan a la isla de Ellis, descubren que Magda está enferma de tuberculosis y la ponen en cuarentena. Ewa entonces se encuentra sola y desamparada en la gran ciudad y en seguida cae en las manos de Bruno. El hombre, que parece encantador al principio, pronto la obliga a prostituirse. El primo de Bruno, Orlando, será el único que podrá salvar a la joven."
     },
     {
       "titulo": "Gloria",
       "director": "Sebastián Lelio",
       "anio": 2013,
-      "portada": "https://images.justwatch.com/poster/241728556/s718/gloria-2013.%7Bformat%7D"
+      "portada": "https://images.justwatch.com/poster/241728556/s718/gloria-2013.%7Bformat%7D",
+      "duracion": "2h 3m",
+      "sinopsis": "A sus 58 años y divorciada, Gloria llena sus días de actividades y sus noches de fiesta en locales para adultos, pero su felicidad se verá alterada al encontrarse con Rodolfo, recientemente separado, que se obsesiona con ella."
     },
     {
       "titulo": "Phoenix",
       "director": "Christian Petzold",
       "anio": 2014,
-      "portada": "https://images.justwatch.com/poster/283488837/s592/phoenix"
+      "portada": "https://images.justwatch.com/poster/283488837/s592/phoenix",
+      "duracion": "1h 38m",
+      "sinopsis": "Junio de 1945. Nelly, una superviviente de Auschwitz, regresa a su Berlín natal gravemente herida y con la cara deformada, acompañada de Lene, de la Agencia Judía y amiga desde antes de la guerra. Tras someterse a una traumática operación de reconstrucción facial y a pesar de las advertencias de su amiga, Nelly se empeña en buscar a su marido Johnny, el amor de su vida."
     },
     {
       "titulo": "Mommy",
       "director": "Xavier Dolan",
       "anio": 2014,
-      "portada": "https://www.brightwalldarkroom.com/wp-content/uploads/2021/03/mommy-dolan.jpg"
+      "portada": "https://www.brightwalldarkroom.com/wp-content/uploads/2021/03/mommy-dolan.jpg",
+      "duracion": "2h 19m",
+      "sinopsis": "En un Canadá ficticio se aprueba una nueva legislación que estipula que los padres de hijos con problemas de conducta tienen el derecho legal y moral de confiar a sus hijos a un hospital público sin un proceso judicial."
     },
     {
       "titulo": "Night Comes On",
       "director": " Jordana Spiro",
       "anio": 2018,
-      "portada": "https://static01.nyt.com/images/2018/08/03/arts/03night1/merlin_141821532_d3e09c58-f95d-428b-84e3-4e0a36e190a2-superJumbo.jpg"
+      "portada": "https://static01.nyt.com/images/2018/08/03/arts/03night1/merlin_141821532_d3e09c58-f95d-428b-84e3-4e0a36e190a2-superJumbo.jpg",
+      "duracion": "1h 30m",
+      "sinopsis": "La adolescente Angel LaMere sale de un centro de menores en la víspera de su 18 cumpleaños. Junto con su hermana de diez años, se embarca en un viaje en busca de venganza por la muerte de su madre."
     },
     {
       "titulo": "The Nest ",
       "director": "Sean Durkin",
       "anio": 2020,
-      "portada": "https://imagenes.20minutos.es/files/og_thumbnail_1900/uploads/imagenes/2020/06/16/The-Nest-CM.jpg"
+      "portada": "https://imagenes.20minutos.es/files/og_thumbnail_1900/uploads/imagenes/2020/06/16/The-Nest-CM.jpg",
+      "duracion": "1h 47m",
+      "sinopsis": "En la década de 1980, un empresario inglés asentado en los Estados Unidos regresa a su país natal acompañado por su familia. No obstante, adaptarse a una realidad socioeconómica dañará irreversiblemente el equilibrio familiar."
     },
     {
       "titulo": "The Assistant",
       "director": "Kitty Green",
       "anio": 2019,
-      "portada": "https://static.filmin.es/images/media/32205/5/still_0_3_790x398.webp"
+      "portada": "https://static.filmin.es/images/media/32205/5/still_0_3_790x398.webp",
+      "duracion": "1h 27m",
+      "sinopsis": "Jane es una aspirante a productora de cine que consigue el trabajo de sus sueños como asistente junior de un poderoso magnate del entretenimiento. Pero las cosas pronto toman un giro oscuro cuando se ve sometida a abuso en el lugar de trabajo."
     },
     {
       "titulo": "The Lost Daughter",
       "director": " Maggie Gyllenhaal",
       "anio": 2021,
-      "portada": "https://occ-0-1432-1348.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABanEIyHx35LyDk84e5ptRJTwiyHOsAdofeyuh0CXG8pwF-uaAAB-BXFhfS9rfHsk-MlH3mVdU5Q_YM8vIgv37YOmMiyKqiLmP2_o.jpg?r=45a"
+      "portada": "https://occ-0-1432-1348.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABanEIyHx35LyDk84e5ptRJTwiyHOsAdofeyuh0CXG8pwF-uaAAB-BXFhfS9rfHsk-MlH3mVdU5Q_YM8vIgv37YOmMiyKqiLmP2_o.jpg?r=45a",
+      "duracion": "2h 1m",
+      "sinopsis": "Sola en unas vacaciones junto al mar, Leda se ve consumida por una joven madre y su hija mientras las observa en la playa. Intrigada por su atractiva relación (y por su estridente y amenazante familia), Leda se siente abrumada por sus propios recuerdos del terror, la confusión y la intensidad de la maternidad temprana. Un acto impulsivo lleva a Leda al extraño y ominoso mundo de su propia mente, donde se ve obligada a enfrentarse a sus decisiones poco convencionales."
     },
     {
       "titulo": "The Almond and the Seahorse",
       "director": " Celyn Jones, Tom Stern",
       "anio": 2022,
-      "portada": "https://m.media-amazon.com/images/M/MV5BMmExNGFjOTUtMmY2MC00ZWZmLWE4MGItNDNiNTk3Mjk4YzQxXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_.jpg"
+      "portada": "https://m.media-amazon.com/images/M/MV5BMmExNGFjOTUtMmY2MC00ZWZmLWE4MGItNDNiNTk3Mjk4YzQxXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_.jpg",
+      "duracion": "1h 36m",
+      "sinopsis": "Una arqueóloga y una arquitecta luchan por volver a imaginar un futuro después de que una lesión cerebral traumática los deja a la deriva y alejados de las personas que aman."
     }
   ],
   "Romance": [
@@ -389,121 +509,161 @@
       "titulo": "Historia de un matrimonio",
       "director": "Noah Baumbach",
       "anio": 2019,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/historia-de-un-matrimonio-1675345454.jpg?resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/historia-de-un-matrimonio-1675345454.jpg?resize=980:*",
+      "duracion": "2h 16m",
+      "sinopsis": "Un director de teatro y su mujer, actriz, luchan por superar un divorcio que les lleva al extremo tanto en lo personal como en lo creativo. Además de aprender a convivir para lograr una estabilidad en la vida de su pequeño hijo."
     },
     {
       "titulo": "El sueño de mi vida",
       "director": "Gary Winick",
       "anio": 2004,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/el-sueno-de-mi-vida-642698a24394d.jpg?resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/el-sueno-de-mi-vida-642698a24394d.jpg?resize=980:*",
+      "duracion": "1h 38m",
+      "sinopsis": "Por su trece cumpleaños, todo lo que Jenna Rink desea es ser guapa y popular. Tras una experiencia humillante con un grupo de chicas delante del chico más popular de la escuela, Jenna hace un deseo desesperado por tener una nueva vida. Milagrosamente su deseo se hace realidad, sólo que han pasado diecisiete años y ella es una niña de trece años en el cuerpo de una joven de treinta."
     },
     {
       "titulo": "Cuatro bodas y un funeral",
       "director": "Mike Newell",
       "anio": 1994,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-cuatro-bodas-y-un-funeral-1537346371.jpg?crop=1.00xw:0.902xh;0,0.0319xh&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-cuatro-bodas-y-un-funeral-1537346371.jpg?crop=1.00xw:0.902xh;0,0.0319xh&resize=980:*",
+      "duracion": "1h 57m",
+      "sinopsis": "Charles es un apuesto treintañero inglés, divertido, algo despistado y muy indeciso, que está en una edad en que la mayoría de sus amigos ya se han casado. Con su grupo de amigos íntimos acude a la boda de un amigo en común. Allí conoce a Carrie, una chica americana que le hace creer que su mala suerte en el amor ha acabado. Sin embargo, después de pasar una noche juntos, ella se vuelve a Estados Unidos. A partir de ese día sus caminos se cruzarán en cuatro bodas y un funeral."
     },
     {
       "titulo": "El secreto de Adaline",
       "director": "Lee Toland Krieger",
       "anio": 2015,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-el-secreto-de-adaline-1537349235.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-el-secreto-de-adaline-1537349235.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "1h 52m",
+      "sinopsis": "Adaline Bowman se ha mantenido durante casi ocho décadas con la misma apariencia que tenía a los 29 años. Durante todo este tiempo ha intentado mantener las distancias con cualquiera que quisiera acercarse a ella para evitar que descubrieran su secreto. Sin embargo, un encuentro fortuito con carismático filántropo llamado Ellis Jones vuelve a despertar su pasión por la vida y el amor."
     },
     {
       "titulo": "La La Land",
       "director": "Damien Chazelle",
       "anio": 2016,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-la-la-land-1537351384.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-la-la-land-1537351384.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "2h 8m",
+      "sinopsis": "Sebastian, un pianista de jazz, y Mia, una aspirante a actriz, se enamoran locamente; pero la ambición desmedida que tienen por triunfar en sus respectivas carreras, en una ciudad como Los Ángeles, repleta de competencia y carente de piedad, pone en peligro su amor."
     },
     {
       "titulo": "Expiación, más allá de la pasión",
       "director": "Joe Wright",
       "anio": 2007,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-expiacion-1537349238.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-expiacion-1537349238.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "2h 3m",
+      "sinopsis": "Inglaterra, 1935. Brioni, una niña de 13 años, soñadora y aspirante a novelista, malinterpreta una situación y acusa a Robert, el novio de su hermana, de un delito que no ha cometido. Esto conlleva graves consecuencias para los dos amantes."
     },
     {
       "titulo": "Cold War",
       "director": "Pawel Pawlikowski",
       "anio": 2018,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/cold-war-1534244237.jpg?crop=1.00xw:0.891xh;0,0.109xh&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/cold-war-1534244237.jpg?crop=1.00xw:0.891xh;0,0.109xh&resize=980:*",
+      "duracion": "1h 30m",
+      "sinopsis": "Con el telón de fondo de la Guerra Fría de la década de los años 50 en Polonia, dos personas con pasados y temperamentos diferentes inician un romance casi imposible."
     },
     {
       "titulo": "Crazy Stupid Love",
       "director": "Glenn Ficarra y John Requa",
       "anio": 2011,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/elle-crazy-stupid-love2-1563174724.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/elle-crazy-stupid-love2-1563174724.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "1h 58m",
+      "sinopsis": "Cal Weaver está viviendo el sueño americano. Él tiene un buen trabajo, una casa preciosa, niños excelentes y una esposa hermosa, llamada Emily. Sin embargo, la aparente vida perfecta de Cal se derrumba cuando descubre que Emily le ha sido infiel y quiere divorciarse. Ahora, con más de 40 años, e inesperadamente soltero, Cal ingresa al vicioso mundo de las citas románticas. Jacob Palmer decide ayudar a Cal y le enseña a tener éxito con las damas."
     },
     {
       "titulo": "Match Point",
       "director": "Woody Allen",
       "anio": 2005,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-match-point-1537349238.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-match-point-1537349238.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "2h 4m",
+      "sinopsis": "Chris, un tenista profesional acepta un trabajo como instructor en una familia adinerada y se obsesiona con la seductora prometida de su cuñado. Una historia que analiza el azar, la suerte y la moral."
     },
     {
       "titulo": "Love Actually",
       "director": "Richard Curtis",
       "anio": 2003,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-love-actually-1537351963.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-love-actually-1537351963.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "2h 9m",
+      "sinopsis": "Las vidas de varias parejas se entrecruzan en Londres, poco antes de la Navidad, con resultados románticos, divertidos y agridulces."
     },
     {
       "titulo": "Embriagado de amor",
       "director": "Paul Thomas Anderson",
       "anio": 2002,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/still-3-3-1360x765-1652213197.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/still-3-3-1360x765-1652213197.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "1h 35m",
+      "sinopsis": "Barry, un hombre solitario y poco sociable, se educó sobreprotegido por sus siete hermanos. Desafortunado en el amor, se apasiona por una mujer misteriosa a quien conoce a través de su hermana, pero su vida se complica cuando intentan extorsionarlo."
     },
     {
       "titulo": "Jerry Maguire",
       "director": "Cameron Crowe",
       "anio": 1996,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/52-jerry-maguire-tom-cruise-renee-zellweger-1656497160.jpeg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/52-jerry-maguire-tom-cruise-renee-zellweger-1656497160.jpeg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "2h 19m",
+      "sinopsis": "Jerry Maguire, agente deportivo, es despedido y comienza de nuevo con sólo dos aliados: un futbolista de segunda y una secretaria, madre soltera."
     },
     {
       "titulo": "¡Olvídate de mí!",
       "director": "Michel Gondry",
       "anio": 2004,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-olvidate-de-mi-1537352048.jpg?crop=1.00xw:0.954xh;0,0.0215xh&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-olvidate-de-mi-1537352048.jpg?crop=1.00xw:0.954xh;0,0.0215xh&resize=980:*",
+      "duracion": "1h 48m",
+      "sinopsis": "Parecían la pareja ideal, su primer encuentro fue mágico, pero con el paso del tiempo ella deseó nunca haberlo conocido. Su anhelo se hace realidad gracias a un polémico y radical invento. Sin embargo descubrirán que el destino no se puede controlar."
     },
     {
       "titulo": "Moulin Rouge",
       "director": "Baz Luhrmann",
       "anio": 2001,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-moulin-rouge-1537345118.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-moulin-rouge-1537345118.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "2h 7m",
+      "sinopsis": "Satine, la estrella más rutilante del Moulin Rouge, encandila a toda la ciudad con sus bailes llenos de sensualidad. Atrapada entre el amor de dos hombres, un joven escritor y un duque, lucha por hacer realidad su sueño de ser actriz."
     },
     {
       "titulo": "Una cuestión de tiempo",
       "director": "Richard Curtis",
       "anio": 2013,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-una-cuestion-de-tiempo-1537351386.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-una-cuestion-de-tiempo-1537351386.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "2h 3m",
+      "sinopsis": "Cuando Tim Lake cumple 21 años, su padre le dice un secreto: los hombres de su familia pueden viajar por el tiempo. A pesar de que él no puede cambiar la historia, Tim decide mejorar su vida buscando una novia. Él conoce a Mary, se enamora y finalmente se gana su corazón con los viajes en el tiempo y un poco de astucia. Sin embargo, mientras su inusual vida progresa, Tim descubre que su habilidad especial no puede protegerlos de los problemas diarios de la vida."
     },
     {
       "titulo": "Retrato de una mujer en llamas",
       "director": "Céline Sciamma",
       "anio": 2019,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/ret1-1568821915.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/ret1-1568821915.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "2h 1m",
+      "sinopsis": "Marianne es una pintora que recibe un encargo muy especial: retratar a Héloïse, quien acaba de salir del convento y va a casarse. Este retrato de bodas tiene que realizarse sin que ella lo sepa, por lo que Marianne la investigará a diario."
     },
     {
       "titulo": "Antes del amanecer",
       "director": "Richard Linklater",
       "anio": 1995,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-antes-del-amanecer-1537345450.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-antes-del-amanecer-1537345450.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "1h 45m",
+      "sinopsis": "Antes del amanecer es una película romántica estadounidense de 1995 dirigida por Richard Linklater y escrita por Linklater y Kim Krizan."
     },
     {
       "titulo": "La princesa prometida",
       "director": "Rob Reiner",
       "anio": 1987,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-la-princesa-prometida-1537346376.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-la-princesa-prometida-1537346376.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "1h 38m",
+      "sinopsis": "Una hermosa doncella es desposada con un malvado príncipe, sabiendo que su verdadero amor parte en barco. Tiempo después es rescatada por este último, convertido ahora en pirata, y además presenciará una serie de encuentros con varios villanos."
     },
     {
       "titulo": "El diario de Noa",
       "director": "Nick Cassavetes",
       "anio": 2004,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-el-diario-de-noa-1537345118.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/peliculas-amor-romanticas-ver-antes-de-morir-el-diario-de-noa-1537345118.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "2h 1m",
+      "sinopsis": "En un hogar de retiro un hombre le lee a una mujer, que sufre de Alzheimer, la historia de dos jóvenes de distintas clases sociales que se enamoraron durante la convulsionada década del 40, y de cómo fueron separados por terceros, y por la guerra."
     },
     {
       "titulo": "Pride & Prejudice",
       "director": "Joe Wright",
       "anio": 2005,
-      "portada": "https://discordiamag.com/wp-content/uploads/2021/02/Portada-e1676814355157.jpg"
+      "portada": "https://discordiamag.com/wp-content/uploads/2021/02/Portada-e1676814355157.jpg",
+      "duracion": "2h 7m",
+      "sinopsis": "En esta daptación de la célebre novela de Jane Austen, la joven Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante."
     }
   ],
   "CienciaFiccion": [
@@ -511,121 +671,161 @@
       "titulo": "Infinite",
       "director": "Antoine Fuqua",
       "anio": 2021,
-      "portada": "https://www.cinepremiere.com.mx/wp-content/uploads/2021/08/maxresdefault-900x506.jpg"
+      "portada": "https://www.cinepremiere.com.mx/wp-content/uploads/2021/08/maxresdefault-900x506.jpg",
+      "duracion": "1h 46m",
+      "sinopsis": "Las alucinaciones de un esquizofrénico se revelan como recuerdos de vidas pasadas, donde obtuvo talentos que mantiene en la actualidad."
     },
     {
       "titulo": "Oxygen ",
       "director": "  Alexandre Aja",
       "anio": 2021,
-      "portada": "https://es.web.img2.acsta.net/videothumbnails/21/04/28/11/27/4872350.png"
+      "portada": "https://es.web.img2.acsta.net/videothumbnails/21/04/28/11/27/4872350.png",
+      "duracion": "1h 41m",
+      "sinopsis": "Una mujer se despierta en una unidad criogénica médica. No recuerda quién es ni cómo ha terminado encerrada en una caja no más grande que un ataúd. Mientras se queda sin oxígeno, debe reconstruir sus recuerdos para encontrar una salida a su pesadilla."
     },
     {
       "titulo": "Moonfall ",
       "director": "  Roland Emmerich",
       "anio": 2022,
-      "portada": "https://i.blogs.es/e54a58/16435651899742/1366_2000.jpg"
+      "portada": "https://i.blogs.es/e54a58/16435651899742/1366_2000.jpg",
+      "duracion": "2h 10m",
+      "sinopsis": "El mundo se enfrenta a la posibilidad de la extinción porque una fuerza desconocida empuja a la luna de su órbita rumbo a la Tierra. Un equipo de astronautas asume la misión de evitar el apocalipsis."
     },
     {
       "titulo": "M3GAN",
       "director": "Gerard Johnstone",
       "anio": 2023,
-      "portada": "https://media.glamour.mx/photos/63bda26abdf0f60b3c1a4515/4:3/w_2664,h_1998,c_limit/megan-la-aterradora-pelicula-que-llega-a-los-cines.jpg"
+      "portada": "https://media.glamour.mx/photos/63bda26abdf0f60b3c1a4515/4:3/w_2664,h_1998,c_limit/megan-la-aterradora-pelicula-que-llega-a-los-cines.jpg",
+      "duracion": "1h 42m",
+      "sinopsis": "Gemma, diseñadora de una muñeca de inteligencia artificial extraordinaria, se convierte en la tutora legal de una niña. Abrumada por la responsabilidad, cede su educación y protección a la muñeca, sin saber que las consecuencias serán terribles."
     },
     {
       "titulo": "Rebel Moon",
       "director": "Zack Snyder",
       "anio": 2023,
-      "portada": "https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_56691.jpg"
+      "portada": "https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_56691.jpg",
+      "duracion": "2h 28m",
+      "sinopsis": "Cuando una colonia en los confines de la galaxia se ve amenazada por los ejércitos del tiránico Regente Balisarius, envían a una joven con un misterioso pasado a buscar guerreros de planetas vecinos para que les ayuden a plantar cara."
     },
     {
       "titulo": "Saga Alien",
       "director": "Ridley Scott, James Cameron",
       "anio": 2017,
-      "portada": "https://cdn.superaficionados.com/imagenes/42-alien-peliculas-ciencia-ficcion-cke.jpg"
+      "portada": "https://cdn.superaficionados.com/imagenes/42-alien-peliculas-ciencia-ficcion-cke.jpg",
+      "duracion": "1h 57m",
+      "sinopsis": "La tripulación de la nave espacial Nostromo atiende una señal de auxilio y, sin saberlo, sube a bordo una letal forma de vida extraterrestre."
     },
     {
       "titulo": "Donnie Darko: The Director’s Cut",
       "director": "Richard Kelly",
       "anio": 2004,
-      "portada": "https://cdn.superaficionados.com/imagenes/41-donnie-darko-peliculas-ciencia-ficcion-cke.jpg"
+      "portada": "https://cdn.superaficionados.com/imagenes/41-donnie-darko-peliculas-ciencia-ficcion-cke.jpg",
+      "duracion": "2h 14m",
+      "sinopsis": "Donnie Darko es un adolescente solitario que sufre sonambulismo y vaga por la ciudad mientras duerme. Una noche, escucha una voz que lo atrae hacia el jardín, donde ve a alguien con un disfraz de conejo. La figura misteriosa, de nombre Frank, lanza una cuenta regresiva que presagia el fin del mundo."
     },
     {
       "titulo": "The Host",
       "director": "Bong Joon-ho",
       "anio": 2006,
-      "portada": "https://cdn.superaficionados.com/imagenes/35-the-host-peliculas-ciencia-ficcion-0-cke.jpg"
+      "portada": "https://cdn.superaficionados.com/imagenes/35-the-host-peliculas-ciencia-ficcion-0-cke.jpg",
+      "duracion": "1h 59m",
+      "sinopsis": "Los habitantes de Seúl observan sorprendidos un extraño objeto que cuelga de un puente sobre el río Han, en realidad es una monstruosa criatura mutante que al despertar devora a todo aquel que se cruza en su camino. En medio de tanto horror, la criatura mutante rapta a la hija del dueño de un quiosco que vive felizmente a la orilla del río. Mientras el ejército fracasa una y otra vez en sus intentos de destruir al monstruo, este hombrecillo anónimo y su familia intentan recuperar a su hija."
     },
     {
       "titulo": "Mr. Nobody",
       "director": "Jaco Van Dormael",
       "anio": 2009,
-      "portada": "https://cdn.superaficionados.com/imagenes/62-mr-nobody-peliculas-ciencia-ficcion-cke.jpg"
+      "portada": "https://cdn.superaficionados.com/imagenes/62-mr-nobody-peliculas-ciencia-ficcion-cke.jpg",
+      "duracion": "2h 18m",
+      "sinopsis": "Cuando sus padres se separan siendo él un niño, Nemo debe decidir si quedarse con su padre o con su madre. A partir de esa elección se definirá su futuro: ¿Conocerá a Élise? ¿Elegirá casarse con Jeanne? ¿Tendrá la oportunidad de vivir junto a Anna? Mientras no elija, cualquiera de esas vidas son posibles y todas merecen ser vividas."
     },
     {
       "titulo": "District 9",
       "director": "Neill Blomkamp",
       "anio": 2009,
-      "portada": "https://cdn.superaficionados.com/imagenes/1-district-9-peliculas-ciencia-ficcion-0-cke.jpg"
+      "portada": "https://cdn.superaficionados.com/imagenes/1-district-9-peliculas-ciencia-ficcion-0-cke.jpg",
+      "duracion": "1h 52m",
+      "sinopsis": "Hace treinta años, los extraterrestres llegaron a la Tierra en busca de un refugio ante la muerte de su planeta. Separados de los humanos en un área de Sudáfrica llamada Distrito 9, los extraterrestres son manejados por Multi-National United, la cual no está preocupada por el bienestar de los alienígenas, pero hará cualquier cosa para dominar su tecnología avanzada. Cuando un agente contrae un virus que empieza a alterar su ADN, sólo hay un lugar en donde se puede esconder: Distrito 9."
     },
     {
       "titulo": "Looper",
       "director": "Rian Johnson",
       "anio": 2012,
-      "portada": "https://cdn.superaficionados.com/imagenes/25-looper-peliculas-ciencia-ficcion-cke.jpg"
+      "portada": "https://cdn.superaficionados.com/imagenes/25-looper-peliculas-ciencia-ficcion-cke.jpg",
+      "duracion": "1h 59m",
+      "sinopsis": "En el 2072, los asesinatos están prohibidos y los viajes en el tiempo existen, pero solo para aquellos que pueden pagarlos en el mercado negro. La mafia envía a sus víctimas al año 2042 para que unos sicarios, llamados loopers, los eliminen. Uno de estos loopers se lleva una sorpresa cuando le encargan asesinar a su yo de dentro de 30 años."
     },
     {
       "titulo": "Her",
       "director": "Spike Jonze",
       "anio": 2013,
-      "portada": "https://cdn.superaficionados.com/imagenes/50-her-peliculas-ciencia-ficcion-cke.jpg"
+      "portada": "https://cdn.superaficionados.com/imagenes/50-her-peliculas-ciencia-ficcion-cke.jpg",
+      "duracion": "2h 6m",
+      "sinopsis": "En Los Ángeles, un escritor desanimado desarrolla una especial relación amorosa con el sistema operativo de su computadora, una intuitiva y sensible entidad llamada Samantha."
     },
     {
       "titulo": "Gravity",
       "director": "Alfonso Cuarón",
       "anio": 2013,
-      "portada": "https://cdn.superaficionados.com/imagenes/59-gravity-peliculas-ciencia-ficcion-cke.jpg"
+      "portada": "https://cdn.superaficionados.com/imagenes/59-gravity-peliculas-ciencia-ficcion-cke.jpg",
+      "duracion": "1h 31m",
+      "sinopsis": "La doctora Ryan Stone es una ingeniera médica en su primera misión espacial. Su comandante es el veterano Matt Kowalsky, en su último viaje antes de retirarse. Una caminata espacial de rutina se convierte en un desastre y la nave queda destruida, dejando a Ryan y Matt atrapados en el espacio, sin ninguna conexión con la Tierra y sin esperanza de ser rescatados. Su temor se convierte en pánico, y se dan cuenta de que su camino a casa será una aventura en el espacio."
     },
     {
       "titulo": "Mad Max: Fury Road",
       "director": "George Miller",
       "anio": 2015,
-      "portada": "https://cdn.superaficionados.com/imagenes/45-mad-max-fury-road-peliculas-ciencia-ficcion-cke.jpg"
+      "portada": "https://cdn.superaficionados.com/imagenes/45-mad-max-fury-road-peliculas-ciencia-ficcion-cke.jpg",
+      "duracion": "2 horas",
+      "sinopsis": "Aunque está decidido a vagar solo por el páramo post-apocalíptico, Mad Max se une a Furiosa, una comandante fugitiva, y su banda, quienes están tratando de escapar de un señor de la guerra."
     },
     {
       "titulo": "Arrival",
       "director": "Denis Villeneuve",
       "anio": 2016,
-      "portada": "https://cdn.superaficionados.com/imagenes/7-arrival-peliculas-ciencia-ficcion-cke.jpg"
+      "portada": "https://cdn.superaficionados.com/imagenes/7-arrival-peliculas-ciencia-ficcion-cke.jpg",
+      "duracion": "1h 56m",
+      "sinopsis": "El gobierno contrata a la prestigiosa lingüista Louise Banks para que se comunique con unos alienígenas que han llegado a la Tierra. Conforme ella aprende su idioma, va experimentando regresiones muy intensas que desvelan la verdadera misión que les ha llevado hasta nuestro planeta."
     },
     {
       "titulo": "Last and First Men",
       "director": "Jóhann Jóhannsson",
-      "anio": 2017,
-      "portada": "https://cdn.superaficionados.com/imagenes/53-last-and-first-men-peliculas-ciencia-ficcion-cke.jpg"
+      "anio": 2020,
+      "portada": "https://cdn.superaficionados.com/imagenes/53-last-and-first-men-peliculas-ciencia-ficcion-cke.jpg",
+      "duracion": "1h 10m",
+      "sinopsis": "Tilda Swinton narra esta obra única de ciencia-ficción en la que la Humanidad se ha extinguido. No aparece ninguna persona en esta película, pero en ella destacan tres protagonistas muy especiales: Los testimonios del brutalismo yugoslavo, la voz de Tilda Swinton y la música de Jóhann Jóhannsson, compositor de la banda sonora de 'Sicario' y 'Arrival', fallecido en 2018 a los 48 años."
     },
     {
       "titulo": "Marjorie Prime",
       "director": "Michael Almereyda",
       "anio": 2017,
-      "portada": "https://cdn.superaficionados.com/imagenes/11-marjorie-prime-peliculas-ciencia-ficcion-cke.jpg"
+      "portada": "https://cdn.superaficionados.com/imagenes/11-marjorie-prime-peliculas-ciencia-ficcion-cke.jpg",
+      "duracion": "1h 39m",
+      "sinopsis": "La historia nos traslada a la sociedad de 2050, una época en la que la inteligencia artificial ha experimentado importantes progresos, formando parte del día a día de la mayoría de los hogares en los que se ha conseguido integrar de forma natural, como una herramienta más al servicio del bienestar humano."
     },
     {
       "titulo": "The Discovery",
       "director": "Charlie McDowell",
       "anio": 2017,
-      "portada": "https://cdn.superaficionados.com/imagenes/61-the-discovery-peliculas-ciencia-ficcion-cke.jpg"
+      "portada": "https://cdn.superaficionados.com/imagenes/61-the-discovery-peliculas-ciencia-ficcion-cke.jpg",
+      "duracion": "1h 42m",
+      "sinopsis": "Un científico que demostró la existencia del más allá continúa investigando, a pesar de la ola de suicidios que causó, mientras su hijo cae en brazos de una mujer que tiene un pasado traumático."
     },
     {
       "titulo": "Swan Song",
       "director": "Todd Stephens",
       "anio": 2021,
-      "portada": "https://cdn.superaficionados.com/imagenes/1-peliculas-de-ciencia-ficcion-swan-song.jpg"
+      "portada": "https://cdn.superaficionados.com/imagenes/1-peliculas-de-ciencia-ficcion-swan-song.jpg",
+      "duracion": "1h 56m",
+      "sinopsis": "Cameron Turner es diagnosticado con una enfermedad terminal. Luego de dar con una solución experimental para proteger a su esposa e hijo del dolor, debe alterar su destino."
     },
     {
       "titulo": "Nope",
       "director": "Jordan Peele",
       "anio": 2022,
-      "portada": "https://cdn.superaficionados.com/imagenes/1-peliculas-de-ciencia-ficcion-nope.jpg"
+      "portada": "https://cdn.superaficionados.com/imagenes/1-peliculas-de-ciencia-ficcion-nope.jpg",
+      "duracion": "2h 10m",
+      "sinopsis": "Los cuidadores de un rancho de caballos de California se cruzan con una fuerza misteriosa que afecta el comportamiento humano y animal."
     }
   ],
   "Terror": [
@@ -633,121 +833,161 @@
       "titulo": "The Odds",
       "director": "Bob Giordano",
       "anio": 2018,
-      "portada": "https://m.media-amazon.com/images/M/MV5BNWYxNTI5NzctNzRmZC00YTE5LWIyYmItOTg5OTE1YmZmOGNmXkEyXkFqcGdeQXVyNzczNzUxNTI@._V1_.jpg"
+      "portada": "https://m.media-amazon.com/images/M/MV5BNWYxNTI5NzctNzRmZC00YTE5LWIyYmItOTg5OTE1YmZmOGNmXkEyXkFqcGdeQXVyNzczNzUxNTI@._V1_.jpg",
+      "duracion": "1h 47m",
+      "sinopsis": "Una joven problemática pero decidida compite en un juego sádico y horripilante contra oponentes virtuales en una prueba de supervivencia en la que el ganador se lo lleva todo."
     },
     {
       "titulo": "The Lighthouse",
       "director": "Robert Eggers",
       "anio": 2019,
-      "portada": "https://d135u4jtzauizi.cloudfront.net/LIGOS_105_M3.1V2.1.jpg"
+      "portada": "https://d135u4jtzauizi.cloudfront.net/LIGOS_105_M3.1V2.1.jpg",
+      "duracion": "1h 50m",
+      "sinopsis": "En la década de 1890, dos fareros que afrontan un turno de cuatro semanas juntos combaten la constante tentación de dejarse arrastrar por la locura en una isla remota y misteriosa de Nueva Inglaterra."
     },
     {
       "titulo": "Midsommar",
       "director": "Ari Aster",
       "anio": 2019,
-      "portada": "https://cdn.kinocheck.com/i/7yfvl6grz2.jpg"
+      "portada": "https://cdn.kinocheck.com/i/7yfvl6grz2.jpg",
+      "duracion": "2h 28m",
+      "sinopsis": "Una pareja de estadounidenses acude con unos amigos a Midsommar, un festival de verano que se celebra cada 90 años en una aldea remota de Suecia. Sin embargo, lo que parecían ser unas vacaciones de ensueño toma un giro macabro cuando los aldeanos los invitan a participar en sus perturbadoras actividades festivas."
     },
     {
       "titulo": "Ready or Not",
       "director": "Matt Bettinelli-Olpin, Tyler Gillett",
       "anio": 2019,
-      "portada": "https://cineoculto.com/wp-content/uploads/2019/10/ReadyNot-19-490x380.jpg"
+      "portada": "https://cineoculto.com/wp-content/uploads/2019/10/ReadyNot-19-490x380.jpg",
+      "duracion": "1h 35m",
+      "sinopsis": "Durante la noche de su boda, una mujer recibe la invitación por parte de la rica y excéntrica familia de su marido para participar en una tradición ancestral que se convierte en un juego letal de superviviencia."
     },
     {
       "titulo": "The Lodge",
       "director": "Severin Fiala, Veronika Franz",
       "anio": 2019,
-      "portada": "https://resizing.flixster.com/ntJiibYPBKvGFySYOi4oA1NABhc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RhZDM2MzYxLTYyNDYtNDIyYy04NmEzLTkzYjAyZWNjYzVlMi53ZWJw"
+      "portada": "https://resizing.flixster.com/ntJiibYPBKvGFySYOi4oA1NABhc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RhZDM2MzYxLTYyNDYtNDIyYy04NmEzLTkzYjAyZWNjYzVlMi53ZWJw",
+      "duracion": "1h 40m",
+      "sinopsis": "Una mujer, a punto de convertirse en madrastra, se encuentra atrapada, con los dos hijos de su futuro marido, en una cabaña alejada de la civilización. Justo cuando la relación entre ellos comienza a florecer, la mujer adopta una actitud aterradora."
     },
     {
       "titulo": "En la hierba alta",
       "director": "Vincenzo Natali",
       "anio": 2019,
-      "portada": "https://es.web.img2.acsta.net/pictures/19/09/13/16/04/5686155.jpg"
+      "portada": "https://es.web.img2.acsta.net/pictures/19/09/13/16/04/5686155.jpg",
+      "duracion": "1h 30m",
+      "sinopsis": "Una mujer embarazada y su hermano entran en un campo de hierba alta para rescatar a un niño, pero pronto se dan cuenta de que no pueden escapar y algo malo acecha entre las malezas."
     },
     {
       "titulo": "Antebellum",
       "director": "Gerard Bush, Christopher Renz",
       "anio": 2020,
-      "portada": "https://m.media-amazon.com/images/M/MV5BOTQzYWU3NzktOGQyOC00NGNiLWE3NjAtNzQ0YzRkOTc5ODUzXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg"
+      "portada": "https://m.media-amazon.com/images/M/MV5BOTQzYWU3NzktOGQyOC00NGNiLWE3NjAtNzQ0YzRkOTc5ODUzXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+      "duracion": "1h 46m",
+      "sinopsis": "Verónica es una escritora de éxito que queda atrapada en una terrorífica realidad cuyo misterio debe resolver antes de que sea demasiado tarde."
     },
     {
       "titulo": "Spiral: From The Book of Saw",
       "director": "Darren Lynn Bousman",
       "anio": 2021,
-      "portada": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/10/spiral-saw-2109351.jpg"
+      "portada": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/10/spiral-saw-2109351.jpg",
+      "duracion": "1h 33m",
+      "sinopsis": "El agente Banks y su compañero, un recién ingresado, investigan una serie de asesinatos sin saber que, en realidad, la macabra ola de atroces crímenes gira en torno a ellos."
     },
     {
       "titulo": "Possessor",
       "director": "Brandon Cronenberg",
       "anio": 2020,
-      "portada": "https://m.media-amazon.com/images/I/61c+jw2wmQL._AC_UF894,1000_QL80_.jpg"
+      "portada": "https://m.media-amazon.com/images/I/61c+jw2wmQL._AC_UF894,1000_QL80_.jpg",
+      "duracion": "1h 43m",
+      "sinopsis": "Tasya Vos, una asesina corporativa de élite, toma el control de los cuerpos de otras personas utilizando tecnología de implantes cerebrales para ejecutar objetivos de alto perfil."
     },
     {
       "titulo": "Malignant",
       "director": "James Wan",
       "anio": 2021,
-      "portada": "https://m.media-amazon.com/images/M/MV5BOWQ5YTRmY2QtY2MyYy00YzI4LTliZjMtNzdmNDQ2MjcxNWY3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg"
+      "portada": "https://m.media-amazon.com/images/M/MV5BOWQ5YTRmY2QtY2MyYy00YzI4LTliZjMtNzdmNDQ2MjcxNWY3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+      "duracion": "1h 51m",
+      "sinopsis": "Madison está paralizada por visiones de asesinatos espeluznantes, y su tormento empeora cuando descubre que estos sueños de vigilia son, de hecho, realidades aterradoras."
     },
     {
       "titulo": "Halloween Ends",
       "director": "David Gordon Green",
       "anio": 2022,
-      "portada": "https://www.merkur.de/bilder/2022/10/20/91862840/30101853-das-letzte-zusammentreffen-steht-bevor-wird-laurie-strode-ihren-ewigen-verfolger-michael-myers-endgueltig-zur-strecke-bringen-2Rfe.jpg"
+      "portada": "https://www.merkur.de/bilder/2022/10/20/91862840/30101853-das-letzte-zusammentreffen-steht-bevor-wird-laurie-strode-ihren-ewigen-verfolger-michael-myers-endgueltig-zur-strecke-bringen-2Rfe.jpg",
+      "duracion": "1h 51m",
+      "sinopsis": "Cuatro años después de la desaparición de Michael Myers, el joven Corey lo encuentra maltrecho en las alcantarillas. Poco a poco, se establece un extraño vínculo entre estos dos personajes unidos por la venganza y la locura."
     },
     {
       "titulo": "Texas Chainsaw Massacre",
       "director": "David Blue Garcia",
       "anio": 2022,
-      "portada": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/NetflixTCMPoster.jpg/220px-NetflixTCMPoster.jpg"
+      "portada": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/NetflixTCMPoster.jpg/220px-NetflixTCMPoster.jpg",
+      "duracion": "1h 23m",
+      "sinopsis": "Un grupo de influencers quiere darle una nueva vida a un pueblo abandonado de Texas, pero se encuentran con el legendario asesino en serie Leatherface."
     },
     {
       "titulo": "Dark Harvest",
       "director": "David Slade",
       "anio": 2022,
-      "portada": "https://m.media-amazon.com/images/M/MV5BMTgyMzc2ODgtYmVjZi00OTAyLWE1NTQtOGVmZWM4MzhmNjdkXkEyXkFqcGdeQXVyNTk5NTQzNDI@._V1_.jpg"
+      "portada": "https://m.media-amazon.com/images/M/MV5BMTgyMzc2ODgtYmVjZi00OTAyLWE1NTQtOGVmZWM4MzhmNjdkXkEyXkFqcGdeQXVyNTk5NTQzNDI@._V1_.jpg",
+      "duracion": "1h 54m",
+      "sinopsis": "1963, Halloween. Un grupo de adolescentes de un pequeño pueblo norteamericano esperan con ansias su enfrentamiento con 'October Boy', un asesino que porta un afilado cuchillo de carnicero. El encuentro con esta legendaria pesadilla es la única oportunidad que tienen para escapar de esa localidad sin esperanzas de futuro. "
     },
     {
       "titulo": "The Menu",
       "director": "Mark Mylod",
       "anio": 2022,
-      "portada": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/D8D262915F8A245B674DDBE49AB851358C4662D561A1192223115B52D13D42E9/scale?width=506&aspectRatio=2.00&format=jpeg"
+      "portada": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/D8D262915F8A245B674DDBE49AB851358C4662D561A1192223115B52D13D42E9/scale?width=506&aspectRatio=2.00&format=jpeg",
+      "duracion": "1h 46m",
+      "sinopsis": "Una joven pareja viaja a una exclusiva isla para degustar el menú de un chef mundialmente aclamado. Sin embargo, el chef ha introducido un ingrediente secreto que sorprenderá a los comensales."
     },
     {
       "titulo": "Nocebo",
       "director": "Lorcan Finnegan",
       "anio": 2022,
-      "portada": "https://www.saltypopcorn.co.uk/film-images/nocebo.jpg"
+      "portada": "https://www.saltypopcorn.co.uk/film-images/nocebo.jpg",
+      "duracion": "1h 46m",
+      "sinopsis": "Una diseñadora de moda sufre una misteriosa enfermedad que deja desconcertados a sus médicos y frustra a su marido, hasta que llega la ayuda de una cuidadora filipina. Ésta recurre a diversas curas tradicionales, que revelan una terrible verdad."
     },
     {
       "titulo": "Posesión infernal: El Despertar",
       "director": "Lee Cronin",
       "anio": 2023,
-      "portada": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/07f8ecdf-0f7e-4819-938c-2c9c1ecc741f/dfx2w4m-66db36b8-be77-4b5b-baf4-0e815cdf07bc.png/v1/fill/w_512,h_512/posesion_infernal_el_despertar__2023__by_darth_longinus_dfx2w4m-fullview.png"
+      "portada": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/07f8ecdf-0f7e-4819-938c-2c9c1ecc741f/dfx2w4m-66db36b8-be77-4b5b-baf4-0e815cdf07bc.png/v1/fill/w_512,h_512/posesion_infernal_el_despertar__2023__by_darth_longinus_dfx2w4m-fullview.png",
+      "duracion": "1h 36m",
+      "sinopsis": "Una mujer se ve inmersa en una lucha por su vida cuando un antiguo libro da a luz a demonios sedientos de sangre que se desbocan en un edificio de apartamentos de Los Ángeles."
     },
     {
       "titulo": "El Exorcista",
       "director": "David Gordon Green",
       "anio": 2023,
-      "portada": "https://imagenes.20minutos.es/files/article_default_content/uploads/imagenes/2023/07/20/poster-de-el-exorcista-creyente-1.jpeg"
+      "portada": "https://imagenes.20minutos.es/files/article_default_content/uploads/imagenes/2023/07/20/poster-de-el-exorcista-creyente-1.jpeg",
+      "duracion": "2h 1m",
+      "sinopsis": "The Exorcist: Believer es una próxima película de terror sobrenatural estadounidense dirigida por David Gordon Green, con un guion que coescribió con Peter Sattler, a partir de una historia que coescribió con Sattler, Scott Teems y Danny McBride.​​​"
     },
     {
       "titulo": "Beau Is Afraid",
       "director": "Ari Aster",
       "anio": 2023,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/index-beau-1673369170.jpg?crop=0.888888888888889xw:1xh;center,top"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/index-beau-1673369170.jpg?crop=0.888888888888889xw:1xh;center,top",
+      "duracion": "2h 59m",
+      "sinopsis": "Beau, un hombre paranoico, emprende una odisea para llegar hasta la casa de su madre, con quien iba a reunirse por el aniversario de la muerte de su padre, quien falleció durante el orgasmo de su concepción.​​​"
     },
     {
       "titulo": "Enys Men",
       "director": "Mark Jenkin",
       "anio": 2022,
-      "portada": "https://i.guim.co.uk/img/media/69a9b8f7e829d3e0f057ff643d87c523d9cd2032/0_214_3764_2259/master/3764.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=1b6e720f3590afe1c27d966b47dac917"
+      "portada": "https://i.guim.co.uk/img/media/69a9b8f7e829d3e0f057ff643d87c523d9cd2032/0_214_3764_2259/master/3764.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=1b6e720f3590afe1c27d966b47dac917",
+      "duracion": "1h 31m",
+      "sinopsis": "Al mudarse a una isla lejana, una mujer es atormentada por los ecos del pasado, cuestionándose lo que es real o una pesadilla.​​​"
     },
     {
       "titulo": "Shelby Oaks",
       "director": "Chris Stuckmann",
       "anio": 2022,
-      "portada": "https://ksr-ugc.imgix.net/assets/036/482/032/0be799f6f3bb98a3b9f840f7c834c63b_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1645906680&auto=format&frame=1&q=92&s=c2db64d0ff97d90dda0924d98a337fdc"
+      "portada": "https://ksr-ugc.imgix.net/assets/036/482/032/0be799f6f3bb98a3b9f840f7c834c63b_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1024&h=576&fit=crop&v=1645906680&auto=format&frame=1&q=92&s=c2db64d0ff97d90dda0924d98a337fdc",
+      "duracion": "2h 15m",
+      "sinopsis": "Se basa en un extraño equipo de investigación estadounidense ficticio de mediados de 2000 llamado 'The Paranormal Paranoids'.​​​"
     }
   ],
   "Fantasia": [
@@ -755,121 +995,161 @@
       "titulo": "La Sirenita",
       "director": "Rob Marshall",
       "anio": 2023,
-      "portada": "https://i.blogs.es/7de7de/230525-little-mermaid-halle-bailey-ew-243p-fa7baa/1366_2000.jpeg"
+      "portada": "https://i.blogs.es/7de7de/230525-little-mermaid-halle-bailey-ew-243p-fa7baa/1366_2000.jpeg",
+      "duracion": "2h 15m",
+      "sinopsis": "Una joven sirena que anhela conocer el mundo que se extiende donde acaba el mar emerge a la superficie y se enamora del príncipe Eric. Sin embargo, la única manera de estar con él exige hacer un pacto con Úrsula, la perversa bruja del mar."
     },
     {
       "titulo": "The King's Daughter",
       "director": "Sean McNamara",
       "anio": 2023,
-      "portada": "https://www.tvguide.com/a/img/catalog/provider/1/2/1-11273895704.jpg"
+      "portada": "https://www.tvguide.com/a/img/catalog/provider/1/2/1-11273895704.jpg",
+      "duracion": "1h 34m",
+      "sinopsis": "En un intento por lograr la inmortalidad, el rey Luis XIV captura a una sirena y le roba la fuerza vital, pero un descubrimiento hecho por su hija ilegítima amenaza los planes del rey."
     },
     {
       "titulo": "The Green Knight",
       "director": "David Lowery",
       "anio": 2021,
-      "portada": "https://bleedingcool.com/wp-content/uploads/2021/05/green_knight_ver7_xxlg-900x900.jpg"
+      "portada": "https://bleedingcool.com/wp-content/uploads/2021/05/green_knight_ver7_xxlg-900x900.jpg",
+      "duracion": "2h 5m",
+      "sinopsis": "El sobrino del Rey Arturo se embarca en una audaz búsqueda para enfrentarse al Caballero Verde, un misterioso gigante que aparece en Camelot. Arriesgando su cabeza, emprende una aventura épica para demostrar su valía ante su familia y su corte."
     },
     {
       "titulo": "Wendy",
       "director": "Benh Zeitlin",
       "anio": 2020,
-      "portada": "https://m.media-amazon.com/images/I/71SSjpalGoL._AC_UF894,1000_QL80_.jpg"
+      "portada": "https://m.media-amazon.com/images/I/71SSjpalGoL._AC_UF894,1000_QL80_.jpg",
+      "duracion": "1h 52m",
+      "sinopsis": "Wendy y sus hermanos gemelos deciden subirse a un tren que los llevará a una isla misteriosa donde nadie envejece. La joven deberá luchar para salvar a su familia y su libertad del peligro mortal de crecer."
     },
     {
       "titulo": "The Secret Garden",
       "director": "Marc Munden",
       "anio": 2020,
-      "portada": "https://upload.wikimedia.org/wikipedia/en/2/2e/The_Secret_Garden_2020_film_poster.jpg"
+      "portada": "https://upload.wikimedia.org/wikipedia/en/2/2e/The_Secret_Garden_2020_film_poster.jpg",
+      "duracion": "1h 41m",
+      "sinopsis": "Cuando sus padres mueren repentinamente, Mary, una niña de 10 años nacida en India, es enviada con su tío a Inglaterra. Allí conoce a su prima enferma y juntos exploran un jardín mágico y secreto."
     },
     {
       "titulo": "Han Solo",
       "director": "Ron Howard",
       "anio": 2018,
-      "portada": "https://pixeldigitalcinema.com/wp-content/uploads/2018/05/DYRfjuzUQAAoET_.jpg"
+      "portada": "https://pixeldigitalcinema.com/wp-content/uploads/2018/05/DYRfjuzUQAAoET_.jpg",
+      "duracion": "2h 15m",
+      "sinopsis": "El joven Han Solo y su banda de contrabandistas pretenden robar coaxium del planeta Kessel. Dado que necesita una nave muy rápida para la misión, Solo contacta con Lando Calrissian, el propietario del Halcón Milenario."
     },
     {
       "titulo": "Un pliegue en el tiempo",
       "director": "Ava DuVernay",
       "anio": 2018,
-      "portada": "https://es.web.img3.acsta.net/pictures/17/12/27/16/42/3189842.jpg"
+      "portada": "https://es.web.img3.acsta.net/pictures/17/12/27/16/42/3189842.jpg",
+      "duracion": "2h",
+      "sinopsis": "El padre de Meg y Charles desapareció en un planeta que había descubierto. Años más tarde, los niños, acompañados por tres viajeros estelares y Calvin, su compañero de clase, viajan a este planeta habitado por seres malignos para rescatar a su papá."
     },
     {
       "titulo": "Valerian y la ciudad de los mil planetas",
       "director": "Luc Besson",
       "anio": 2017,
-      "portada": "https://es.web.img3.acsta.net/pictures/17/05/30/13/05/186898.jpg"
+      "portada": "https://es.web.img3.acsta.net/pictures/17/05/30/13/05/186898.jpg",
+      "duracion": "2h 17m",
+      "sinopsis": "En el siglo XXVIII, los agentes terrícolas Valerian y Laureline son enviadas por el ministro de Defensa a explorar un nuevo mundo que está al borde de una guerra civil para comprobar si son una amenaza potencial contra la Tierra. La situación política del planeta, divido entre una aristocracia decadente, un pueblo exaltado y unos sabios astutos y manipuladores les obligará a tomar partido por uno de los dos bandos."
     },
     {
       "titulo": "La Torre Oscura",
       "director": "Nikolaj Arcel",
       "anio": 2017,
-      "portada": "https://images.justwatch.com/poster/14085139/s718/la-torre-oscura.%7Bformat%7D"
+      "portada": "https://images.justwatch.com/poster/14085139/s718/la-torre-oscura.%7Bformat%7D",
+      "duracion": "1h 35m",
+      "sinopsis": "Roland Deschain, el último pistolero, persigue a Walter O'Dim, quien pretende destruir la Torre Oscura, un edificio mágico cuya desaparición acarrearía la desintegración del universo. Su batalla, que transita por tiempos y espacios diferentes en los que la realidad y la irrealidad se mezclan, representa la lucha definitiva del bien contra el mal."
     },
     {
       "titulo": "Fantastic Beasts: The Crimes of Grindelwald",
       "director": "David Yates",
       "anio": 2018,
-      "portada": "https://m.media-amazon.com/images/I/91GPd+AayCL._AC_UF894,1000_QL80_.jpg"
+      "portada": "https://m.media-amazon.com/images/I/91GPd+AayCL._AC_UF894,1000_QL80_.jpg",
+      "duracion": "2h 14m",
+      "sinopsis": "Grindewald ha logrado escapar y pretende encabezar una revuelta de los magos purasangre para dominar el mundo. Dumbledore, acompañado por su antiguo estudiante Scamander, tratará de evitar que quien fuera su gran amigo cumpla su siniestro propósito."
     },
     {
       "titulo": "Ant-Man and the Wasp: Quantumania",
       "director": "Peyton Reed",
       "anio": 2023,
-      "portada": "https://super-ficcion.com/wp-content/uploads/2021/05/Ant-Man-and-The-Wasp.png"
+      "portada": "https://super-ficcion.com/wp-content/uploads/2021/05/Ant-Man-and-The-Wasp.png",
+      "duracion": "2h 5m",
+      "sinopsis": "Los superhéroes Scott y Cassie Lang, Hope van Dyne y sus padres, se encuentran accidentalmente atrapados en el reino cuántico y deben enfrentarse a un nuevo enemigo, Kang el Conquistador."
     },
     {
       "titulo": "Aquaman and the Lost Kingdom",
       "director": "James Wan",
       "anio": 2023,
-      "portada": "https://movie-spoiler.com/posters/s-l1200.webp"
+      "portada": "https://movie-spoiler.com/posters/s-l1200.webp",
+      "duracion": "2h 23m",
+      "sinopsis": "Cuando se desata un poder antiguo, Aquaman debe forjar una alianza incómoda con un aliado poco probable para proteger la Atlántida y el mundo de una devastación irreversible."
     },
     {
       "titulo": "Guardians of the Galaxy Vol. 3",
       "director": "James Gunn",
       "anio": 2023,
-      "portada": "https://www.themoviedb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
+      "portada": "https://www.themoviedb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "duracion": "2h 29m",
+      "sinopsis": "Aunque sigue afectado por la pérdida de Gamora, Peter Quill debe reunir a su equipo para defender el universo de una nueva amenaza o, en caso de fracasar, será el final de los Guardianes."
     },
     {
       "titulo": "Shazam! Fury of the Gods",
       "director": "David F. Sandberg",
       "anio": 2023,
-      "portada": "https://m.media-amazon.com/images/I/71pLALJmwxL._AC_UF894,1000_QL80_.jpg"
+      "portada": "https://m.media-amazon.com/images/I/71pLALJmwxL._AC_UF894,1000_QL80_.jpg",
+      "duracion": "2h 10m",
+      "sinopsis": "Billy Batson y sus hermanos adoptivos Freddy, Mary, Pedro, Eugene y Darla, también dotados de superpoderes, tienen que enfrentarse a las tres hijas de Atlas: Hespera, Calipso y Anthea."
     },
     {
       "titulo": "Transformers: El despertar de las bestias",
       "director": "Steven Caple Jr.",
       "anio": 2023,
-      "portada": "https://www.cinedot.com.mx/CDN/media/entity/get/FilmPosterGraphic/A000000395?referenceScheme=Global&allowPlaceHolder=true"
+      "portada": "https://www.cinedot.com.mx/CDN/media/entity/get/FilmPosterGraphic/A000000395?referenceScheme=Global&allowPlaceHolder=true",
+      "duracion": "2h 7m",
+      "sinopsis": "Durante la década de 1990, los Maximals, Predacons y Terrorcons se unen a la batalla existente en la Tierra entre Autobots y Decepticons."
     },
     {
       "titulo": "Adele y el misterio de la momia",
       "director": "Luc Besson",
       "anio": 2010,
-      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-75-mejor-peliculas-de-fantasia-segun-rotten-tomatoes/75.-adele-y-el-misterio-de-la-momia-2010/136709835-1-esl-ES/75.-Adele-y-el-misterio-de-la-momia-2010.jpg?resize=980:*"
+      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-75-mejor-peliculas-de-fantasia-segun-rotten-tomatoes/75.-adele-y-el-misterio-de-la-momia-2010/136709835-1-esl-ES/75.-Adele-y-el-misterio-de-la-momia-2010.jpg?resize=980:*",
+      "duracion": "1h 47m",
+      "sinopsis": "En 1912, mientras la intrépida periodista Adèle Blanc-Sec viaja a Egipto para enfrentarse a un grupo de momias, París se ve acosado por un misterioso pterodáctilo de 136 millones de años de antigüedad."
     },
     {
       "titulo": "Into the Woods",
       "director": "Rob Marshall",
       "anio": 2014,
-      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-75-mejor-peliculas-de-fantasia-segun-rotten-tomatoes/57.-into-the-woods-2014/136709709-1-esl-ES/57.-Into-the-woods-2014.jpg?resize=980:*"
+      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-75-mejor-peliculas-de-fantasia-segun-rotten-tomatoes/57.-into-the-woods-2014/136709709-1-esl-ES/57.-Into-the-woods-2014.jpg?resize=980:*",
+      "duracion": "2h 5m",
+      "sinopsis": "Una bruja conspira para enseñar lecciones importantes a varios personajes de populares historias infantiles."
     },
     {
       "titulo": "Stardust",
       "director": "Matthew Vaughn",
       "anio": 2007,
-      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-75-mejor-peliculas-de-fantasia-segun-rotten-tomatoes/53.-stardust-2007/136709485-1-esl-ES/53.-Stardust-2007.jpg?resize=980:*"
+      "portada": "https://upload.wikimedia.org/wikipedia/en/6/6f/Stardust_promo_poster.jpg",
+      "duracion": "2h 7m",
+      "sinopsis": "Para poder ganarse el corazón de su amada, un joven llamado Tristan se aventura en un reino de hadas para recuperar una estrella fugaz. Una vez ahí, él y la estrella, una mujer llamada Yvaine, deben enfrentarse a un pirata y a un grupo de brujas malvadas."
     },
     {
       "titulo": "La bella y la bestia",
       "director": "Bill Condon",
       "anio": 2017,
-      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-75-mejor-peliculas-de-fantasia-segun-rotten-tomatoes/46.-la-bella-y-la-bestia-2017/136709541-1-esl-ES/46.-La-bella-y-la-bestia-2017.jpg?resize=980:*"
+      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-75-mejor-peliculas-de-fantasia-segun-rotten-tomatoes/46.-la-bella-y-la-bestia-2017/136709541-1-esl-ES/46.-La-bella-y-la-bestia-2017.jpg?resize=980:*",
+      "duracion": "2h 19m",
+      "sinopsis": "Belle, una joven hermosa y brillante, asume el lugar de su padre como prisionero en el castillo de una bestia. Poco a poco, la valiente Belle irá dándose cuenta de que el príncipe bestia no es el malvado ser que todos creen que es y tiene, en realidad, un gran corazón."
     },
     {
       "titulo": "Mi amigo el gigante",
       "director": "Steven Spielberg",
       "anio": 2016,
-      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-75-mejor-peliculas-de-fantasia-segun-rotten-tomatoes/45.-mi-amigo-el-gigante-2016/136709828-1-esl-ES/45.-Mi-amigo-el-gigante-2016.jpg?resize=980:*"
+      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/las-75-mejor-peliculas-de-fantasia-segun-rotten-tomatoes/45.-mi-amigo-el-gigante-2016/136709828-1-esl-ES/45.-Mi-amigo-el-gigante-2016.jpg?resize=980:*",
+      "duracion": "1h 57m",
+      "sinopsis": "La pequeña Sophie, una niña de diez años, se embarca en una gran aventura con un gigante que, detrás de su temible apariencia, esconde un alma bondadosa. Juntos intentarán acabar con los malévolos planes de unos gigantes que están aterrorizando a todos los niños."
     }
   ],
   "Aventura": [
@@ -877,121 +1157,161 @@
       "titulo": "Big Fish",
       "director": "Tim Burton",
       "anio": 2003,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/ewan-mcgregor-big-fish-fotogramas-1617109200.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/ewan-mcgregor-big-fish-fotogramas-1617109200.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "2h 5m",
+      "sinopsis": "William Bloom no tiene muy buena relación con su padre, pero tras enterarse de que padece una enfermedad terminal, regresa a su hogar para estar a su lado. Una vez más, William se verá obligado a escucharlo mientras cuenta las interminables historias de su juventud. Pero, en esta ocasión, tratará de averiguar cosas que le permitan conocer mejor a su padre, aunque para ello tendrá que separar claramente realidad y fantasía, elementos que aparecen siempre mezclados en los relatos de su progenitor."
     },
     {
       "titulo": "King Kong",
       "director": "Peter Jackson",
       "anio": 2005,
-      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/15-peliculas-interminablemente-largas/king-kong-peter-jackson-2005/108825515-1-esl-ES/King-Kong-Peter-Jackson-2005.jpg?crop=1xw:1xh;center,top&resize=980:*"
+      "portada": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/cinefilia/15-peliculas-interminablemente-largas/king-kong-peter-jackson-2005/108825515-1-esl-ES/King-Kong-Peter-Jackson-2005.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "duracion": "3h 21m",
+      "sinopsis": "Un grupo de exploradores, liderado por un extrovertido director de cine, visitan Skull Island para investigar todo lo relacionado con la leyenda del gorila gigante llamado King Kong. Ahí encuentran una jungla llena de criaturas prehistóricas."
     },
     {
       "titulo": "El renacido",
       "director": "Alejandro G. Iñárritu",
       "anio": 2015,
-      "portada": "https://m.media-amazon.com/images/I/81BaBFbGo-L._AC_UF894,1000_QL80_.jpg"
+      "portada": "https://m.media-amazon.com/images/I/81BaBFbGo-L._AC_UF894,1000_QL80_.jpg",
+      "duracion": "2h 36m",
+      "sinopsis": "El trampero Hugh Glass intenta vengarse de sus compañeros, quienes lo abandonaron herido en el bosque después de que lo atacó un oso, pensando que moriría, víctima de las lesiones y de la crudeza del entorno y del invierno. Sin embargo, el rencor que siente es más fuerte que cualquier adversidad, y Glass no permitirá que nada ni nadie le prive de saciar su odio."
     },
     {
       "titulo": "Jumanji: Bienvenidos a la jungla",
       "director": "Jake Kasdan",
       "anio": 2017,
-      "portada": "https://musicart.xboxlive.com/7/049e5000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
+      "portada": "https://musicart.xboxlive.com/7/049e5000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+      "duracion": "1h 59m",
+      "sinopsis": "Cuatro adolescentes encuentran un viejo videojuego que los absorbe y los transporta a una selva peligrosa, donde se convierten en personajes adultos y tienen que ir superando pruebas terribles para terminar el juego y regresar al mundo real."
     },
     {
       "titulo": "Okja",
       "director": "Bong Joon-ho",
       "anio": 2017,
-      "portada": "https://www.indiewire.com/wp-content/uploads/2018/01/okja-ff2-006-e1514999381172.jpeg"
+      "portada": "https://www.indiewire.com/wp-content/uploads/2018/01/okja-ff2-006-e1514999381172.jpeg",
+      "duracion": "2h",
+      "sinopsis": "La pequeña Mija es una joven que ha criado durante 10 años a un gigantesco cerdo, Okja, en su granja en la montaña. Pero todo cambia cuando la multinacional familiar se intenta llevar a Okja a Nueva York para convertirlo en comida."
     },
     {
       "titulo": "Robin Hood",
       "director": "Ridley Scott",
       "anio": 2010,
-      "portada": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/bf63592905567.56018ab22925b.jpg"
+      "portada": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/bf63592905567.56018ab22925b.jpg",
+      "duracion": "2h 20m",
+      "sinopsis": "Robin Longstride, un magnífico arquero que ha luchado en las Cruzadas al servicio del rey Ricardo Corazón de León, vuelve de Tierra Santa luchando contra los franceses y saqueando poblados."
     },
     {
       "titulo": "La búsqueda",
       "director": "Jon Turteltaub",
       "anio": 2004,
-      "portada": "https://decine21.com/img/upload/obras/la-busqueda-525/la-busqueda-525-c.jpg"
+      "portada": "https://decine21.com/img/upload/obras/la-busqueda-525/la-busqueda-525-c.jpg",
+      "duracion": "2h 11m",
+      "sinopsis": "Tras la publicación de una página del diario del asesino de Abraham Lincoln en la que cuenta que el principal conspirador del crimen fue el tatarabuelo de Benjamin Franklin Gates, este buscador de tesoros intentará demostrar la falsedad de la historia. Se ha dedicado toda la vida a buscar el legendario tesoro de los Caballeros Templarios y ahora por fin encuentra la pista definitiva que le permitirá limpiar el nombre de su tatarabuelo."
     },
     {
       "titulo": "Lord Of The Rings",
       "director": "Peter Jackson",
       "anio": 2001,
-      "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/89/67/45/20061512.jpg"
+      "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/89/67/45/20061512.jpg",
+      "duracion": "2h 58m",
+      "sinopsis": "En la Tierra Media, el Señor Oscuro Sauron forjó los Grandes Anillos del Poder y creó uno con el poder de esclavizar a toda la Tierra Media. Frodo Bolsón es un hobbit al que su tío Bilbo hace portador del poderoso Anillo Único con la misión de destruirlo. Acompañado de sus amigos, Frodo emprende un viaje hacia Mordor, el único lugar donde el anillo puede ser destruido. Sin embargo, Sauron ordena la persecución del grupo para recuperar el anillo y acabar con la Tierra Media."
     },
     {
       "titulo": "Harry Potter",
       "director": "David Yates, Alfonso Cuarón",
       "anio": 2001,
-      "portada": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg"
+      "portada": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg",
+      "duracion": "2h 32m",
+      "sinopsis": "El día de su cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que ha heredado poderes mágicos. Debe asistir a una famosa escuela de magia y hechicería, donde entabla una amistad con dos jóvenes que se convertirán en sus compañeros de aventura. Durante su primer año en Hogwarts, descubre que un malévolo y poderoso mago llamado Voldemort está en busca de una piedra filosofal que alarga la vida de quien la posee."
     },
     {
       "titulo": "Master and Commander: Al otro lado del mundo",
       "director": "Peter Weir",
       "anio": 2003,
-      "portada": "https://m.media-amazon.com/images/I/719D1NRkV7L._AC_UF894,1000_QL80_.jpg"
+      "portada": "https://m.media-amazon.com/images/I/719D1NRkV7L._AC_UF894,1000_QL80_.jpg",
+      "duracion": "2h 18m",
+      "sinopsis": "1805. Guerras napoleónicas. Bonaparte domina Europa. Inglaterra consigue resistir porque es la primera potencia naval del mundo. Precisamente por eso los mares se convierten en un campo de batalla. En el Atlántico, el Surprise, un navío inglés capitaneado por Jack Aubrey , es atacado por sorpresa. A pesar de los daños, Aubrey decide navegar a través de dos mares para interceptar y capturar al enemigo. Se trata de una misión que puede determinar el destino de toda una nación."
     },
     {
       "titulo": "Las Crónicas de Narnia",
       "director": "Andrew Adamson, Michael Apted",
       "anio": 2005,
-      "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/81/93/80/19586030.jpg"
+      "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/81/93/80/19586030.jpg",
+      "duracion": "2h 30m",
+      "sinopsis": "Durante la Segunda Guerra Mundial, cuatro hermanos ingleses son enviados a una casa en el campo donde van a estar a salvo de los bombardeos. Un día, Lucy, la hermana pequeña, descubre un armario que la transporta a un mundo mágico llamado Narnia. Después de volver, pronto vuelve a Narnia con sus hermanos, Peter, Edmund y Susan. Allí, los cuatro se unirán al león mágico Aslan y lucharán contra la Bruja Blanca."
     },
     {
       "titulo": "Back to the Future",
       "director": "Robert Zemeckis",
       "anio": 1990,
-      "portada": "https://www.themoviedb.org/t/p/w500/yXYGmfy5EDikS4O25H2WViTkXa.jpg"
+      "portada": "https://www.themoviedb.org/t/p/w500/yXYGmfy5EDikS4O25H2WViTkXa.jpg",
+      "duracion": "1h 56m",
+      "sinopsis": "El adolescente Marty McFly es amigo de Doc, un científico que ha construido una máquina del tiempo. Cuando los dos prueban el artefacto, un error fortuito hace que Marty llegue a 1955, año en el que sus padres iban al instituto y todavía no se habían conocido. Después de impedir su primer encuentro, Marty deberá conseguir que se conozcan y se enamoren, de lo contrario su existencia no sería posible."
     },
     {
       "titulo": "The Water Man",
       "director": "David Oyelowo",
       "anio": 2020,
-      "portada": "https://1.bp.blogspot.com/-UHUisFQHnn8/YHmUWJPLEgI/AAAAAAABVps/fwuzzxEa07QSQ-xyzevjWaeu7Ci7uRlqwCLcBGAsYHQ/w432-h640/THE%2BWATER%2BMAN%2B1.jpg"
+      "portada": "https://1.bp.blogspot.com/-UHUisFQHnn8/YHmUWJPLEgI/AAAAAAABVps/fwuzzxEa07QSQ-xyzevjWaeu7Ci7uRlqwCLcBGAsYHQ/w432-h640/THE%2BWATER%2BMAN%2B1.jpg",
+      "duracion": "1h 32m",
+      "sinopsis": "Gunner tiene 11 años y está desesperado por salvar a su madre enferma. Por eso, emprende la búsqueda de una figura mítica que, supuestamente, puede engañar a la muerte."
     },
     {
       "titulo": "La Gran Aventura",
       "director": "Jalmari Helander",
       "anio": 2014,
-      "portada": "https://play-lh.googleusercontent.com/VK84E3MIBuTW2m50zo6hIgpsogUFLZdIDRW6imFWTUKx4RPzBGcvc8BDVUXKy7TagQAh"
+      "portada": "https://play-lh.googleusercontent.com/VK84E3MIBuTW2m50zo6hIgpsogUFLZdIDRW6imFWTUKx4RPzBGcvc8BDVUXKy7TagQAh",
+      "duracion": "1h 50m",
+      "sinopsis": "Un chico de 13 años que está en un campamento ayuda al presidente de los Estados Unidos cuando su avión cae derribado en Finlandia como consecuencia de un complot terrorista que busca su muerte."
     },
     {
       "titulo": "La ciudad perdida",
       "director": " Aaron Nee, Adam Nee",
       "anio": 2022,
-      "portada": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/38826-102563-20220317062938.jpg"
+      "portada": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/38826-102563-20220317062938.jpg",
+      "duracion": "1h 52m",
+      "sinopsis": "La escritora solitaria Loretta Sage escribe sobre lugares exóticos en sus populares novelas de aventuras con un atractivo modelo de portada, Alan. Mientras está de gira promocionando su nuevo libro, es secuestrada por un excéntrico multimillonario."
     },
     {
       "titulo": "Jungle Cruise",
       "director": "Jaume Collet-Serra",
       "anio": 2021,
-      "portada": "https://m.media-amazon.com/images/M/MV5BYmM5Y2UzNGEtNzFmMS00MWVmLWEwZWQtNDJhMWFhYzAxN2YxXkEyXkFqcGdeQWpnYW1i._V1_.jpg"
+      "portada": "https://m.media-amazon.com/images/M/MV5BYmM5Y2UzNGEtNzFmMS00MWVmLWEwZWQtNDJhMWFhYzAxN2YxXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+      "duracion": "2h 7m",
+      "sinopsis": "Película basada en el paseo en un parque temático de Disneyland donde un pequeño barco fluvial lleva a un grupo de viajeros a través de una jungla llena de peligrosos animales y reptiles, pero con un elemento sobrenatural."
     },
     {
       "titulo": "Dolittle",
       "director": "Stephen Gaghan",
       "anio": 2020,
-      "portada": "https://m.media-amazon.com/images/I/81IxWjEI2UL._AC_UF894,1000_QL80_.jpg"
+      "portada": "https://m.media-amazon.com/images/I/81IxWjEI2UL._AC_UF894,1000_QL80_.jpg",
+      "duracion": "1h 41m",
+      "sinopsis": "El Dr. John Dolittle vive solo detrás de los muros de su exuberante mansión en la Inglaterra del siglo XIX. Su única compañía proviene de una variedad de animales exóticos con los que habla a diario. Pero cuando la joven reina Victoria se enferma gravemente, el médico excéntrico y sus amigos peludos se embarcan en una aventura épica en una isla mítica para encontrar la cura."
     },
     {
       "titulo": "Jurasic World",
       "director": "Colin Trevorrow",
       "anio": 2015,
-      "portada": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_.jpg"
+      "portada": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_.jpg",
+      "duracion": "2h 4m",
+      "sinopsis": "Han pasado 22 años desde que el millonario John Hammond clonara el primer dinosaurio. Con tecnologías mejoradas y nuevas medidas de seguridad, el parque temático 'Jurassic World' abre sus puertas. La nueva atracción del parque es el Indominus Rex, una nueva especie de dinosaurio creada por los científicos de forma artificial y más peligrosa que las otras especies conocidas. Sin embargo, algo sale mal y el dinosaurio se escapa y provoca el caos en el parque."
     },
     {
-      "titulo": "Jurasic World",
+      "titulo": "Aladdin",
       "director": "Guy Ritchie",
       "anio": 2019,
-      "portada": "https://lumiere-a.akamaihd.net/v1/images/eu_aladdin-movie_hero-v2_m_56f82451.jpeg?region=0,0,750,668"
+      "portada": "https://lumiere-a.akamaihd.net/v1/images/eu_aladdin-movie_hero-v2_m_56f82451.jpeg?region=0,0,750,668",
+      "duracion": "2h 8m",
+      "sinopsis": "Aladdin es un ladronzuelo que se enamora de la hija del Sultán, la princesa Jasmine. Para conquistarla, Aladdin acepta el desafío de Jafar: tendrá que entrar en una cueva en mitad del desierto y conseguir una lámpara mágica en la que vive un genio, quien será el encargado de concederle todos sus deseos."
     },
     {
       "titulo": "Journey to the Center of the Earth",
       "director": "Eric Brevig",
       "anio": 2008,
-      "portada": "https://fusion.molotov.tv/arts/i/446x588/Ch8SHQoUOxdGfq2ZYOH3025b6MzOY9lR34sSA2pwZxgBCh8IARIbChT1jNT6Slgc1kYMrrEg0YvDnahlvBIDcG5n/jpg"
+      "portada": "https://fusion.molotov.tv/arts/i/446x588/Ch8SHQoUOxdGfq2ZYOH3025b6MzOY9lR34sSA2pwZxgBCh8IARIbChT1jNT6Slgc1kYMrrEg0YvDnahlvBIDcG5n/jpg",
+      "duracion": "1h 33m",
+      "sinopsis": "Un profesor de ciencias y su sobrino se encuentran con criaturas extrañas y tierras desconocidas a medida que viajan por debajo de la superficie de la Tierra."
     }
   ],
   "Deporte": [
@@ -999,121 +1319,161 @@
       "titulo": "Money Ball: Rompiendo las reglas",
       "director": "Bennett Miller",
       "anio": 2011,
-      "portada": "https://play-lh.googleusercontent.com/24bXy0xS1_hSd3iutnHYueQimymcMYZmohiobu1a-eiSntMrNHaOZG5a5ISbIZXd1PsS"
+      "portada": "https://play-lh.googleusercontent.com/24bXy0xS1_hSd3iutnHYueQimymcMYZmohiobu1a-eiSntMrNHaOZG5a5ISbIZXd1PsS",
+      "duracion": "2h 13m",
+      "sinopsis": "Billy Beane, entrenador general de los Atléticos de Oakland tiene una epifanía un día: la sabiduría convencional del béisbol es incorrecta. Beane se enfrenta a un bajo presupuesto y debe reinventar a su equipo superando a los clubes más ricos. Une fuerzas con el graduado de la Liga Ivy, Peter Brand, Beane se prepara para desafiar las tradiciones de la escuela antigua. Él recluta a jugadores catalogados como malos por los buscadores de talentos."
     },
     {
       "titulo": "Rush",
       "director": "Ron Howard",
       "anio": 2013,
-      "portada": "https://img.remediosdigitales.com/ddc940/pelicula-rush-2/1366_2000.jpg"
+      "portada": "https://img.remediosdigitales.com/ddc940/pelicula-rush-2/1366_2000.jpg",
+      "duracion": "2h 3m",
+      "sinopsis": "El carismático inglés James Hunt y el austriaco perfeccionista Niki Lauda destacan en la escena de la Fórmula 1 de los años setenta y comparten una intensa rivalidad dentro y fuera de las pistas."
     },
     {
       "titulo": "Foxcatcher",
       "director": "Bennett Miller",
       "anio": 2015,
-      "portada": "https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs2.abcstatics.com%2Fmedia%2Fpeliculas%2F000%2F037%2F154%2Ffoxcatcher-1.jpg&nuevoancho=683&medio=abc"
+      "portada": "https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs2.abcstatics.com%2Fmedia%2Fpeliculas%2F000%2F037%2F154%2Ffoxcatcher-1.jpg&nuevoancho=683&medio=abc",
+      "duracion": "2h 14m",
+      "sinopsis": "Hundido y sin recursos, el excampeón olímpico de lucha Mark Schultz recibe una invitación del millonario John du Pont para viajar a su lujosa finca y organizar juntos un equipo para los Juegos de Seúl 1988, pero una tragedia se cruza en su destino."
     },
     {
       "titulo": "THE WRESTLER",
       "director": "Darren Aronofsky",
       "anio": 2009,
-      "portada": "https://www.gstatic.com/tv/thumb/movieposters/188884/p188884_p_v8_ai.jpg"
+      "portada": "https://www.gstatic.com/tv/thumb/movieposters/188884/p188884_p_v8_ai.jpg",
+      "duracion": "1h 49m",
+      "sinopsis": "Randy Robinson, un luchador que alcanzó la cumbre en los años 80, trata de continuar su carrera 20 años después con exhibiciones en gimnasios de institutos y en cuadriláteros de tercera categoría. Olvidado por su hija, vive gracias a la adoración de sus fans, pero un ataque al corazón le obliga a retirarse."
     },
     {
       "titulo": "El entrenador Carter",
       "director": "Thomas Carter",
       "anio": 2005,
-      "portada": "https://i.etsystatic.com/27062086/r/il/80ac7f/4153745869/il_fullxfull.4153745869_2n6p.jpg"
+      "portada": "https://i.etsystatic.com/27062086/r/il/80ac7f/4153745869/il_fullxfull.4153745869_2n6p.jpg",
+      "duracion": "2h 16m",
+      "sinopsis": "Un entrenador de baloncesto de una escuela secundaria transforma a un equipo perdedor, y luego enfrenta críticas por presionar a los atletas a darle mayor importancia a las calificaciones."
     },
     {
       "titulo": "Space Jam: Nuevas leyendas",
       "director": "Malcolm D. Lee",
       "anio": 2021,
-      "portada": "https://images-eu.ssl-images-amazon.com/images/I/811UllRyFoL._AC_UL600_SR600,600_.jpg"
+      "portada": "https://images-eu.ssl-images-amazon.com/images/I/811UllRyFoL._AC_UL600_SR600,600_.jpg",
+      "duracion": "1h 55m",
+      "sinopsis": "Atrapado en el espacio digital, la superestrella del baloncesto LeBron James se une a la banda de los Looney Tunes para derrotar al Goon Squad en un juego de baloncesto y salvar a su hijo."
     },
     {
       "titulo": "Back of the Net",
       "director": "Louise Alston",
       "anio": 2019,
-      "portada": "https://i.imgur.com/zNB24II.png"
+      "portada": "https://i.imgur.com/zNB24II.png",
+      "duracion": "1h 26m",
+      "sinopsis": "Cory Bailey llega a una prestigiosa academia de fútbol decidida a vencer al equipo de su rival en el torneo nacional."
     },
     {
       "titulo": "Double Teamed",
       "director": "Duwayne Dunham",
       "anio": 2002,
-      "portada": "https://www.lavanguardia.com/peliculas-series/images/movie/backdrop/2002/1/w1280/yXii0oBKIrDo8DR29SPvOD8VEJk.jpg"
+      "portada": "https://www.lavanguardia.com/peliculas-series/images/movie/backdrop/2002/1/w1280/yXii0oBKIrDo8DR29SPvOD8VEJk.jpg",
+      "duracion": "2h",
+      "sinopsis": "Las jugadoras de la WNBA Heidi y Heather Burge son conocidas también como las gemelas más altas del mundo. A mediados de los 80, su padre las traslada a un instituto de Los Ángeles conocido por sus programas deportivos."
     },
     {
       "titulo": "The Miracle Season",
       "director": "Sean McNamara",
       "anio": 2018,
-      "portada": "https://www.ecured.cu/images/thumb/b/b9/A_ganar.jpg/260px-A_ganar.jpg"
+      "portada": "https://www.ecured.cu/images/thumb/b/b9/A_ganar.jpg/260px-A_ganar.jpg",
+      "duracion": "1h 41m",
+      "sinopsis": "Las jugadoras del equipo de voleibol femenino de una escuela secundaria tratan de recomponerse tras la trágica muerte de su jugadora estrella. Con la ayuda de su entrenadora, las muchachas deciden que vencer será el mejor homenaje que pueden hacerle."
     },
     {
       "titulo": "Cloud 9",
       "director": "Paul Hoen",
       "anio": 2014,
-      "portada": "https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/162/956/162956922_6df854.jpg"
+      "portada": "https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/162/956/162956922_6df854.jpg",
+      "duracion": "1h 25m",
+      "sinopsis": "Kayla es una chica que practica snowboard con frecuencia. Un suceso inesperado le obliga a entrenar con Will, un excampeón de este deporte que le exigirá el máximo rendimiento. Kayla tendrá que demostrarle que es una verdadera profesional."
     },
     {
       "titulo": "Bring It On",
       "director": "Peyton Reed",
       "anio": 2000,
-      "portada": "https://pics.filmaffinity.com/A_por_todas_de_nuevo_una_vez_maas-147489221-large.jpg"
+      "portada": "https://m.media-amazon.com/images/M/MV5BNWRlODA3NjItNWI2MC00NDJmLTg5NmEtMGEzNjZiOGI1ZTRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "duracion": "1h 38m",
+      "sinopsis": "Un equipo de porristas compiten contra el equipo de una escuela de la ciudad por un codiciado título nacional."
     },
     {
       "titulo": "Le Mans '66 (Ford v Ferrari)",
       "director": "James Mangold",
       "anio": 2019,
-      "portada": "https://www.matichon.co.th/wp-content/uploads/2019/12/ford-v-ferrari.jpg"
+      "portada": "https://www.matichon.co.th/wp-content/uploads/2019/12/ford-v-ferrari.jpg",
+      "duracion": "2h 32m",
+      "sinopsis": "El visionario automovilístico Carroll Shelby y su conductor británico Ken Miles reciben la misión de construir un nuevo automóvil con el fin de derrocar el dominio de Ferrari en el Campeonato del Mundo de Le Mans de 1966."
     },
     {
       "titulo": "Any Given Sunday",
       "director": "Oliver Stone",
       "anio": 1999,
-      "portada": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1999/12/w1280/A1qe4eqVHZwzXMrhi79r4yU4ytf.jpg"
+      "portada": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1999/12/w1280/A1qe4eqVHZwzXMrhi79r4yU4ytf.jpg",
+      "duracion": "2h 42m",
+      "sinopsis": "Un experto entrenador de fútbol americano venido a menos y un mariscal de campo veterano se enfrentan con la nueva y moderna dueña de su equipo al tiempo que tratan de reflotar la trayectoria del grupo, pues en unos años pasaron de ser uno de los equipos punteros de la competición a encadenar derrota tras derrota."
     },
     {
       "titulo": "King Richard",
       "director": "Reinaldo Marcus Green",
       "anio": 2021,
-      "portada": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9e53bd727e43bc44ce9821f685a9cb032492718ad3c1682360d51a050fc3d1e5._RI_TTW_.jpg"
+      "portada": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9e53bd727e43bc44ce9821f685a9cb032492718ad3c1682360d51a050fc3d1e5._RI_TTW_.jpg",
+      "duracion": "2h 25m",
+      "sinopsis": "Richard Williams ayudó a criar a dos de las deportistas más extraordinarias de todos los tiempos, dos atletas que acabarían cambiando para siempre el deporte del tenis. Sirviéndose de métodos poco convencionales, elaboró un plan que convertiría a Venus y Serena Williams en iconos legendarios."
     },
     {
       "titulo": "Remember The Titans",
       "director": "Boaz Yakin",
       "anio": 2001,
-      "portada": "https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL5QX4/image?locale=en-us&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg"
+      "portada": "https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL5QX4/image?locale=en-us&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg",
+      "duracion": "1h 53m",
+      "sinopsis": "En Virginia durante el año 1971, las autoridades deciden fusionar las escuelas de blancos y de negros. Como resultado, Herman Boone, un hombre de color, es nombrado entrenador del equipo de fútbol de la secundaria."
     },
     {
       "titulo": "The Blind Side",
       "director": "John Lee Hancock",
       "anio": 2009,
-      "portada": "https://play-lh.googleusercontent.com/aEVKlbFZ9wPxp1ur9vYx1KLBR8UKZidOp4baQAzkRoMNwvvZ93kNOHUWSpQacu-dmXM"
+      "portada": "https://play-lh.googleusercontent.com/aEVKlbFZ9wPxp1ur9vYx1KLBR8UKZidOp4baQAzkRoMNwvvZ93kNOHUWSpQacu-dmXM",
+      "duracion": "2h 9m",
+      "sinopsis": "Basada en hechos reales. Michael Oher, un joven negro sin hogar, es acogido por una familia blanca, dispuesta a darle todo su apoyo para que pueda triunfar tanto como jugador de fútbol americano como en su vida privada. Por su parte Oher también influirá con su presencia en la vida de la familia Touhy."
     },
     {
       "titulo": "Invictus",
       "director": "Clint Eastwood",
       "anio": 2010,
-      "portada": "https://pics.filmaffinity.com/Invictus-582873614-large.jpg"
+      "portada": "https://decine21.com/img/upload/obras/invictus-18476/invictus-18476-c.jpg",
+      "duracion": "2h 14m",
+      "sinopsis": "Tras ser liberado, Nelson Mandela llega a la Presidencia y decreta la abolición del Apartheid. En 1995, la celebración en Sudáfrica de la Copa Mundial de Rugby fue el instrumento empleado por el líder negro para construir la unidad nacional."
     },
     {
       "titulo": "ALI",
       "director": "Michael Mann",
       "anio": 2001,
-      "portada": "https://i.pinimg.com/originals/74/fb/78/74fb787553ab1ea68a76918e08928418.jpg"
+      "portada": "https://i.pinimg.com/originals/74/fb/78/74fb787553ab1ea68a76918e08928418.jpg",
+      "duracion": "2h 45m",
+      "sinopsis": "Muhammad Ali se enfrenta a Sonny Liston, Joe Frazier y George Foreman y genera controversias fuera del ring. Cassius Clay siempre ha impresionado a todos tanto con sus habilidades en el boxeo como con su personalidad lejos del ring."
     },
     {
       "titulo": "Little Giants",
       "director": "Duwayne Dunham",
       "anio": 1994,
-      "portada": "https://m.media-amazon.com/images/I/61ZNnYpQfRL._AC_UF894,1000_QL80_.jpg"
+      "portada": "https://m.media-amazon.com/images/I/61ZNnYpQfRL._AC_UF894,1000_QL80_.jpg",
+      "duracion": "1h 47m",
+      "sinopsis": "Desde que son niños, Danny siempre se ha sentido inferior a su hermano Kevin. Sin embargo, ahora tiene la oportunidad de enfrentarse a él en una competición de fútbol americano. Lo malo es que le tocará lidiar con unos jugadores un tanto patosos."
     },
     {
       "titulo": "Little Giants",
       "director": "Duwayne Dunham",
       "anio": 1994,
-      "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZqsMVsFVo34m7YirqpqyquZbZ23ACQ463jJ3FnIiAllWtkuBDj8Xjj7TR10dn-nfhsQ&usqp=CAU"
+      "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZqsMVsFVo34m7YirqpqyquZbZ23ACQ463jJ3FnIiAllWtkuBDj8Xjj7TR10dn-nfhsQ&usqp=CAU",
+      "duracion": "1h 58m",
+      "sinopsis": "En 1957 un grupo de niños de los barrios más pobres de Monterrey hacen realidad su sueño de jugar en la Liga Infantil de béisbol de Estados Unidos. En plena época de segregación racial, estos niños se convirtieron en héroes."
     }
   ],
   "Musical": [
@@ -1121,121 +1481,161 @@
       "titulo": "grease",
       "director": "Randal Kleiser, Patricia Birch",
       "anio": 1978,
-      "portada": "https://play-lh.googleusercontent.com/mBj-Cl8YK_PxHhowlbhcofIqEowepscvg6S9KtKrtpllJZKyFJYn9eEnXvl-WFWKaeY"
+      "portada": "https://play-lh.googleusercontent.com/mBj-Cl8YK_PxHhowlbhcofIqEowepscvg6S9KtKrtpllJZKyFJYn9eEnXvl-WFWKaeY",
+      "duracion": "1h 50m",
+      "sinopsis": "El rebelde Danny Zuko y la inocente australiana Sandy mantienen un romance durante las vacaciones de verano, creyendo que no se volverán a ver. Sin embargo, para la sorpresa de ambos, acaban estudiando juntos en el mismo instituto durante el nuevo curso. Cuando vuelven a reencontrarse, Sandy se da cuenta de que Danny no es el mismo chico atento y encantador, sino un chico engreído e insensible."
     },
     {
       "titulo": "Moulin Rouge",
       "director": "Baz Luhrmann",
       "anio": 2001,
-      "portada": "https://m.media-amazon.com/images/I/71BXEu7NmyL._AC_UF894,1000_QL80_.jpg"
+      "portada": "https://m.media-amazon.com/images/I/71BXEu7NmyL._AC_UF894,1000_QL80_.jpg",
+      "duracion": "2h 7m",
+      "sinopsis": "Satine, la estrella más rutilante del Moulin Rouge, encandila a toda la ciudad con sus bailes llenos de sensualidad. Atrapada entre el amor de dos hombres, un joven escritor y un duque, lucha por hacer realidad su sueño de ser actriz."
     },
     {
       "titulo": "Los miserables",
       "director": "Tom Hooper",
       "anio": 2013,
-      "portada": "https://www.educaciontrespuntocero.com/wp-content/uploads/2016/05/los-miserables.jpg.webp"
+      "portada": "https://www.educaciontrespuntocero.com/wp-content/uploads/2016/05/los-miserables.jpg.webp",
+      "duracion": "2h 38m",
+      "sinopsis": "Después de 19 años como prisionero, Jean Valjean es liberado por Javert, el oficial a cargo de la fuerza de trabajo de la prisión. Valjean viola su libertad y más tarde usa el dinero robado para reinventarse como alcalde y dueño de una fábrica. Por su parte, Javert promete llevar a Valjean de vuelta a la cárcel. Ocho años después, Valjean se convierte en el guardián de un niño llamado Cosette tras la muerte de su madre, pero la persecución de Javert significa que la paz tardará en llegar."
     },
     {
       "titulo": "La La Land",
       "director": "Damien Chazelle",
       "anio": 2016,
-      "portada": "https://cdn.cinencuentro.com/wp-content/uploads/2017/01/la-la-land-poster.jpeg"
+      "portada": "https://cdn.cinencuentro.com/wp-content/uploads/2017/01/la-la-land-poster.jpeg",
+      "duracion": "2h 8m",
+      "sinopsis": "Mia y Sebastian son dos jóvenes que quieren abrirse camino en el mundo de Hollywood. Mia es una joven aspirante a actriz que trabaja como camarera mientras acude a castings y Sebastian toca el piano en bares. Un día sus caminos se cruzan e inmediatamente se enamoran. Los dos trabajan juntos para hacer realidad sus sueños, pero pronto se dan cuenta de que el mundo del arte pide sacrificios que ponen en peligro su relación."
     },
     {
       "titulo": "Copying Beethoven",
       "director": "Agnieszka Holland",
       "anio": 2007,
-      "portada": "https://http2.mlstatic.com/D_NQ_NP_666445-MLM25988608529_092017-O.webp"
+      "portada": "https://http2.mlstatic.com/D_NQ_NP_666445-MLM25988608529_092017-O.webp",
+      "duracion": "1h 44m",
+      "sinopsis": "Ludwig van Beethoven está a punto de componer su famosa Novena Sinfonía, pero su copista Wenzel Schlemmer está enfermo de cáncer. Ahora necesita desesperadamente otro copista para completar la partitura y contrata la ayuda de Anna Holtz, una ambiciosa estudiante que acepta el trabajo sin dudar, a pesar de la advertencia de Wenzel de que el compositor es cruel y miserable."
     },
     {
       "titulo": "The Boat That Rocked",
       "director": "Richard Curtis",
       "anio": 2009,
-      "portada": "https://upload.wikimedia.org/wikipedia/en/e/e3/The_boat_that_rocked_poster.jpg"
+      "portada": "https://upload.wikimedia.org/wikipedia/en/e/e3/The_boat_that_rocked_poster.jpg",
+      "duracion": "2h 15m",
+      "sinopsis": "Inspirada en la revolución de la radio pirata en la Inglaterra en 1960, la película cuenta la historia de Carl, que es expulsado de su colegio y enviado a pasar una temporada con su padrino Quentin, jefe de una emisora pirata."
     },
     {
       "titulo": "High School Musical",
       "director": "Eduardo Ripari, Michael Lembeck",
       "anio": 2006,
-      "portada": "https://www.cine.com/peliculas/3479/cartel/3479_cartel_orig.jpg"
+      "portada": "https://www.cine.com/peliculas/3479/cartel/3479_cartel_orig.jpg",
+      "duracion": "1h 38m",
+      "sinopsis": "Troy y Gabriela se conocen en un karaoke durante las vacaciones. Troy es una estrella de baloncesto, y Gabriela es la nueva estudiante. Al volver al colegio, se presentan al casting para el musical de la escuela, pero deben superar varios obstáculos."
     },
     {
       "titulo": "August Rush",
       "director": "Kirsten Sheridan",
       "anio": 2008,
-      "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/67/28/55/20250703.jpg"
+      "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/67/28/55/20250703.jpg",
+      "duracion": "1h 54m",
+      "sinopsis": "August se crió en un orfanato y con once años se gana la vida como músico callejero, bajo la tutela de un hombre que trata de explotarlo. El niño pronto se revela como un músico genial que se servirá de su talento para encontrar a sus padres."
     },
     {
       "titulo": "School Of Rock",
       "director": "Richard Linklater",
       "anio": 2004,
-      "portada": "https://w0.peakpx.com/wallpaper/9/121/HD-wallpaper-movie-school-of-rock-jack-black.jpg"
+      "portada": "https://w0.peakpx.com/wallpaper/9/121/HD-wallpaper-movie-school-of-rock-jack-black.jpg",
+      "duracion": "1h 49m",
+      "sinopsis": "Dewey Finn es un guitarrista con delirios de grandeza que es expulsado de su banda. Decide suplantar la identidad de un profesor sustituto para dar clase a alumnos de quinto a los que intentará enseñarles 'rock & roll de alto voltaje'."
     },
     {
       "titulo": "El concierto",
       "director": "Radu Mihăileanu",
       "anio": 2009,
-      "portada": "https://http2.mlstatic.com/D_NQ_NP_841968-MLM31956868402_082019-O.webp"
+      "portada": "https://http2.mlstatic.com/D_NQ_NP_841968-MLM31956868402_082019-O.webp",
+      "duracion": "1h 59m",
+      "sinopsis": "Andrei Filipov es un limpiador en el Bolshoi, pero hace treinta años era el director de orquesta del gran teatro ruso. Mientras limpia el despacho del actual director del Bolshoi, cae en sus manos un fax en el que se invita a la orquesta a tocar en el Théâtre du Châtelet de París. Filipov idea un plan: reunir a sus antiguos compañeros y hacerse pasar por la actual orquesta del Bolshoi."
     },
     {
       "titulo": "Amadeus",
       "director": "Milos Forman",
       "anio": 1985,
-      "portada": "https://proopera.org.mx/wp-content/uploads/2020/09/Amadeus.jpg"
+      "portada": "https://proopera.org.mx/wp-content/uploads/2020/09/Amadeus.jpg",
+      "duracion": "2h 40m",
+      "sinopsis": "Antonio Salieri por fin ha logrado el sueño de ser reconocido como el mejor músico de Viena, cuando aparece el joven Amadeus, un genio musical que cambiará su vida para siempre."
     },
     {
       "titulo": "El pianista",
       "director": "Roman Polanski",
       "anio": 2003,
-      "portada": "https://http2.mlstatic.com/D_NQ_NP_986627-MLM44134746858_112020-W.jpg"
+      "portada": "https://http2.mlstatic.com/D_NQ_NP_986627-MLM44134746858_112020-W.jpg",
+      "duracion": "2h 30m",
+      "sinopsis": "Wladyslaw Szpilman, un brillante pianista polaco de origen judío, vive con su familia en el ghetto de Varsovia. Cuando, en 1939, los alemanes invaden Polonia, consigue evitar la deportación gracias a la ayuda de algunos amigos. Pero tendrá que vivir escondido y completamente aislado durante mucho tiempo, y para sobrevivir tendrá que afrontar constantes peligros."
     },
     {
       "titulo": "Bird",
       "director": "Clint Eastwood",
       "anio": 1988,
-      "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/68/46/28/20531256.jpg"
+      "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/68/46/28/20531256.jpg",
+      "duracion": "2h 41m",
+      "sinopsis": "La historia del saxofonista Charlie Parker, quien cambió la interpretación del jazz con su técnica improvisada, pero cuyo talento no bastó para frenar la tendencia autodestructiva que lo arrastró a una vida de alcoholismo y adicción a las drogas."
     },
     {
       "titulo": "Straight Outta Compton",
       "director": "F. Gary Gray",
       "anio": 2015,
-      "portada": "https://e1.pxfuel.com/desktop-wallpaper/821/851/desktop-wallpaper-straight-outta-compton-cube-xxxtentacion.jpg"
+      "portada": "https://e1.pxfuel.com/desktop-wallpaper/821/851/desktop-wallpaper-straight-outta-compton-cube-xxxtentacion.jpg",
+      "duracion": " 2h 27m",
+      "sinopsis": "La historia de como seis chicos de Compton (Arabian Prince, DJ Yella, Dr. Dre, Eazy-E, Ice Cube y MC Ren), uno de los barrios más peligrosos de Los Ángeles, formaron el grupo de rap N.W.A. y revolucionaron no sólo el mundo de la música, sino toda la sociedad estadounidense a finales de los años 80."
     },
     {
       "titulo": "Los chicos del coro",
       "director": "Christophe Barratier",
-      "anio": 2015,
-      "portada": "https://assets.isu.pub/document-structure/220319195731-b2ca84ab804392836c9676467dea2110/v1/88a92b7c4b23d9ad273db7e925df8ea3.jpeg"
+      "anio": 2005,
+      "portada": "https://assets.isu.pub/document-structure/220319195731-b2ca84ab804392836c9676467dea2110/v1/88a92b7c4b23d9ad273db7e925df8ea3.jpeg",
+      "duracion": " 1h 37m",
+      "sinopsis": "Clement Mathieu, profesor de música en paro, empieza a trabajar como vigilante en un internado de reeducación de menores. En sus esfuerzos por acercarse a los chicos, se entrega a la tarea de familiarizarlos con la magia del canto."
     },
     {
       "titulo": "Bohemian Rhapsody",
       "director": "Bryan Singer, Dexter Fletcher",
       "anio": 2018,
-      "portada": "https://pics.filmaffinity.com/Bohemian_Rhapsody-748186150-large.jpg"
+      "portada": "https://images.rtl.fr/~c/770v513/rtl2/www/987857-bohemian-rhapsody.jpg",
+      "duracion": " 2h 14m",
+      "sinopsis": "Londres, 1970. El joven Farrokh, Freddie para los amigos, trabaja en el aeropuerto, estudia diseño gráfico y escribe canciones. Un día, tras escuchar al grupo Smile en un bar, se ofrece como cantante de la banda al enterarse de que se han quedado sin vocalista. Ninguno de ellos se imaginaba por aquel entonces que se convertirían en los mismísimos Queen."
     },
     {
       "titulo": "Ha nacido una estrella",
       "director": "Bradley Cooper",
       "anio": 2018,
-      "portada": "https://m.media-amazon.com/images/I/71Z7EU5yZhL._AC_UF894,1000_QL80_.jpg"
+      "portada": "https://m.media-amazon.com/images/I/71Z7EU5yZhL._AC_UF894,1000_QL80_.jpg",
+      "duracion": " 2h 15m",
+      "sinopsis": "Jackson, una estrella de la música country con problemas de alcoholismo, descubre el talento de Ally, una joven cantante de la cual se enamora. Mientras la carrera de ella despega, Jackson percibe que sus días de gloria están llegando a su fin."
     },
     {
       "titulo": "Mamma Mia!",
       "director": "Phyllida Lloyd, Ol Parker",
       "anio": 2008,
-      "portada": "https://m.media-amazon.com/images/I/71+ztXtpmEL._AC_UF894,1000_QL80_.jpg"
+      "portada": "https://m.media-amazon.com/images/I/71+ztXtpmEL._AC_UF894,1000_QL80_.jpg",
+      "duracion": " 1h 48m",
+      "sinopsis": "Donna, una hotelera independiente de las islas griegas, prepara la boda de su hija con la ayuda de dos viejos amigos. Mientras tanto, Sophie, la alegre hija de Donna, tiene su propio plan. Invita a la boda a tres hombres del pasado de su madre con la esperanza de conocer a su padre biológico para que la acompañe al altar."
     },
     {
       "titulo": "The Greatest Showman",
       "director": "Michael Gracey",
       "anio": 2017,
-      "portada": "https://www.educaciontrespuntocero.com/wp-content/uploads/2020/03/87f915eb64fea2eebdbe52cd1c21f82b.png.webp"
+      "portada": "https://www.educaciontrespuntocero.com/wp-content/uploads/2020/03/87f915eb64fea2eebdbe52cd1c21f82b.png.webp",
+      "duracion": " 1h 45m",
+      "sinopsis": "P.T. Barnum se entrega a su imaginación para crear el circo Barnum & Bailey en el siglo XIX. Con números musicales, artistas exóticos y hazañas, el fascinante espectáculo toma al mundo por asalto para convertirse en el mejor espectáculo de la Tierra."
     },
     {
       "titulo": "Ray",
       "director": "Taylor Hackford",
       "anio": 2004,
-      "portada": "https://m.media-amazon.com/images/I/51jrHAu37KL._AC_UF894,1000_QL80_.jpg"
+      "portada": "https://m.media-amazon.com/images/I/51jrHAu37KL._AC_UF894,1000_QL80_.jpg",
+      "duracion": " 2h 32m",
+      "sinopsis": "El período más explosivo de la carrera de Ray Charles comienza cuando este joven negro ciego se sube solo a un autobús en Florida y cruza el país para refinar su arte en la floreciente escena del jazz de Seattle. Ray, que lucha por ser tratado de forma justa, es descubierto por Atlantic Records y comienza su imparable ascenso hacia la fama global, enredado en su problema de adicción a la droga y en sus tórridos líos amorosos."
     }
   ],
   "Documental": [
@@ -1243,121 +1643,161 @@
       "titulo": "Amateur",
       "director": "Ryan Koo",
       "anio": 2018,
-      "portada": "https://i.blogs.es/14dbba/escena-amateur/450_1000.jpg"
+      "portada": "https://i.blogs.es/14dbba/escena-amateur/450_1000.jpg",
+      "duracion": "1h 36m",
+      "sinopsis": "Un talentoso jugador de baloncesto lucha por encajar en su nuevo equipo en una escuela preparatoria de élite donde se enfrenta a la corrupción y la codicia."
     },
     {
       "titulo": "Sintiéndolo mucho",
       "director": "Fernando León de Aranoa",
       "anio": 2022,
-      "portada": "https://www.unotv.com/uploads/2022/10/sintiendolo-mucho-sabina-documental-125146.jpg"
+      "portada": "https://www.unotv.com/uploads/2022/10/sintiendolo-mucho-sabina-documental-125146.jpg",
+      "duracion": "2h",
+      "sinopsis": "El retrato más honesto de Joaquín Sabina, capturado durante 13 años de rodaje por el cineasta Fernando León de Aranoa. El relato, que contiene todos los ángulos del artista, pasea por las claves de su vida y su trabajo."
     },
     {
       "titulo": "Fire Of Love",
       "director": "Sara Dosa",
       "anio": 2022,
-      "portada": "https://docsbarcelona.com/cache/containers/images/movies/Poster-fire-of-love.jpg/faf3bc11959004eab67e99e7e3030d4e.jpg"
+      "portada": "https://docsbarcelona.com/cache/containers/images/movies/Poster-fire-of-love.jpg/faf3bc11959004eab67e99e7e3030d4e.jpg",
+      "duracion": "1h 37m",
+      "sinopsis": "Katia y Maurice Krafft, científicos y amantes, viajaron por el planeta a la caza de erupciones, documentando sus descubrimientos. Murieron en 1991, pero dejaron un legado que enriqueció nuestro conocimiento del mundo natural."
     },
     {
       "titulo": "Jane Por Charlotte",
       "director": "Charlotte Gainsbourg",
       "anio": 2021,
-      "portada": "https://es.web.img3.acsta.net/pictures/22/04/27/14/48/5852744.jpg"
+      "portada": "https://es.web.img3.acsta.net/pictures/22/04/27/14/48/5852744.jpg",
+      "duracion": "1h 28m",
+      "sinopsis": "Charlotte Gainsbourg observa a su madre, Jane Birkin, como nunca lo ha hecho, sin reservas. Usando una cámara, se exponen mutuamente y dan pasos en falso, dejando espacio para que se desarrolle una relación maternofilial."
     },
     {
       "titulo": "Moonage Daydream",
       "director": "Brett Morgen",
       "anio": 2022,
-      "portada": "https://es.web.img2.acsta.net/pictures/22/08/12/16/37/4047446.jpg"
+      "portada": "https://es.web.img2.acsta.net/pictures/22/08/12/16/37/4047446.jpg",
+      "duracion": "1h 14m",
+      "sinopsis": "Con imágenes y actuaciones nunca vistas, el cineasta Brett Morgen explora el viaje creativo, espiritual y musical de David Bowie."
     },
     {
       "titulo": "The Janes",
       "director": "Emma Pildes, Tia Lessin",
       "anio": 2022,
-      "portada": "https://pics.filmaffinity.com/The_Janes-678219532-large.jpg"
+      "portada": "https://pics.filmaffinity.com/The_Janes-678219532-large.jpg",
+      "duracion": "1h 41m",
+      "sinopsis": "Antes de 1973, bajo el nombre de 'Jane', unas activistas crearon una red clandestina para tratar embarazos no deseados y proporcionar abortos ilegales gratuitos o a bajo costo para más de diez mil mujeres."
     },
     {
       "titulo": "El Misterio De Marilyn Monroe",
       "director": "Emma Cooper",
       "anio": 2022,
-      "portada": "https://mx.web.img3.acsta.net/pictures/22/03/24/09/33/0892409.jpg"
+      "portada": "https://mx.web.img3.acsta.net/pictures/22/03/24/09/33/0892409.jpg",
+      "duracion": "1h 41m",
+      "sinopsis": "Antes de 1973, bajo el nombre de 'Jane', unas activistas crearon una red clandestina para tratar embarazos no deseados y proporcionar abortos ilegales gratuitos o a bajo costo para más de diez mil mujeres."
     },
     {
       "titulo": "Ennio, el maestro",
       "director": "Giuseppe Tornatore",
       "anio": 2021,
-      "portada": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Ennio_%282021_movie_poster%29.jpg/220px-Ennio_%282021_movie_poster%29.jpg"
+      "portada": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Ennio_%282021_movie_poster%29.jpg/220px-Ennio_%282021_movie_poster%29.jpg",
+      "duracion": "2h 36m",
+      "sinopsis": "Giuseppe Tornatore rinde homenaje a Ennio Morricone, repasando la vida y la obra del legendario compositor: desde su debut con Sergio Leone hasta la oscarizada 'The Hateful Eight'."
     },
     {
       "titulo": "100 días con la Tata",
       "director": "Miguel Ángel Muñoz",
       "anio": 2021,
-      "portada": "https://cineuropa.org/Galleries/414/051/poster_big.jpg?1637924139001"
+      "portada": "https://cineuropa.org/Galleries/414/051/poster_big.jpg?1637924139001",
+      "duracion": "1h 22m",
+      "sinopsis": "Durante la pandemia, Miguel Ángel Muñoz pasó 100 días junto a la persona que lo crió de pequeño. Los padres del actor tuvieron que recurrir a la 'Tata' para que cuidara a su hijo. Desde entonces, nunca se han separado."
     },
     {
       "titulo": "The Story of Looking",
       "director": "Mark Cousins",
       "anio": 2021,
-      "portada": "https://hips.hearstapps.com/hmg-prod/images/story-of-looking-mark-cousins-1636700947.jpeg?crop=0.75xw:1xh;center,top&resize=1200:*"
+      "portada": "https://hips.hearstapps.com/hmg-prod/images/story-of-looking-mark-cousins-1636700947.jpeg?crop=0.75xw:1xh;center,top&resize=1200:*",
+      "duracion": "1h 27m",
+      "sinopsis": "Antes de someterse a una operación de cataratas que le devuelva la vista, Mark Cousins explora el papel de la experiencia visual en nuestras vidas individuales y colectivas."
     },
     {
       "titulo": "Sedimentos",
       "director": "Adrián Silvestre",
       "anio": 2021,
-      "portada": "https://static.filmin.es/images/media/38591/5/poster_0_3.webp"
+      "portada": "https://static.filmin.es/images/media/38591/5/poster_0_3.webp",
+      "duracion": "1h 29m",
+      "sinopsis": "Al igual que la Tierra, nuestro interior está formado por distintas capas y estratos que van forjando nuestra identidad y relatan nuestra historia de vida. ¿Qué circunstancias intervienen en este proceso y nos convierten en quienes somos hoy? Seis mujeres trans viajan a un pequeño pueblo leonés donde explorarán insólitos paisajes, así como los entresijos de su propia personalidad."
     },
     {
       "titulo": "Patti Smith: Electric Poet",
-      "director": "Patti Smith, Electric Poet",
+      "director": "Anne Cutaia, Sophie Peyrard",
       "anio": 2022,
-      "portada": "https://www.teleprensa.com/media/teleprensa/images/2023/05/14/2023051410224834816.jpg"
+      "portada": "https://www.teleprensa.com/media/teleprensa/images/2023/05/14/2023051410224834816.jpg",
+      "duracion": "54m",
+      "sinopsis": "Al aterrizar en Nueva York sobre las cenizas de la cultura ''post-hippie'', la veinteañera Patti Smith trastocará todos los códigos existentes: el ''rock'n'roll'' cliché, la poesía excesivamente prosaica."
     },
     {
       "titulo": "Esta lluvia nunca cesará",
       "director": "Alina Gorlova",
       "anio": 2022,
-      "portada": "https://www.lavanguardia.com/peliculas-series/images/movie/backdrop/2022/9/w1280/u6jf7YN11kWYhHOeTZssMBatTMB.jpg"
+      "portada": "https://www.lavanguardia.com/peliculas-series/images/movie/backdrop/2022/9/w1280/u6jf7YN11kWYhHOeTZssMBatTMB.jpg",
+      "duracion": "1h 43m",
+      "sinopsis": "Después de huir de la guerra de Siria, la familia Suleyman se repartió por Europa. Lazgin vive con su familia en Ucrania, su hermano Koshnhav está en Alemania, un tercer hermano está en el Irak kurdo y un cuarto se quedó en Siria. La cinta se centra en el hijo de Lazgin, Andriy, que es voluntario de la Cruz Roja y lidia con otro conflicto militar, esta vez en Ucrania."
     },
     {
       "titulo": "Canto cósmico. Niño de Elche",
       "director": "Marc Sempere-Moya, Leire Apellaniz",
       "anio": 2021,
-      "portada": "https://assets.primaverasound.com/psweb/iusjeuuw7vnt39vdm1ym_1643903489818.jpg"
+      "portada": "https://assets.primaverasound.com/psweb/iusjeuuw7vnt39vdm1ym_1643903489818.jpg",
+      "duracion": "1h 34m",
+      "sinopsis": "Documental que se aproxima al Niño de Elche, el músico español más controvertido de los últimos años, desde una perspectiva caleidoscópica que abarca desde su esfera más íntima y familiar a las múltiples reverberaciones de su universo poético. Un retrato con personalidad estética propia que integra además un diálogo colectivo en torno a esa genealogía artística profundamente española surgida entre tradición y subversión."
     },
     {
       "titulo": "Val",
       "director": "Ting Poo, Leo Scott",
       "anio": 2021,
-      "portada": "https://lh3.googleusercontent.com/chfZA8aI_X5-Nr8TFSIn3WFJkNT5r36amggykyD41WH_I2YL0wPKSb4dyNQ79N1H89kgKdhODB33OHAJBaMeeoKNU3TeoRxYMLzFfRumRkmX_vbrmGXKm1U_QrDzA9LcpKxNvYdcE08=w2400"
+      "portada": "https://lh3.googleusercontent.com/chfZA8aI_X5-Nr8TFSIn3WFJkNT5r36amggykyD41WH_I2YL0wPKSb4dyNQ79N1H89kgKdhODB33OHAJBaMeeoKNU3TeoRxYMLzFfRumRkmX_vbrmGXKm1U_QrDzA9LcpKxNvYdcE08=w2400",
+      "duracion": "1h 49m",
+      "sinopsis": "Documental sobre la vida cotidiana del actor Val Kilmer, con grabaciones nunca vistas que recorren 40 años de una carrera que incluye clásicos y grandes éxitos."
     },
     {
-      "titulo": "ValYou Cannot Kill David Arquette",
+      "titulo": "You Cannot Kill David Arquette",
       "director": "Price James, David Darg",
       "anio": 2020,
-      "portada": "https://media.mediatheques.fr/res/medias/album/400p/492/2942492.jpg"
+      "portada": "https://media.mediatheques.fr/res/medias/album/400p/492/2942492.jpg",
+      "duracion": "1h 30m",
+      "sinopsis": "You Cannot Kill David Arquette es un documental estadounidense de 2020, dirigido por David Darg y Price James. Sigue a David Arquette intentando volver a la lucha libre profesional después de que su carrera como actor se estanca. Fue lanzado el 21 de agosto de 2020 por Super LTD."
     },
     {
       "titulo": "Ausencia de verdad",
       "director": "Ramona S. Diaz",
       "anio": 2020,
-      "portada": "https://static.filmin.es/images/media/37948/4/poster_0_3_210x0.webp"
+      "portada": "https://static.filmin.es/images/media/37948/4/poster_0_3_210x0.webp",
+      "duracion": "1h 50m",
+      "sinopsis": "La guerra entre el Gobierno de Filipinas, presidido por Rodrigo Duterte, y la prensa. El conflicto se escenifica en lo sucedido con la periodista María Ressa."
     },
     {
       "titulo": "JFK Revisited: Through the Looking Glass",
       "director": "Oliver Stone",
       "anio": 2021,
-      "portada": "https://m.media-amazon.com/images/I/71s0y5qufwL._AC_UF1000,1000_QL80_.jpg"
+      "portada": "https://m.media-amazon.com/images/I/71s0y5qufwL._AC_UF1000,1000_QL80_.jpg",
+      "duracion": "1h 58m",
+      "sinopsis": "El cineasta Oliver Stone analiza las circunstancias en torno al asesinato del presidente John F. Kennedy el 22 de noviembre de 1963, en Dallas."
     },
     {
       "titulo": "McCurry, La Búsqueda Del Color",
       "director": "ODenis Delestrac",
       "anio": 2022,
-      "portada": "https://www.ecartelera.com/carteles/17200/17265/001_p.jpg"
+      "portada": "https://www.ecartelera.com/carteles/17200/17265/001_p.jpg",
+      "duracion": "1h 30m",
+      "sinopsis": "Analiza desde dentro la vida y obra del fotógrafo Steve McCurry, muy conocido por su retrato de la chica afgana de la portada del National Geographic. El fotógrafo, sus familiares y amigos dan vida a las historias que hay detrás de sus fotografías más emblemáticas. Con acceso único a su proceso creativo y a imágenes inéditas, descubrimos su compromiso de registrar lo que define y une a los seres humanos en su búsqueda del color."
     },
     {
       "titulo": "Mi adorado monster",
       "director": "Victor Matellano",
       "anio": 2022,
-      "portada": "https://www.academiadecine.com/wp-content/uploads/2022/01/Mi-adorado-monster_fotograma-34.jpg"
+      "portada": "https://www.academiadecine.com/wp-content/uploads/2022/01/Mi-adorado-monster_fotograma-34.jpg",
+      "duracion": "1h 36m",
+      "sinopsis": "Arturo Bobadilla es un creador que entregó toda su pasión al cine de terror, aunque el éxito y la fama lo han eludido. Bobadilla tardó un cuarto de siglo en terminar su ambiciosa primera película."
     }
   ]
 }

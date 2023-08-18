@@ -1,0 +1,14 @@
+.accordion-button {
+  background-color: white !important;
+  border-radius: 5px;
+}
+
+.accordion-button:focus {
+  box-shadow: none !important;
+  background-color: rgb(231, 10, 82) !important;
+  color: white;
+}
+
+.accordion-collapse {
+  transition: 1s !important;
+}

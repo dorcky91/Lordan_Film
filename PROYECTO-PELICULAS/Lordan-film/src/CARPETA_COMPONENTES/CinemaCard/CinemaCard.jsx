@@ -1,16 +1,16 @@
 import React, { useState } from "react";
 import { Container, Row, Col, Button, Card } from "react-bootstrap";
 import "../CinemaCard/CinemaCard.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faHeart,
-  faShareNodes,
-  faDownload,
-} from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-router-dom";
+import Detalles from "../Detalles/Detalles";
 
 function CinemaCard(props) {
   const { peliculas, titulo } = props;
+  const [modalShow, setModalShow] = useState({ show: false, datos: null });
+  const [isLiked, setIsliked] = useState(false);
+  function handlerLike() {
+    setIsliked(!isLiked);
+  }
 
   return (
     <>
@@ -20,7 +20,14 @@ function CinemaCard(props) {
         <Row className="gy-5">
           {peliculas.map((pelicula, index) => (
             <Col key={index} sm={6} md={6} lg={3}>
-              <Link to={"/watch/30"} className="text-decoration-none">
+              <Link
+                className="text-decoration-none"
+                onClick={() =>
+                  setModalShow({
+                    show: true,
+                    datos: pelicula,
+                  })
+                }>
                 <Card className="h-100 border-0 w-100 card-peliculas">
                   <Card.Img
                     className="object-fit-cover  w-100"
@@ -39,6 +46,12 @@ function CinemaCard(props) {
           ))}
         </Row>
       </Container>
+
+      <Detalles
+        show={modalShow.show}
+        datos={modalShow.datos}
+        onHide={() => setModalShow({ show: false, datos: null })}
+      />
     </>
   );
 }

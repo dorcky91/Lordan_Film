@@ -1,3 +1,4 @@
+import { useState } from "react";
 import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
 import "../../CARPETA_COMPONENTES/Trailer/Trailer.css";
@@ -5,7 +6,6 @@ import "../../CARPETA_COMPONENTES/Trailer/Trailer.css";
 function Trailer(props) {
   if (props.datos != null) {
     // const {tituloPelicula,enlaceTrailer} = props.datos
-
     return (
       <Modal show={props.show} onHide={props.onHide} size="lg">
         <Modal.Header

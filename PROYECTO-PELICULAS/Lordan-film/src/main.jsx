@@ -18,11 +18,19 @@ import Deporte from "./CARPETA_PELICULAS/Deportes/Deporte";
 import Musical from "./CARPETA_PELICULAS/Musical/Musical";
 import Documental from "./CARPETA_PELICULAS/Documental/Documental";
 import Favoritas from "./CARPETA_PELICULAS/Favoritas/Favoritas";
+import Detalles from "./CARPETA_COMPONENTES/Detalles/Detalles";
+import Aviso from "./CARPETA_COMPONENTES/Aviso/Aviso";
+import Sesion from "./CARPETA_COMPONENTES/Sesion/Sesion";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Home />,
+    errorElement: (
+      <h1 className="p-4 fs-3">
+        Contenido no encontrado...Vuelve a intentar con nuevos datos.
+      </h1>
+    ),
     children: [
       {
         path: "/",
@@ -87,6 +95,16 @@ const router = createBrowserRouter([
       {
         path: "/Favoritas",
         element: <Favoritas />,
+      },
+
+      {
+        path: "/:Peliculas",
+        element: <Detalles />,
+      },
+
+      {
+        path: "/Aviso",
+        element: <Aviso />,
       },
     ],
   },

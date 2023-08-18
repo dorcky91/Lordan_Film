@@ -18,10 +18,31 @@
   transition: 500ms ease-in-out !important;
 }
 
-.navlink {
+#responsive-navbar-nav a {
+  position: relative;
   color: white;
   font-family: "Ubuntu", sans-serif;
-  font-size: 15px;
+  font-size: 14px;
+  transition: 500ms ease-in-out;
+}
+
+#responsive-navbar-nav a::before {
+  position: absolute;
+  content: "";
+  bottom: -3px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: #e70a52;
+  transition: 0.8s ease-in-out;
+}
+
+#responsive-navbar-nav a.active::before {
+  width: 100%;
+}
+
+#responsive-navbar-nav a:hover::before {
+  width: 100%;
 }
 
 .navbar-toggler-icon {
@@ -78,6 +99,13 @@
 #search input.active {
   width: 240px;
   /* padding-right: 55px; */
+}
+
+.perfil {
+  width: 43px;
+  height: 43px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 .user {

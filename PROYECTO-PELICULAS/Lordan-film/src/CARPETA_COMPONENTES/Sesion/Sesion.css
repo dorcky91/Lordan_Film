@@ -1,0 +1,66 @@
+.seccion-sesion {
+  background: linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(0, 0, 0, 0.9) 55%,
+      rgba(0, 0, 0, 0.1) 100%
+    ),
+    url(bg-sesion.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.moddal-show {
+  transition: 1s ease-in-out;
+}
+
+#btn-cerrar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 8px 18px;
+  background-color: white;
+  color: #e70a52;
+  border: none;
+  font-size: 20px;
+}
+
+.input-correo,
+.input-contrasena {
+  background: none;
+  border-bottom: 1px solid white !important;
+  color: white;
+  font-size: 16px;
+}
+
+.input-correo:focus,
+.input-contrasena:focus {
+  box-shadow: none;
+  background: none;
+}
+
+input::placeholder {
+  color: rgba(255, 255, 255, 0.2) !important;
+}
+
+.iniciar-sesion {
+  background-color: #e70a52 !important;
+  border: 1px solid #e70a52;
+  border-radius: 25px;
+  transition: 0.5s ease-in-out;
+}
+
+.iniciar-sesion:hover {
+  border-color: #e70a52;
+  transform: translateY(-8px);
+}
+
+.red-social {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  padding: 8px;
+  text-align: center;
+  background-color: #e70a52;
+}

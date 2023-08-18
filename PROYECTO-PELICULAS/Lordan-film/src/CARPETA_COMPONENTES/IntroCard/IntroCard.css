@@ -1,5 +1,4 @@
 .item {
-  /* background-color: rgba(119, 136, 153, 0.1); */
   border-radius: 5px;
   height: 240px;
   overflow: hidden;
@@ -87,9 +86,6 @@
 
 .tituloGeneral {
   background-color: #e70a52;
-  /* display: table-header-group; */
-  /* padding: 5px; */
-  /* margin: 20px; */
   line-height: inherit;
   display: inline-flex;
   padding: 5px 10px;
