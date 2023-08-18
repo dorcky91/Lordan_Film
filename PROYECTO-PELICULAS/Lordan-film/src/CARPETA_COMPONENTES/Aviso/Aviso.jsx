@@ -770,7 +770,7 @@ function Aviso(props) {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam
               laboriosam facilis molestias ullam perspiciatis voluptas
               dignissimos quasi commodi temporibus alias, vitae omnis et
-              necessitatibus sint, quod unde officiis! Amet, error?
+              necessitatibus sint, quod unde officiis! Amet?
             </p>
             <p className="small">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit.
