@@ -56,6 +56,10 @@
   background-size: 100%;
 }
 
+.navbar-toggler {
+  padding-left: 0 !important;
+}
+
 #search {
   position: relative;
   padding: 5px;
@@ -129,5 +133,24 @@
     position: absolute;
     left: 50%;
     transform: translate(-50%);
+  }
+}
+
+@media (max-width: 576px) {
+  .logo-header {
+    height: 30px !important;
+  }
+
+  .margin-movil {
+    margin-top: 15px;
+  }
+
+  #responsive-navbar-nav a.active::before {
+    width: 10%;
+    display: inline !important;
+  }
+
+  #responsive-navbar-nav a:hover::before {
+    width: 10%;
   }
 }

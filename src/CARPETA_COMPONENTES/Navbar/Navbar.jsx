@@ -23,7 +23,7 @@ function Menu() {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <div id="logo" className="order-md-1 flex-md-grow-1">
             <Link to={"/"}>
-              <img height="40" src={logo} alt="" />
+              <img className="logo-header" height="40" src={logo} alt="" />
             </Link>
           </div>
           <div className="order-md-2">
@@ -44,8 +44,10 @@ function Menu() {
             <Link
               className=" text-decoration-none text-white"
               onClick={() => setModalShow({ show: true })}>
-              <img className="perfil " src={User} alt="" />
-              <span className=" small ms-1">Iniciar Sesión</span>
+              <img className="perfil" src={User} alt="" />
+              <span className=" small ms-md-1 d-md-inline d-none">
+                Iniciar Sesión
+              </span>
               {/* <FontAwesomeIcon className="ms-3 user" icon={faUser} /> */}
             </Link>
           </div>
@@ -53,10 +55,12 @@ function Menu() {
             <Nav>
               <NavLink to={"/"} className="text-decoration-none me-3">
                 {/* // className={({ navlink }) => (navlink ? "active" : "")}> */}
-                <p className="text-uppercase mb-0">Inicio</p>
+                <p className="text-uppercase mb-0 margin-movil">Inicio</p>
               </NavLink>
               <NavLink to={"/Favoritas"} className="text-decoration-none">
-                <p className="text-uppercase mb-0">Mis Favoritas</p>
+                <p className="text-uppercase mb-0 margin-movil">
+                  Mis Favoritas
+                </p>
               </NavLink>
             </Nav>
           </Navbar.Collapse>
