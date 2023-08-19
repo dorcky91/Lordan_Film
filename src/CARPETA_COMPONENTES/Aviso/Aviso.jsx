@@ -846,7 +846,8 @@ function Aviso(props) {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Praesentium recusandae perferendis suscipit exercitationem,
                 corrupti officiis corporis? Minus quod voluptatum similique,
-                cum, impedit suscipit ad esse doloribus ab ratione dignissimos?
+                cum, impedit suscipit ad esse doloribus ab ratione dignissimos
+                ipsum?
               </li>
             </ol>
           </Modal.Body>

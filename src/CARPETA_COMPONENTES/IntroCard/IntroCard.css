@@ -102,3 +102,9 @@
 .item .btnFavorito {
   color: #e70a52;
 }
+
+.btn-like,
+.btn-share,
+.btn-download {
+  cursor: pointer;
+}

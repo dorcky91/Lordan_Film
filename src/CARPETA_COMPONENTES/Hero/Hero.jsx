@@ -49,7 +49,7 @@ function Hero({ slidesHero }) {
                   <Button className="btn-hero me-3">Ver Ahora</Button>
                   <Button className="btn-trailer">Trailer</Button>
                   <div className="mt-3">
-                    <span onClick={handlerLike}>
+                    <span className="btn-like" onClick={handlerLike}>
                       {isLiked ? (
                         <FontAwesomeIcon
                           icon={faHeart}
@@ -61,9 +61,12 @@ function Hero({ slidesHero }) {
                     </span>
                     <FontAwesomeIcon
                       icon={faShareNodes}
-                      className="me-3 fs-4"
+                      className="me-3 fs-4 btn-share"
                     />
-                    <FontAwesomeIcon icon={faDownload} className=" fs-4" />
+                    <FontAwesomeIcon
+                      icon={faDownload}
+                      className=" fs-4 btn-download"
+                    />
                   </div>
                 </Col>
               </Carousel.Caption>

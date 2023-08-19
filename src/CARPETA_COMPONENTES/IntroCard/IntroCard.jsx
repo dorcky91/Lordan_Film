@@ -5,7 +5,6 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Button from "react-bootstrap/Button";
 import Trailer from "../Trailer/Trailer";
-import Sesion from "../Sesion/Sesion";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faHeart,
@@ -15,7 +14,6 @@ import {
 import { Link } from "react-router-dom";
 
 function Peliculas({ id, tituloGeneral, subtituloGeneral, tarjetas }) {
-  const [index, setIndex] = useState(0);
   const [modalShow, setModalShow] = useState({ show: false, datos: null });
   const [isLiked, setIsliked] = useState(false);
   function handlerLike() {
@@ -67,7 +65,7 @@ function Peliculas({ id, tituloGeneral, subtituloGeneral, tarjetas }) {
                             Trailer
                           </Button>
                           <div className="mt-3">
-                            <span onClick={handlerLike}>
+                            <span className="btn-like" onClick={handlerLike}>
                               {isLiked ? (
                                 <FontAwesomeIcon
                                   icon={faHeart}
@@ -82,11 +80,11 @@ function Peliculas({ id, tituloGeneral, subtituloGeneral, tarjetas }) {
                             </span>
                             <FontAwesomeIcon
                               icon={faShareNodes}
-                              className="me-3 fs-5"
+                              className="me-3 fs-5 btn-share"
                             />
                             <FontAwesomeIcon
                               icon={faDownload}
-                              className=" fs-5"
+                              className=" fs-5 btn-download"
                             />
                           </div>
                         </Col>

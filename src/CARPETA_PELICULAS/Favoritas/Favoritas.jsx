@@ -4,9 +4,9 @@ export default function Favoritas() {
   return (
     <div className="container">
       <div className="pt-4">
-        <h1>Favoritas</h1>
+        <h1>Películas Favoritas</h1>
         <p className="text-center p-5">
-          Lista Favorita Vacía...Agregar Contenido.
+          La Lista Favorita Está Vacía...Agregar Contenido.
         </p>
       </div>
     </div>
