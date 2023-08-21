@@ -836,7 +836,7 @@ function Aviso(props) {
               </li>
               <li>
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Repudiandae in dicta, odit rerum tempore inventore?
+                Repudiandae in dicta, odit rerum tempor inventore?
               </li>
               <li>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
