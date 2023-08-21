@@ -15,23 +15,18 @@
 .item p {
   text-transform: none;
 }
-#novedades .item {
-  height: 300px;
-}
-
-#novedades img {
-  height: 100%;
-}
 
 #populares .item,
-#recomendadas .item {
+#recomendadas .item,
+#novedades .item {
   height: 300px;
   width: 100%;
   transition: 1s ease-in-out;
 }
 
 #populares img,
-#recomendadas img {
+#recomendadas img,
+#novedades img {
   height: 100%;
 }
 

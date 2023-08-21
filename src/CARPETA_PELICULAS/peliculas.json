@@ -671,12 +671,12 @@
       "titulo": "Infinite",
       "director": "Antoine Fuqua",
       "anio": 2021,
-      "portada": "https://www.cinepremiere.com.mx/wp-content/uploads/2021/08/maxresdefault-900x506.jpg",
+      "portada": "https://m.media-amazon.com/images/I/813TaddqLwL._AC_UF894,1000_QL80_.jpg",
       "duracion": "1h 46m",
       "sinopsis": "Las alucinaciones de un esquizofrénico se revelan como recuerdos de vidas pasadas, donde obtuvo talentos que mantiene en la actualidad."
     },
     {
-      "titulo": "Oxygen ",
+      "titulo": "Oxygen",
       "director": "  Alexandre Aja",
       "anio": 2021,
       "portada": "https://es.web.img2.acsta.net/videothumbnails/21/04/28/11/27/4872350.png",
@@ -684,7 +684,7 @@
       "sinopsis": "Una mujer se despierta en una unidad criogénica médica. No recuerda quién es ni cómo ha terminado encerrada en una caja no más grande que un ataúd. Mientras se queda sin oxígeno, debe reconstruir sus recuerdos para encontrar una salida a su pesadilla."
     },
     {
-      "titulo": "Moonfall ",
+      "titulo": "Moonfall",
       "director": "  Roland Emmerich",
       "anio": 2022,
       "portada": "https://i.blogs.es/e54a58/16435651899742/1366_2000.jpg",
@@ -751,10 +751,11 @@
       "titulo": "Looper",
       "director": "Rian Johnson",
       "anio": 2012,
-      "portada": "https://cdn.superaficionados.com/imagenes/25-looper-peliculas-ciencia-ficcion-cke.jpg",
+      "portada": "https://play-lh.googleusercontent.com/HFsDtiZko50hoRv4TbAWjKemgSmbg2JFR52tvknggxar1a-RsZZmAGmJgJV3tP6BuAAf3w",
       "duracion": "1h 59m",
       "sinopsis": "En el 2072, los asesinatos están prohibidos y los viajes en el tiempo existen, pero solo para aquellos que pueden pagarlos en el mercado negro. La mafia envía a sus víctimas al año 2042 para que unos sicarios, llamados loopers, los eliminen. Uno de estos loopers se lleva una sorpresa cuando le encargan asesinar a su yo de dentro de 30 años."
     },
+
     {
       "titulo": "Her",
       "director": "Spike Jonze",
@@ -763,6 +764,7 @@
       "duracion": "2h 6m",
       "sinopsis": "En Los Ángeles, un escritor desanimado desarrolla una especial relación amorosa con el sistema operativo de su computadora, una intuitiva y sensible entidad llamada Samantha."
     },
+
     {
       "titulo": "Gravity",
       "director": "Alfonso Cuarón",

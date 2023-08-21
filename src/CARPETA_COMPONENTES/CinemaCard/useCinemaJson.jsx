@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import ReactDOM from "react-dom";
 import { useLocation } from "react-router-dom";
-import ListaPelicula from "../../CARPETA_PELICULAS/Accion/Accion.json";
+import ListaPelicula from "../../CARPETA_PELICULAS/peliculas.json";
 
 const useCinemaJson = () => {
   const categoria = useLocation().pathname.replace("/", "");

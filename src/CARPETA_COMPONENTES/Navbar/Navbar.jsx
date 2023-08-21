@@ -7,7 +7,7 @@ import User from "../Navbar/user.png";
 import Navbar from "react-bootstrap/Navbar";
 import Sesion from "../Sesion/Sesion";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faMagnifyingGlass, faUser } from "@fortawesome/free-solid-svg-icons";
+import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
 // import "../CARPETA_COMPONENTES/Hero/Hero";
 import { Link, NavLink, useLocation } from "react-router-dom";
 
@@ -42,7 +42,7 @@ function Menu() {
               ""
             )}
             <Link
-              className=" text-decoration-none text-white"
+              className=" text-decoration-none text-white  ms-3"
               onClick={() => setModalShow({ show: true })}>
               <img className="perfil" src={User} alt="" />
               <span className=" small ms-md-1 d-md-inline d-none">
@@ -57,7 +57,10 @@ function Menu() {
                 {/* // className={({ navlink }) => (navlink ? "active" : "")}> */}
                 <p className="text-uppercase mb-0 margin-movil">Inicio</p>
               </NavLink>
-              <NavLink to={"/Favoritas"} className="text-decoration-none">
+              <NavLink
+                to={"/Favoritas"}
+                className="text-decoration-none"
+                onClick={() => setModalShow({ show: true })}>
                 <p className="text-uppercase mb-0 margin-movil">
                   Mis Favoritas
                 </p>

@@ -2,7 +2,7 @@ import React from "react";
 import Hero from "../../CARPETA_COMPONENTES/Hero/Hero";
 import slidefilm from "../../film.json";
 import IntroCard from "../../CARPETA_COMPONENTES/IntroCard/IntroCard";
-import ListaPelicula from "../DetallesPeliculas/DetallesPeliculas.json";
+import ListaPelicula from "../DetallesPeliculas/Detallespeliculas.json";
 
 function DetallesPeliculas() {
   $(document).ready(function () {

@@ -5,6 +5,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Button from "react-bootstrap/Button";
 import Trailer from "../Trailer/Trailer";
+import Sesion from "../Sesion/Sesion";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faHeart,
@@ -14,7 +15,14 @@ import {
 import { Link } from "react-router-dom";
 
 function Peliculas({ id, tituloGeneral, subtituloGeneral, tarjetas }) {
-  const [modalShow, setModalShow] = useState({ show: false, datos: null });
+  const [modalTrailerShow, setModalTrailerShow] = useState({
+    show: false,
+    datos: null,
+  });
+  const [modalSesionShow, setModalSesionShow] = useState({
+    show: false,
+    datos: null,
+  });
   const [isLiked, setIsliked] = useState(false);
   function handlerLike() {
     setIsliked(!isLiked);
@@ -47,13 +55,15 @@ function Peliculas({ id, tituloGeneral, subtituloGeneral, tarjetas }) {
                     <Container fluid>
                       <Row>
                         <Col className="text-start">
-                          <Button className="btn-hero btn-sm me-2">
+                          <Button
+                            className="btn-hero btn-sm me-2"
+                            onClick={() => setModalSesionShow({ show: true })}>
                             Ver Ahora
                           </Button>
                           <Button
                             className="bg-black btn-trailer btn-sm"
                             onClick={() =>
-                              setModalShow({
+                              setModalTrailerShow({
                                 show: true,
                                 datos: {
                                   tituloPelicula: tarjeta.titulo,
@@ -81,10 +91,12 @@ function Peliculas({ id, tituloGeneral, subtituloGeneral, tarjetas }) {
                             <FontAwesomeIcon
                               icon={faShareNodes}
                               className="me-3 fs-5 btn-share"
+                              onClick={() => setModalSesionShow({ show: true })}
                             />
                             <FontAwesomeIcon
                               icon={faDownload}
                               className=" fs-5 btn-download"
+                              onClick={() => setModalSesionShow({ show: true })}
                             />
                           </div>
                         </Col>
@@ -97,11 +109,14 @@ function Peliculas({ id, tituloGeneral, subtituloGeneral, tarjetas }) {
           </div>
         </div>
       </Container>
-
+      <Sesion
+        show={modalSesionShow.show}
+        onHide={() => setModalSesionShow({ show: false })}
+      />
       <Trailer
-        show={modalShow.show}
-        datos={modalShow.datos}
-        onHide={() => setModalShow({ show: false, datos: null })}
+        show={modalTrailerShow.show}
+        datos={modalTrailerShow.datos}
+        onHide={() => setModalTrailerShow({ show: false, datos: null })}
       />
     </>
   );

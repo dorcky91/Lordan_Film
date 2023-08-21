@@ -5,23 +5,70 @@
     "anio": 2021,
     "portada": "https://cdn.superaficionados.com/imagenes/mejores-peliculas-ciencia-ficcion-og.jpg",
     "descripcion": "Coproducción internacional de Estados Unidos, Reino Unido, Canadá y Hungría.",
-    "interval": 3000
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/718648335?h=d44227e9a7&autoplay=1&title=0&byline=0&portrait=0",
+    "enlacePelicula": ""
   },
+
+  {
+    "titulo": "Jumanji: Bienvenidos a la jungla",
+    "director": "Jake Kasdan",
+    "anio": 2017,
+    "portada": "https://ntvb.tmsimg.com/assets/p13499680_v_h10_ak.jpg?w=1280&h=720",
+    "descripcion": "Cuatro adolescentes encuentran un viejo videojuego que los absorbe y los transporta a una selva peligrosa, donde se convierten en personajes adultos y tienen que ir superando pruebas terribles para terminar el juego y regresar al mundo real.",
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/345480875?h=3f8209cabc&autoplay=1&title=0&byline=0&portrait=0"
+  },
+
   {
     "titulo": "Al filo del mañana",
     "director": "Doug Liman",
     "anio": 2014,
     "portada": "https://sm.ign.com/t/ign_es/screenshot/default/1366-2000-25_yqc4.1280.jpg",
     "descripcion": "William Cage, un soldado muerto en acción mientras combatía contra unos alienígenas que invadieron la Tierra.",
-    "interval": 3000
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/103737010?h=7f6a40720d&autoplay=1&color=ef4c26&title=0&byline=0&portrait=0"
   },
+
   {
-    "titulo": "Turno de día",
-    "director": "J.J. Perry",
-    "anio": 2022,
-    "portada": "https://okdiario.com/img/2022/09/02/turno-de-dia-netflix-655x368.jpg",
-    "descripcion": "Un padre que trabaja duro para mantener a su hija usa su anodino empleo como limpiador de piscinas.",
-    "interval": 3000
+    "titulo": "Jungle Cruise",
+    "director": "Jaume Collet-Serra",
+    "anio": 2021,
+    "portada": "https://m.media-amazon.com/images/M/MV5BYmM5Y2UzNGEtNzFmMS00MWVmLWEwZWQtNDJhMWFhYzAxN2YxXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+    "descripcion": "Película basada en el paseo en un parque temático de Disneyland donde un pequeño barco fluvial lleva a un grupo de viajeros a través de una jungla llena de peligrosos animales y reptiles, pero con un elemento sobrenatural.",
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/420051336?h=6ba2300baa&autoplay=1&color=3a3a3a&title=0&byline=0&portrait=0"
+  },
+
+  {
+    "titulo": "King Richard",
+    "director": "Reinaldo Marcus Green",
+    "anio": 2021,
+    "portada": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9e53bd727e43bc44ce9821f685a9cb032492718ad3c1682360d51a050fc3d1e5._RI_TTW_.jpg",
+    "descripcion": "Richard Williams ayudó a criar a dos de las deportistas más extraordinarias de todos los tiempos, dos atletas que acabarían cambiando para siempre el deporte del tenis. Sirviéndose de métodos poco convencionales, elaboró un plan que convertiría a Venus y Serena Williams en iconos legendarios.",
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/733875435?h=4316a94916&autoplay=1&title=0&byline=0&portrait=0"
+  },
+
+  {
+    "titulo": "La La Land",
+    "director": "Damien Chazelle",
+    "anio": 2016,
+    "portada": "https://seventhartstudio.com/wp-content/uploads/2017/02/La-La-Land-Image.jpg",
+    "duracion": "2h 8m",
+    "descripcion": "Mia y Sebastian son dos jóvenes que quieren abrirse camino en el mundo de Hollywood. Mia es una joven aspirante a actriz que trabaja como camarera mientras acude a castings y Sebastian toca el piano en bares. Un día sus caminos se cruzan e inmediatamente se enamoran.",
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/183324526?h=2a529b1390&autoplay=1&title=0&byline=0&portrait=0"
+  },
+
+  {
+    "titulo": "BAC Nord",
+    "director": "Cédric Jimenez",
+    "anio": 2020,
+    "portada": " https://media.revistagq.com/photos/6363be31bb13eee9d9ad0928/master/w_1280,h_720,c_limit/bac-nord.jpeg",
+    "descripcion": "Tres agentes del BAC Nord, una brigada anticrimen, buscan disminuir la criminalidad en los distritos del norte de Marsella.",
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/588605577?h=6feb835182&autoplay=1&byline=0&portrait=0"
   },
 
   {
@@ -30,7 +77,8 @@
     "anio": 2023,
     "portada": "https://lh3.googleusercontent.com/pw/AIL4fc9C_7OQrERQ-5M6ZUC0tuM40cG9btgpAnouVCyPnb0Xk8GUYEb9YzYKstV-z5x9839PdfCVmoHLtS30WyOgyuGJYhki3KS9Uy8NBsnT5_0qcge96wo=w1920-h1080",
     "descripcion": "El agente altamente entrenado, Tyler Rake, regresa del umbral de la muerte con otra peligrosa misión: rescatar a la familia de un mafioso despiadado.",
-    "interval": 3000
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/836806868?h=aaf0fbbcd9&autoplay=1&title=0&byline=0&portrait=0"
   },
 
   {
@@ -39,7 +87,18 @@
     "anio": 2023,
     "portada": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/07/1317575-scaled.jpeg?fit=1200%2C675&quality=50&strip=all&ssl=1",
     "descripcion": "Ethan debe detener a una inteligencia artificial que todas las potencias mundiales codician, la cual se ha vuelto tan poderosa que se rebeló contra sus creadores y ahora es una amenaza en sí misma.",
-    "interval": 3000
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/830476376?h=c976fea5fd&autoplay=1&color=ef4c26&title=0&byline=0&portrait=0"
+  },
+
+  {
+    "titulo": "Alerta roja",
+    "director": " Rawson Marshall Thurber",
+    "anio": 2021,
+    "portada": "https://hips.hearstapps.com/hmg-prod/images/alerta-roja-ftogramas-1634823584.jpg?crop=0.873xw:0.590xh;0.0529xw,0.0260xh&resize=1200:*",
+    "descripcion": "John Hartley, agente de la Interpol, no tendrá otro remedio que aliarse con el ladrón de arte más célebre de todos los tiempos, para capturar a la ladrona de arte más buscada del presente.",
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/672591472?h=d8c99a8262&autoplay=1&title=0&byline=0&portrait=0"
   },
 
   {
@@ -48,7 +107,18 @@
     "anio": 2023,
     "portada": "https://pasundan.jabarekspres.com/wp-content/uploads/2023/03/p_headline_bakal-tayang-akhir-maret-2023-netflix-k-48c149.jpg",
     "descripcion": "En el trabajo, es una asesina famosa. En casa, es madre soltera de una adolescente. Matar es fácil. Lo difícil es ser madre.",
-    "interval": 3000
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/822328775?h=29185519d9&autoplay=1&title=0&byline=0&portrait=0"
+  },
+
+  {
+    "titulo": "Ant-Man and the Wasp: Quantumania",
+    "director": "Peyton Reed",
+    "anio": 2023,
+    "portada": "https://super-ficcion.com/wp-content/uploads/2021/05/Ant-Man-and-The-Wasp.png",
+    "descripcion": "Los superhéroes Scott y Cassie Lang, Hope van Dyne y sus padres, se encuentran accidentalmente atrapados en el reino cuántico y deben enfrentarse a un nuevo enemigo, Kang el Conquistador.",
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/267703426?h=9caced77f2&autoplay=1&title=0&byline=0&portrait=0"
   },
 
   {
@@ -57,7 +127,18 @@
     "anio": 2004,
     "portada": "https://m.media-amazon.com/images/M/MV5BNTM2MTQxNDA0MF5BMl5BanBnXkFtZTgwMDg5MjgxMDI@._V1_.jpg",
     "descripcion": "Dos torpes agentes del FBI se hacen pasar por dos chicas de la alta sociedad para investigar una serie de secuestros.",
-    "interval": 3000
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/301273598?h=0fd7c0b606&autoplay=1&title=0&byline=0&portrait=0"
+  },
+
+  {
+    "titulo": "Mile 22",
+    "director": "Peter Berg",
+    "anio": 2018,
+    "portada": "https://www.lavanguardia.com/peliculas-series/images/movie/backdrop/2018/8/w1280/2nOMUnQ4OtsKVTmpp3og7MYt4oG.jpg",
+    "descripcion": "Un agente de la unidad más preciada y menos entendida de la CIA, con la ayuda de un equipo de comando táctico de alto secreto, debe recuperar y transportar a una agente con información ultrasecreta.",
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/269944637?h=8e67e6aeaf&autoplay=1&title=0&byline=0&portrait=0"
   },
 
   {
@@ -66,7 +147,18 @@
     "anio": 2005,
     "portada": "https://backend.fueradefoco.com.mx/wp-content/uploads/2020/08/virgen-a-los-40.jpg",
     "descripcion": "Tres compañeros de trabajo emprenden una misión de ayuda para que un nuevo amigo pierda la virginidad.",
-    "interval": 3000
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/599685470?h=ac847ec7b6&autoplay=1&color=ffffff&byline=0&portrait=0"
+  },
+
+  {
+    "titulo": "Fuerza Trueno",
+    "director": " Ben Falcone",
+    "anio": 2021,
+    "portada": "https://i.blogs.es/bd5685/patrulla-trueno-cartel/1366_2000.png",
+    "descripcion": "Dos mejores amigas de la infancia se reúnen como un dúo de superhéroes que luchan contra el crimen después de que una de ella inventa una fórmula que otorga superpoderes a la gente común.",
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/535780664?h=a4c2b3811e&autoplay=1&title=0&byline=0&portrait=0"
   },
 
   {
@@ -75,6 +167,38 @@
     "anio": 2012,
     "portada": "https://i.ytimg.com/vi/bWcVNC6bcE0/maxresdefault.jpg",
     "descripcion": "Cuando John Bennett era un niño pequeño, pidió el deseo de que Ted, su querido oso de peluche, cobrara vida. Treinta años más tarde, Ted continúa siendo el compañero de John, ante el disgusto de Lori, la novia de John.",
-    "interval": 3000
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/44287156?h=adf6fa8ba6&autoplay=1&color=ffffff&byline=0&portrait=0"
+  },
+
+  {
+    "titulo": "District 9",
+    "director": "Neill Blomkamp",
+    "anio": 2009,
+    "portada": "https://nosomosnonos.com/wp-content/uploads/2021/02/District-9-Sequel-District-10-Logo.jpg",
+    "descripcion": "Hace treinta años, los extraterrestres llegaron a la Tierra en busca de un refugio ante la muerte de su planeta. Separados de los humanos en un área de Sudáfrica llamada Distrito 9, los extraterrestres son manejados por Multi-National United.",
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/123971495?h=b4921e9d87&autoplay=1&color=ffffff&title=0&byline=0&portrait=0"
+  },
+
+  {
+    "titulo": "Looper",
+    "director": "Rian Johnson",
+    "anio": 2012,
+    "portada": "https://streamondemandathome.com/wp-content/uploads/2022/04/looper.jpg",
+    "descripcion": "En el 2072, los asesinatos están prohibidos y los viajes en el tiempo existen, pero solo para aquellos que pueden pagarlos en el mercado negro. La mafia envía a sus víctimas al año 2042 para que unos sicarios, llamados loopers, los eliminen.",
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/410396257?h=eb73564262&autoplay=1&title=0&byline=0&portrait=0"
+  },
+
+  {
+    "titulo": "La Torre Oscura",
+    "director": "Nikolaj Arcel",
+    "anio": 2017,
+    "portada": "https://hbomax-images.warnermediacdn.com/images/GYW1lTg0Q3ZCFaQEAAAEZ/tileburnedin?size=1280x720&partner=hbomaxcom&v=d85a4b516ef5d171c398b8b2faa7e7ea&host=art-gallery.api.hbo.com&language=es-es&w=1280",
+    "duracion": "1h 35m",
+    "descripcion": "Roland Deschain, el último pistolero, persigue a Walter O'Dim, quien pretende destruir la Torre Oscura, un edificio mágico cuya desaparición acarrearía la desintegración del universo.",
+    "interval": 3000,
+    "enlaceTrailer": "https://player.vimeo.com/video/569743772?h=f2e6069d92&autoplay=1&title=0&byline=0&portrait=0"
   }
 ]
