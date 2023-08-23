@@ -10,7 +10,6 @@ import Container from "react-bootstrap/esm/Container";
 import Aviso from "../Aviso/Aviso";
 import {
   faFacebook,
-  faGithub,
   faInstagram,
   faLinkedin,
   faWhatsapp,
@@ -132,14 +131,6 @@ function Footer() {
                 target="_blank"
                 to={"https://www.linkedin.com/in/orlando-appolon-863799151"}>
                 <FontAwesomeIcon icon={faLinkedin} className="fs-4" />
-              </Link>
-            </div>
-            <div className="contenedor-redes">
-              <Link
-                className="d-flex align-item-center justify-content-center"
-                target="_blank"
-                to={"https://github.com/dorcky91"}>
-                <FontAwesomeIcon icon={faGithub} className=" fs-4" />
               </Link>
             </div>
           </Col>
